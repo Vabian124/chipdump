@@ -1,12 +1,10 @@
-# Nested clones / upstream sources (prebuilt tools kept in melis-tools/)
+# Local clones / caches (not part of the published tree)
 allwinner-image-tool/
 d1s-melis-tools/
+extracted/
 melis-tools-windows-x86_64.zip
 
-# Partial / duplicate extract from early analysis
-extracted/
-
-# Intermediate pack artifacts (final flash image IS tracked)
+# Pack intermediates
 *.repacked
 _pack_tmp.bin
 
@@ -17,3 +15,4 @@ Desktop.ini
 *.swp
 .vscode/
 .idea/
+*~

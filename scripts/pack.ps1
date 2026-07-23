@@ -1,13 +1,7 @@
-# Pack .\unpacked into chipdump.modified.bin (16 MB flash image)
-#
-# NOTE: stock dump_tool.exe pack uses hardcoded GPT offsets from a different
-# F133 layout and also requires uart_debug_rx in sys_config.fex. This dump has
-# a larger bootA / smaller UDISK and only uart_debug_tx, so we:
-#   1) rebuild MinFS with dump_tool's companion logic via the already-extracted
-#      tree using a small Python packer when available, OR reuse
-#      2_ROOTFS.bin.repacked from a prior minfs pack
-#   2) splice ROOTFS at THIS dump's real flash offset 0x190000
-# boot0 / bootA / UDISK are left unchanged unless you edit them intentionally.
+# Pack unpacked/ → chipdump.modified.bin (16 MB)
+
+# dump_tool pack alone is unsafe on this dump (wrong GPT constants + uart_debug_rx).
+# We only use it to rebuild MinFS, then splice ROOTFS at flash 0x190000.
 
 $ErrorActionPreference = 'Stop'
 $Root = Split-Path -Parent $PSScriptRoot
@@ -24,50 +18,39 @@ $ExpectedSize = 16777216
 $RootfsFlash = 0x190000
 $RootfsSize = 14614528
 
-if (-not (Test-Path $Original)) { throw "chipdump.bin not found: $Original" }
-if (-not (Test-Path $RootfsOut)) { throw "ROOTFS extract not found: $RootfsOut" }
-if (-not (Test-Path $DumpTool)) { throw "dump_tool.exe not found: $DumpTool" }
-
-# Rebuild MinFS by invoking dump_tool pack in dry fashion is not available.
-# Use Python + the minfs crate is not exposed; call dump_tool through a
-# helper that only runs minfs pack by temporarily... 
-# Practical approach: use dump_tool pack and ignore failure after ROOTFS is written,
-# OR ship a tiny python packer. The prebuilt dump_tool always packs MinFS first
-# before failing on UART — so a failed pack still leaves 2_ROOTFS.bin.repacked.
-
-Write-Host "Rebuilding MinFS from $RootfsOut"
-Write-Host "(dump_tool may print a uart_debug_rx error on this dump — expected; MinFS still builds)"
-$packLog = & $DumpTool pack $Unpacked (Join-Path $Root '_pack_tmp.bin') 2>&1
-$packLog | ForEach-Object { Write-Host $_ }
-if (-not (Test-Path $RootfsRepacked)) {
-    throw "MinFS repack missing after dump_tool attempt: $RootfsRepacked"
+foreach ($p in @($Original, $RootfsOut, $DumpTool)) {
+    if (-not (Test-Path $p)) { throw "Missing: $p" }
 }
 
-Write-Host "Splicing ROOTFS into flash image at offset 0x$($RootfsFlash.ToString('X'))"
+Write-Host "Rebuilding MinFS from $RootfsOut"
+Write-Host "(A uart_debug_rx error from dump_tool is expected on this dump.)"
+& $DumpTool pack $Unpacked (Join-Path $Root '_pack_tmp.bin') 2>&1 | ForEach-Object { Write-Host $_ }
+if (-not (Test-Path $RootfsRepacked)) {
+    throw "MinFS repack missing: $RootfsRepacked"
+}
+
+Write-Host "Splicing ROOTFS at 0x$($RootfsFlash.ToString('X'))"
+$pyOriginal = $Original.Replace('\', '\\')
+$pyRepacked = $RootfsRepacked.Replace('\', '\\')
+$pyOutput = $Output.Replace('\', '\\')
+$pyRootfsBin = $RootfsBin.Replace('\', '\\')
 python -c @"
 from pathlib import Path
-ROOTFS_FLASH = $RootfsFlash
-ROOTFS_SIZE = $RootfsSize
-EXPECTED = $ExpectedSize
-chip = bytearray(Path(r'$($Original.Replace('\','\\'))').read_bytes())
+ROOTFS_FLASH, ROOTFS_SIZE, EXPECTED = $RootfsFlash, $RootfsSize, $ExpectedSize
+chip = bytearray(Path(r'$pyOriginal').read_bytes())
 assert len(chip) == EXPECTED
-repacked = Path(r'$($RootfsRepacked.Replace('\','\\'))').read_bytes()
-assert repacked.startswith(b'MINFS'), 'bad MinFS magic'
-assert len(repacked) <= ROOTFS_SIZE, len(repacked)
+repacked = Path(r'$pyRepacked').read_bytes()
+assert repacked.startswith(b'MINFS') and len(repacked) <= ROOTFS_SIZE
 part = bytearray(ROOTFS_SIZE)
 part[:len(repacked)] = repacked
-chip[ROOTFS_FLASH:ROOTFS_FLASH+ROOTFS_SIZE] = part
+chip[ROOTFS_FLASH:ROOTFS_FLASH + ROOTFS_SIZE] = part
 assert len(chip) == EXPECTED
-Path(r'$($Output.Replace('\','\\'))').write_bytes(chip)
-Path(r'$($RootfsBin.Replace('\','\\'))').write_bytes(bytes(part))
-print('Wrote', r'$($Output.Replace('\','\\'))', len(chip), 'bytes')
-print('ROOTFS payload', len(repacked), 'padded to', ROOTFS_SIZE)
+Path(r'$pyOutput').write_bytes(chip)
+Path(r'$pyRootfsBin').write_bytes(bytes(part))
+print('Wrote', r'$pyOutput', len(chip), 'bytes; ROOTFS payload', len(repacked))
 "@
 
 Remove-Item (Join-Path $Root '_pack_tmp.bin') -ErrorAction SilentlyContinue
-
 $size = (Get-Item $Output).Length
-if ($size -ne $ExpectedSize) {
-    throw "Expected $ExpectedSize bytes; got $size"
-}
-Write-Host "Size OK for XM25QH128C (16 MB). Flash: $Output"
+if ($size -ne $ExpectedSize) { throw "Expected $ExpectedSize bytes; got $size" }
+Write-Host "OK — flash: $Output"
