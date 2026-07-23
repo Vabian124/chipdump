@@ -1,0 +1,1098 @@
+;/****** decompiled from sys_config.bin ******/
+
+[product]
+version = "100"
+machine = "evb"
+
+[platform]
+eraseflag = 0
+debug_mode = 0
+
+[target]
+boot_clock = 1008
+storage_type = 3
+
+[power_sply]
+dcdc1_vol = 3000
+dcdc2_vol = 1200
+dcdc3_vol = 1200
+dcdc4_vol = 1200
+dcdc5_vol = 1500
+aldo2_vol = 1800
+aldo3_vol = 3000
+
+[card_boot]
+logical_start = 40960
+sprite_gpio0 = ; Type 5, len 1, words: [0]
+
+[pm_para]
+standby_mode = 1
+
+[card0_boot_para]
+card_ctrl = 0
+card_high_speed = 1
+card_line = 1
+sdc_d1 = port:PF00<2><1><default><default>
+sdc_d0 = port:PF01<2><1><default><default>
+sdc_clk = port:PF02<2><1><default><default>
+sdc_cmd = port:PF03<2><1><default><default>
+sdc_d3 = port:PF04<2><1><default><default>
+sdc_d2 = port:PF05<2><1><default><default>
+
+[card2_boot_para]
+card_ctrl = 2
+card_high_speed = 1
+card_line = 8
+sdc_clk = port:PF25<2><1><3><default>
+sdc_cmd = port:PF24<2><1><3><default>
+sdc_d0 = port:PF16<2><1><3><default>
+sdc_d1 = port:PF17<2><1><3><default>
+sdc_d2 = port:PF18<2><1><3><default>
+sdc_d3 = port:PF19<2><1><3><default>
+sdc_d4 = port:PF20<2><1><3><default>
+sdc_d5 = port:PF21<2><1><3><default>
+sdc_d6 = port:PF22<2><1><3><default>
+sdc_d7 = port:PF23<2><1><3><default>
+sdc_emmc_rst = port:PF31<2><1><3><default>
+sdc_ds = port:PF27<2><1><3><default>
+
+[twi_para]
+twi_port = 2
+twi_scl = port:PE12<2><default><default><default>
+twi_sda = port:PE13<2><default><default><default>
+
+[uart_para]
+uart_debug_port = 4
+uart_debug_baudrate = 576000
+uart_debug_tx = port:PB02<7><1><default><default>
+
+[jtag_para]
+jtag_enable = 0
+jtag_ms = port:PE04<7><default><default><default>
+jtag_ck = port:PE07<7><default><default><default>
+jtag_do = port:PE06<7><default><default><default>
+jtag_di = port:PE05<7><default><default><default>
+
+[clock]
+pll4 = 300
+pll6 = 600
+pll8 = 360
+pll9 = 297
+pll10 = 264
+
+[dram_para]
+dram_clk = 528
+dram_type = 2
+dram_zq = 8092665
+dram_odt_en = 0
+dram_para1 = 210
+dram_para2 = 0
+dram_mr0 = 3699
+dram_mr1 = 2
+dram_mr2 = 0
+dram_mr3 = 0
+dram_tpr0 = 4659602
+dram_tpr1 = 20029708
+dram_tpr2 = 356417
+dram_tpr3 = -1267173226
+dram_tpr4 = 0
+dram_tpr5 = 1212696648
+dram_tpr6 = 72
+dram_tpr7 = 371266078
+dram_tpr8 = 0
+dram_tpr9 = 0
+dram_tpr10 = 0
+dram_tpr11 = 196624
+dram_tpr12 = 53
+dram_tpr13 = 872415232
+
+[gmac0]
+gmac0_used = 1
+phy-mode = "rgmii"
+gmac_rxd3 = port:PA00<2><default><default><default>
+gmac_rxd2 = port:PA01<2><default><default><default>
+gmac_rxd1 = port:PA02<2><default><default><default>
+gmac_rxd0 = port:PA03<2><default><default><default>
+gmac_rxck = port:PA04<2><default><default><default>
+gmac_rxctl = port:PA05<2><default><default><default>
+gmac_clkin = port:PA06<2><default><default><default>
+gmac_txd3 = port:PA07<2><default><default><default>
+gmac_txd2 = port:PA08<2><default><default><default>
+gmac_txd1 = port:PA09<2><default><default><default>
+gmac_txd0 = port:PA10<2><default><default><default>
+gmac_txck = port:PA11<2><default><default><default>
+gmac_txctl = port:PA12<2><default><default><default>
+gmac_mdc = port:PA13<2><default><default><default>
+gmac_mdio = port:PA14<2><default><default><default>
+gmac_fpga1 = port:PA15<2><default><default><default>
+gmac_fpga2 = port:PA16<2><default><default><default>
+gmac_fpga3 = port:PA17<2><default><default><default>
+gmac_fpga4 = port:PA18<2><default><default><default>
+gmac_fpga5 = port:PA19<2><default><default><default>
+gmac_fpga7 = port:PA20<2><default><default><default>
+gmac_fpga8 = port:PA21<2><default><default><default>
+gmac_fpga9 = port:PA22<2><default><default><default>
+gmac_fpga10 = port:PA23<2><default><default><default>
+gmac_fpga11 = port:PA24<2><default><default><default>
+gmac_fpga12 = port:PA25<2><default><default><default>
+gmac_fpga13 = port:PA26<2><default><default><default>
+gmac_fpga14 = port:PA27<2><default><default><default>
+gmac_fpga15 = port:PA28<2><default><default><default>
+gmac_fpga16 = port:PA29<2><default><default><default>
+gmac_fpga17 = port:PA30<2><default><default><default>
+gmac_fpga18 = port:PA31<2><default><default><default>
+gmac-power0 = ""
+gmac-power1 = ""
+gmac-power2 = ""
+tx-delay = 0
+rx-delay = 0
+
+[twi0]
+twi0_scl = port:PB03<4><1><default><default>
+twi0_sda = port:PB02<4><1><default><default>
+
+[twi1]
+twi1_scl = port:PG14<4><1><default><default>
+twi1_sda = port:PB04<4><1><default><default>
+
+[twi2]
+twi2_scl = port:PE12<2><1><default><default>
+twi2_sda = port:PE13<2><1><default><default>
+
+[twi3]
+twi3_scl = port:PG10<3><1><default><default>
+twi3_sda = port:PG11<3><1><default><default>
+
+[uart0]
+
+[uart1]
+uart_tx = port:PG12<7><1><default><default>
+uart_rx = port:PG13<7><1><default><default>
+
+[uart2]
+
+[uart3]
+uart_tx = port:PB06<7><1><default><default>
+uart_rx = port:PB07<7><1><default><default>
+
+[uart4]
+
+[spi0]
+spi0_sclk = port:PC02<2><0><2><default>
+spi0_cs = port:PC03<2><1><2><default>
+spi0_mosi = port:PC04<2><0><2><default>
+spi0_miso = port:PC05<2><0><2><default>
+spi0_wp = port:PC06<2><0><2><default>
+spi0_hold = port:PC07<2><0><2><default>
+
+[spinor_para]
+spi_sclk = port:PC02<2><0><2><default>
+spi_cs = port:PC03<2><1><2><default>
+spi0_mosi = port:PC04<2><0><2><default>
+spi0_miso = port:PC05<2><0><2><default>
+spi0_wp = port:PC06<2><0><2><default>
+spi0_hold = port:PC07<2><0><2><default>
+
+[gpadc]
+gpadc_used = 0
+channel_num = 1
+channel_select = 1
+channel_data_select = 0
+channel_compare_select = 1
+channel_cld_select = 1
+channel_chd_select = 0
+channel0_compare_lowdata = 1700000
+channel0_compare_higdata = 1200000
+key_cnt = 5
+key0_vol = 115
+key0_val = 115
+key1_vol = 240
+key1_val = 114
+key2_vol = 360
+key2_val = 139
+key3_vol = 480
+key3_val = 28
+key4_vol = 600
+key4_val = 102
+
+[rtp_para]
+rtp_used = 0
+rtp_screen_size = 5
+rtp_regidity_level = 5
+rtp_press_threshold_enable = 0
+rtp_press_threshold = 8000
+rtp_sensitive_level = 15
+rtp_exchange_x_y_flag = 0
+
+[ctp_para]
+ctp_used = 1
+ctp_twi_id = 3
+ctp_twi_addr = 93
+ctp_twi_freq = 32768
+ctp_screen_max_x = 1024
+ctp_screen_max_y = 600
+ctp_touch_max_x = 800
+ctp_touch_max_y = 480
+ctp_revert_x_flag = 0
+ctp_revert_y_flag = 0
+ctp_exchange_x_y_flag = 0
+ctp_int_port = port:PG07<14><2><default><default>
+ctp_wakeup = port:PG08<1><default><default><1>
+
+[tkey_para]
+tkey_used = 0
+tkey_twi_id = ; Type 5, len 1, words: [0]
+tkey_twi_addr = ; Type 5, len 1, words: [0]
+tkey_int = ; Type 5, len 1, words: [0]
+
+[sdcard_global]
+used_card_no = 1
+internal_card = 0
+
+[sdc0det_para]
+detect_pin = port:PF06<0><1><1><default>
+
+[sdc0]
+sdc0_used = 1
+bus-width = 1
+card_high_speed = 40
+sdc0_d1 = port:PF00<2><1><1><default>
+sdc0_d0 = port:PF01<2><1><1><default>
+sdc0_clk = port:PF02<2><1><1><default>
+sdc0_cmd = port:PF03<2><1><1><default>
+sdc0_d3 = port:PF04<2><1><1><default>
+sdc0_d2 = port:PF05<2><1><1><default>
+
+[sdc1]
+sdc1_clk = port:PG00<2><1><1><default>
+sdc1_cmd = port:PG01<2><1><1><default>
+sdc1_d0 = port:PG02<2><1><1><default>
+sdc1_d1 = port:PG03<2><1><1><default>
+sdc1_d2 = port:PG04<2><1><1><default>
+sdc1_d3 = port:PG05<2><1><1><default>
+
+[motor_para]
+motor_used = 1
+motor_shake = port:POWER03<1><default><default><1>
+
+[nand0_para]
+nand_support_2ch = 0
+nand0_used = 1
+nand0_we = port:PC00<2><0><1><default>
+nand0_ale = port:PC01<2><0><1><default>
+nand0_cle = port:PC02<2><0><1><default>
+nand0_ce0 = port:PC03<2><1><1><default>
+nand0_nre = port:PC04<2><0><1><default>
+nand0_rb0 = port:PC05<2><1><1><default>
+nand0_d0 = port:PC06<2><0><1><default>
+nand0_d1 = port:PC07<2><0><1><default>
+nand0_d2 = port:PC08<2><0><1><default>
+nand0_d3 = port:PC09<2><0><1><default>
+nand0_d4 = port:PC10<2><0><1><default>
+nand0_d5 = port:PC11<2><0><1><default>
+nand0_d6 = port:PC12<2><0><1><default>
+nand0_d7 = port:PC13<2><0><1><default>
+nand0_ndqs = port:PC14<2><0><1><default>
+nand0_ce1 = port:PC15<2><1><1><default>
+nand0_rb1 = port:PC16<2><1><1><default>
+nand0_regulator1 = "vcc-nand"
+nand0_regulator2 = "none"
+nand0_cache_level = 1437248085
+nand0_flush_cache_num = 1437248085
+nand0_capacity_level = 1437248085
+nand0_id_number_ctl = 1437248085
+nand0_print_level = 1437248085
+nand0_p0 = 1437248085
+nand0_p1 = 1437248085
+nand0_p2 = 1437248085
+nand0_p3 = 1437248085
+(11:PAL 12:PAL-SVIDEO 13:NTSC 1 = 1
+
+[disp]
+disp_init_enable = 1
+disp_mode = 0
+screen0_output_type = 1
+screen0_output_mode = 4
+screen0_output_format = 1
+screen0_output_bits = 0
+screen0_output_eotf = 4
+screen0_output_cs = 257
+screen0_output_dvi_hdmi = 2
+screen0_output_range = 2
+screen0_output_scan = 0
+screen0_output_aspect_ratio = 8
+screen1_output_type = 2
+screen1_output_mode = 11
+screen1_output_format = 1
+screen1_output_bits = 0
+screen1_output_eotf = 4
+screen1_output_cs = 260
+screen1_output_dvi_hdmi = 2
+screen1_output_range = 2
+screen1_output_scan = 0
+screen1_output_aspect_ratio = 8
+fb0_format = 0
+fb0_width = 0
+fb0_height = 0
+fb1_format = 0
+fb1_width = 0
+fb1_height = 0
+lcd0_backlight = 50
+lcd1_backlight = 50
+lcd0_bright = 50
+lcd0_contrast = 50
+lcd0_saturation = 57
+lcd0_hue = 50
+lcd1_bright = 50
+lcd1_contrast = 50
+lcd1_saturation = 57
+lcd1_hue = 50
+
+[hdmi]
+hdmi_used = 1
+hdmi_power = "vcc3v3-hdmi"
+hdmi_hdcp_enable = 0
+hdmi_hdcp22_enable = 0
+hdmi_cts_compatibility = 1
+hdmi_cec_support = 1
+hdmi_cec_super_standby = 0
+hdmi_skip_bootedid = 1
+ddc_scl = port:PH13<3><default><1><default>
+ddc_sda = port:PH14<3><default><1><default>
+cec_io = port:PH15<3><default><1><default>
+ddc_en_io_ctrl = 0
+ddc_io_ctrl = port:PH02<1><default><default><0>
+power_io_ctrl = 0
+power_en_io = port:PL04<1><default><default><1>
+
+[lcd0]
+lcd_used = 1
+sk_lcd_id = 32
+lcd_driver_name = "he0801a068"
+lcd_backlight = 150
+lcd_if = 4
+lcd_x = 1024
+lcd_y = 600
+lcd_width = 150
+lcd_height = 94
+lcd_rb_swap = 0
+lcd_dclk_freq = 51
+lcd_pwm_used = 1
+lcd_pwm_ch = 7
+lcd_pwm_freq = 50000
+lcd_pwm_pol = 1
+lcd_hbp = 136
+lcd_ht = 1344
+lcd_hspw = 24
+lcd_vbp = 21
+lcd_vt = 635
+lcd_vspw = 2
+lcd_lvds_if = 0
+lcd_lvds_colordepth = 0
+lcd_lvds_mode = 0
+lcd_frm = 1
+lcd_io_phase = 0
+lcd_gamma_en = 0
+lcd_bright_curve_en = 0
+lcd_cmap_en = 0
+deu_mode = 0
+lcdgamma4iep = 22
+smart_color = 90
+lcd_lvds_if = 0
+lcd_lvds_colordepth = 0
+lcd_lvds_mode = 0
+lcd_dsi_if = 0
+lcd_dsi_lane = 4
+lcd_dsi_format = 0
+lcd_dsi_te = 0
+lcd_bl_en = port:PG15<1><0><default><1>
+lcd_power = port:POWER02<1><0><default><1>
+lcd_gpio_0 = port:PD00<4><0><default><default>
+lcd_gpio_1 = port:PD01<4><0><default><default>
+lcd_gpio_2 = port:PD02<4><0><default><default>
+lcd_gpio_3 = port:PD03<4><0><default><default>
+lcd_gpio_4 = port:PD04<4><0><default><default>
+lcd_gpio_5 = port:PD05<4><0><default><default>
+lcd_gpio_6 = port:PD06<4><0><default><default>
+lcd_gpio_7 = port:PD07<4><0><default><default>
+lcd_gpio_8 = port:PD08<4><0><default><default>
+lcd_gpio_9 = port:PD09<4><0><default><default>
+
+[vdpo0]
+used = 1
+protocol = 0
+separate_sync = 1
+output_width = 1
+data_seq_sel = 0
+dclk_invt = 0
+dclk_dly_num = 0
+spl_type_u = 2
+spl_type_v = 2
+vo_d0 = port:PD01<4><0><default><default>
+vo_d1 = port:PD02<4><0><default><default>
+vo_d2 = port:PD03<4><0><default><default>
+vo_d3 = port:PD04<4><0><default><default>
+vo_d4 = port:PD05<4><0><default><default>
+vo_d5 = port:PD06<4><0><default><default>
+vo_d6 = port:PD07<4><0><default><default>
+vo_d7 = port:PD08<4><0><default><default>
+vo_d8 = port:PD10<4><0><default><default>
+vo_d9 = port:PD11<4><0><default><default>
+vo_d10 = port:PD12<4><0><default><default>
+vo_d11 = port:PD13<4><0><default><default>
+vo_d12 = port:PD14<4><0><default><default>
+vo_d13 = port:PD15<4><0><default><default>
+vo_d14 = port:PD16<4><0><default><default>
+vo_d15 = port:PD17<4><0><default><default>
+vo_clk = port:PD18<4><0><default><default>
+vo_de = port:PD19<4><0><default><default>
+vo_hs = port:PD20<4><0><default><default>
+vo_vs = port:PD21<4><0><default><default>
+
+[vdpo0_suspend]
+vo_d0 = port:PD01<7><0><default><default>
+vo_d1 = port:PD02<7><0><default><default>
+vo_d2 = port:PD03<7><0><default><default>
+vo_d3 = port:PD04<7><0><default><default>
+vo_d4 = port:PD05<7><0><default><default>
+vo_d5 = port:PD06<7><0><default><default>
+vo_d6 = port:PD07<7><0><default><default>
+vo_d7 = port:PD08<7><0><default><default>
+vo_d8 = port:PD10<7><0><default><default>
+vo_d9 = port:PD11<7><0><default><default>
+vo_d10 = port:PD12<7><0><default><default>
+vo_d11 = port:PD13<7><0><default><default>
+vo_d12 = port:PD14<7><0><default><default>
+vo_d13 = port:PD15<7><0><default><default>
+vo_d14 = port:PD16<7><0><default><default>
+vo_d15 = port:PD17<7><0><default><default>
+vo_clk = port:PD18<7><0><default><default>
+vo_de = port:PD19<7><0><default><default>
+vo_hs = port:PD20<7><0><default><default>
+vo_vs = port:PD21<7><0><default><default>
+
+[tv0]
+used = 1
+dac_src0 = 0
+dac_type0 = 0
+interface = 1
+status = "okay"
+
+[vcom]
+vcom_pwm_ch = 1
+vcom_pwm_freq = 50000
+
+[pwm0]
+pwm_pin = port:PD16<5><default><default><default>
+
+[pwm1]
+pwm_positive = port:PG06<5><default><default><default>
+
+[pwm2]
+pwm_pin = port:PE08<4><default><default><default>
+
+[pwm3]
+pwm_positive = port:PE09<4><default><default><default>
+
+[pwm4]
+pwm_pin = port:PD05<3><default><default><default>
+
+[pwm5]
+pwm_positive = port:PD06<3><default><default><default>
+
+[pwm6]
+pwm6_pin = port:PD07<3><default><default><default>
+
+[pwm7]
+pwm_positive = port:PD22<5><0><default><default>
+
+[spwm0]
+s_pwm0_used = 0
+pwm_positive = port:PL10<2><0><default><default>
+
+[spwm0_suspend]
+pwm_positive = port:PL10<7><0><default><default>
+
+[vind0]
+vind0_used = 1
+vind0_clk = 336000000
+vind0_isp = 322000000
+
+[vind0/csi0]
+csi0_used = 1
+csi0_pck = port:PE02<2><default><default><default>
+csi0_hsync = port:PE00<2><default><default><default>
+csi0_vsync = port:PE01<2><default><default><default>
+csi0_d0 = port:PE04<2><default><default><default>
+csi0_d1 = port:PE05<2><default><default><default>
+csi0_d2 = port:PE06<2><default><default><default>
+csi0_d3 = port:PE07<2><default><default><default>
+csi0_d4 = port:PE08<2><default><default><default>
+csi0_d5 = port:PE09<2><default><default><default>
+csi0_d6 = port:PE10<2><default><default><default>
+csi0_d7 = port:PE11<2><default><default><default>
+
+[vind0/flash0]
+flash0_used = 0
+flash0_type = 2
+flash0_en = ; Type 5, len 1, words: [0]
+flash0_mode = ; Type 5, len 1, words: [0]
+flash0_flvdd = ""
+flash0_flvdd_vol = ; Type 5, len 1, words: [0]
+
+[vind0/actuator0]
+actuator0_used = 0
+actuator0_name = "ad5820_act"
+actuator0_slave = 24
+actuator0_af_pwdn = ; Type 5, len 1, words: [0]
+actuator0_afvdd = "afvcc-csi"
+actuator0_afvdd_vol = 2800000
+
+[vind0/sensor0]
+sensor0_used = 0
+sensor0_mname = "tp9950"
+sensor0_twi_cci_id = 2
+sensor0_twi_addr = 136
+sensor0_mclk_id = 0
+sensor0_pos = "rear"
+sensor0_isp_used = 0
+sensor0_fmt = 0
+sensor0_stby_mode = 1
+sensor0_vflip = 0
+sensor0_hflip = 0
+sensor0_iovdd = "iovdd-csi"
+sensor0_iovdd_vol = 2800000
+sensor0_avdd = "avdd-csi"
+sensor0_avdd_vol = 2800000
+sensor0_dvdd = "dvdd-csi-18"
+sensor0_dvdd_vol = 1800000
+sensor0_power_en = ; Type 5, len 1, words: [0]
+sensor0_reset = port:PG09<1><1><1><0>
+sensor0_pwdn = port:PG01<0><0><1><0>
+
+[vind0/sensor1]
+sensor1_used = 1
+sensor1_mname = "ov5647"
+sensor1_twi_cci_id = 1
+sensor1_twi_addr = 108
+sensor1_mclk_id = 1
+sensor1_pos = "front"
+sensor1_isp_used = 0
+sensor1_fmt = 0
+sensor1_stby_mode = 1
+sensor1_vflip = 0
+sensor1_hflip = 0
+sensor1_iovdd = "iovdd-csi"
+sensor1_iovdd_vol = 2800000
+sensor1_avdd = "avdd-csi"
+sensor1_avdd_vol = 2800000
+sensor1_dvdd = "dvdd-csi-18"
+sensor1_dvdd_vol = 1800000
+sensor1_power_en = ; Type 5, len 1, words: [0]
+sensor1_reset = port:PE14<0><0><1><0>
+sensor1_pwdn = port:PE15<0><0><1><0>
+
+[vind0/vinc0]
+vinc0_used = 1
+vinc0_csi_sel = 0
+vinc0_mipi_sel = 255
+vinc0_isp_sel = 0
+vinc0_rear_sensor_sel = 0
+vinc0_front_sensor_sel = 0
+vinc0_sensor_list = 0
+
+[vind0/vinc1]
+vinc1_used = 0
+vinc1_csi_sel = 1
+vinc1_mipi_sel = 255
+vinc1_isp_sel = 0
+vinc1_rear_sensor_sel = 0
+vinc1_front_sensor_sel = 0
+vinc1_sensor_list = 0
+
+[vind0/vinc2]
+vinc2_used = 0
+vinc2_csi_sel = 0
+vinc2_mipi_sel = 0
+vinc2_isp_sel = 0
+vinc2_rear_sensor_sel = 0
+vinc2_front_sensor_sel = 0
+vinc2_sensor_list = 0
+
+[vind0/vinc3]
+vinc3_used = 0
+vinc3_csi_sel = 0
+vinc3_mipi_sel = 0
+vinc3_isp_sel = 0
+vinc3_rear_sensor_sel = 0
+vinc3_front_sensor_sel = 0
+vinc3_sensor_list = 0
+
+[tvout_para]
+tvout_used = ; Type 5, len 1, words: [0]
+tvout_channel_num = ; Type 5, len 1, words: [0]
+tv_en = ; Type 5, len 1, words: [0]
+
+[tvin_para]
+tvin_used = ; Type 5, len 1, words: [0]
+tvin_channel_num = ; Type 5, len 1, words: [0]
+
+[mmc0_para]
+sdc_used = 1
+sdc_detmode = 4
+sdc_buswidth = 4
+sdc_d1 = port:PF00<2><1><2><default>
+sdc_d0 = port:PF01<2><1><2><default>
+sdc_clk = port:PF02<2><1><2><default>
+sdc_cmd = port:PF03<2><1><2><default>
+sdc_d3 = port:PF04<2><1><2><default>
+sdc_d2 = port:PF05<2><1><2><default>
+sdc_use_wp = 0
+sdc_wp = ; Type 5, len 1, words: [0]
+sdc_isio = 0
+sdc_regulator = "none"
+
+[mmc1_para]
+sdc_used = 0
+sdc_detmode = 4
+sdc_buswidth = 4
+sdc_clk = port:PG00<2><1><2><default>
+sdc_cmd = port:PG01<2><1><2><default>
+sdc_d0 = port:PG02<2><1><2><default>
+sdc_d1 = port:PG03<2><1><2><default>
+sdc_d2 = port:PG04<2><1><2><default>
+sdc_d3 = port:PG05<2><1><2><default>
+sdc_det = ; Type 5, len 1, words: [0]
+sdc_use_wp = 0
+sdc_wp = ; Type 5, len 1, words: [0]
+sdc_isio = 1
+sdc_regulator = "none"
+
+[mmc2_para]
+sdc_used = 0
+sdc_detmode = 3
+sdc_buswidth = 8
+sdc_clk = port:PC05<3><1><2><default>
+sdc_cmd = port:PC06<3><1><2><default>
+sdc_d0 = port:PC08<3><1><2><default>
+sdc_d1 = port:PC09<3><1><2><default>
+sdc_d2 = port:PC10<3><1><2><default>
+sdc_d3 = port:PC11<3><1><2><default>
+sdc_d4 = port:PC12<3><1><2><default>
+sdc_d5 = port:PC13<3><1><2><default>
+sdc_d6 = port:PC14<3><1><2><default>
+sdc_d7 = port:PC15<3><1><2><default>
+emmc_rst = port:PC16<3><1><2><default>
+sdc_det = ; Type 5, len 1, words: [0]
+sdc_use_wp = 0
+sdc_wp = ; Type 5, len 1, words: [0]
+sdc_isio = 0
+sdc_regulator = "none"
+
+[mmc3_para]
+sdc_used = 0
+sdc_detmode = 2
+sdc_buswidth = 4
+sdc_clk = port:PA10<2><1><2><default>
+sdc_cmd = port:PA09<2><1><2><default>
+sdc_d0 = port:PA11<2><1><2><default>
+sdc_d1 = port:PA12<2><1><2><default>
+sdc_d2 = port:PA13<2><1><2><default>
+sdc_d3 = port:PA14<2><1><2><default>
+sdc_det = ; Type 5, len 1, words: [0]
+sdc_use_wp = 0
+sdc_wp = ; Type 5, len 1, words: [0]
+sdc_isio = 0
+sdc_regulator = "none"
+
+[smc_para]
+smc_used = ; Type 5, len 1, words: [0]
+smc_rst = ; Type 5, len 1, words: [0]
+smc_vppen = ; Type 5, len 1, words: [0]
+smc_vppp = ; Type 5, len 1, words: [0]
+smc_det = ; Type 5, len 1, words: [0]
+smc_vccen = ; Type 5, len 1, words: [0]
+smc_sck = ; Type 5, len 1, words: [0]
+smc_sda = ; Type 5, len 1, words: [0]
+
+[usbc0]
+usb_used = 1
+usb_port_type = 1
+usb_detect_type = 0
+usb_detect_mode = 0
+usb_drv_vbus_type = 1
+usb_host_init_state = 0
+usb_restric_flag = 0
+usb_restric_voltage = 3550000
+usb_restric_capacity = 5
+usbh_driver_level = 5
+usbd_driver_level = 5
+usbd_irq_flag = 0
+usbh_irq_flag = 0
+
+[usbc1]
+usb_used = 1
+usb_port_type = 1
+usb_drv_vbus_gpio = port:PB03<1><0><default><0>
+usb_drv_vbus_type = 1
+usbh_driver_level = 5
+usbh_irq_flag = 0
+
+[usbc2]
+usb_used = 0
+usb_port_type = 1
+usb_detect_type = 0
+usb_id_gpio = ; Type 5, len 1, words: [0]
+usb_det_vbus_gpio = ; Type 5, len 1, words: [0]
+usb_drv_vbus_gpio = ; Type 5, len 1, words: [0]
+usb_restrict_gpio = ; Type 5, len 1, words: [0]
+usb_host_init_state = 1
+usb_restric_flag = 0
+
+[usb_feature]
+vendor_id = 6353
+mass_storage_id = 1
+adb_id = 2
+manufacturer_name = "USB Developer"
+product_name = "Android"
+serial_number = "20080411"
+
+[msc_feature]
+vendor_name = "USB 2.0"
+product_name = "USB Flash Driver"
+release = 100
+luns = 3
+
+[serial_feature]
+serial_unique = 0
+
+[gsensor_para]
+gsensor_used = 1
+gsensor_twi_id = 2
+gsensor_twi_addr = 24
+gsensor_int1 = port:PA09<6><1><default><default>
+gsensor_int2 = ; Type 5, len 1, words: [0]
+
+[gps_para]
+
+[wifi_para]
+wifi_used = 1
+wifi_sdc_id = 1
+wifi_usbc_id = 1
+wifi_usbc_type = 1
+wifi_mod_sel = 3
+wifi_power = "axp22_aldo1"
+
+[3g_para]
+3g_used = 0
+3g_usbc_num = 2
+3g_uart_num = 0
+bb_vbat = port:PL03<1><default><default><0>
+bb_host_wake = port:PM00<1><default><default><0>
+bb_on = port:PM01<1><default><default><0>
+bb_pwr_on = port:PM03<1><default><default><0>
+bb_wake = port:PM04<1><default><default><0>
+bb_rf_dis = port:PM05<1><default><default><0>
+bb_rst = port:PM06<1><default><default><0>
+3g_int = ; Type 5, len 1, words: [0]
+
+[gy_para]
+gy_used = 1
+gy_twi_id = 2
+gy_twi_addr = 106
+gy_int1 = port:PA10<6><1><default><default>
+gy_int2 = ; Type 5, len 1, words: [0]
+
+[ls_para]
+ls_used = 1
+ls_twi_id = 2
+ls_twi_addr = 35
+ls_int = port:PA12<6><1><default><default>
+
+[compass_para]
+compass_used = 1
+compass_twi_id = 2
+compass_twi_addr = 13
+compass_int = port:PA11<6><1><default><default>
+
+[bt_para]
+bt_used = ; Type 5, len 1, words: [0]
+bt_uart_id = ; Type 5, len 1, words: [0]
+bt_wakeup = ; Type 5, len 1, words: [0]
+bt_gpio = ; Type 5, len 1, words: [0]
+bt_rst = ; Type 5, len 1, words: [0]
+
+[sndcodec]
+sndcodec_used = 0
+
+[cpudai]
+cpudai_used = 0
+
+[codec]
+codec_used = 0
+digital_vol = 0
+lineout_vol = 26
+mic1gain = 4
+mic2gain = 4
+mic3gain = 4
+adcgain = 3
+adcdrc_cfg = 0
+adchpf_cfg = 0
+dacdrc_cfg = 0
+dachpf_cfg = 0
+pa_ctl_level = 1
+pa_msleep_time = 160
+gpio-spk = port:PH09<1><1><1><1>
+
+[s_cir0]
+s_cir0_used = 0
+ir_protocol_used = 0
+ir_power_key_code0 = 87
+ir_addr_code0 = 40704
+ir_addr_cnt = 1
+
+[cir]
+
+[ir_code]
+home = 0
+return = 66
+menu = 67
+setup = 15
+volup = 12
+voldown = 8
+mute = 5
+up = 13
+down = 21
+left = 16
+right = 18
+enter = 20
+
+[pmu1_para]
+pmu_used = 1
+pmu_twi_addr = 52
+pmu_twi_id = 1
+pmu_irq_id = 0
+pmu_battery_rdc = 100
+pmu_battery_cap = 0
+pmu_batdeten = 1
+pmu_runtime_chgcur = 450
+pmu_earlysuspend_chgcur = 900
+pmu_suspend_chgcur = 1500
+pmu_shutdown_chgcur = 1500
+pmu_init_chgvol = 4200
+pmu_init_chgend_rate = 15
+pmu_init_chg_enabled = 1
+pmu_init_adc_freq = 800
+pmu_init_adcts_freq = 800
+pmu_init_chg_pretime = 70
+pmu_init_chg_csttime = 720
+pmu_batt_cap_correct = 1
+pmu_bat_regu_en = 0
+pmu_bat_para1 = 0
+pmu_bat_para2 = 0
+pmu_bat_para3 = 0
+pmu_bat_para4 = 0
+pmu_bat_para5 = 0
+pmu_bat_para6 = 0
+pmu_bat_para7 = 0
+pmu_bat_para8 = 0
+pmu_bat_para9 = 5
+pmu_bat_para10 = 8
+pmu_bat_para11 = 9
+pmu_bat_para12 = 10
+pmu_bat_para13 = 13
+pmu_bat_para14 = 16
+pmu_bat_para15 = 20
+pmu_bat_para16 = 33
+pmu_bat_para17 = 41
+pmu_bat_para18 = 46
+pmu_bat_para19 = 50
+pmu_bat_para20 = 53
+pmu_bat_para21 = 57
+pmu_bat_para22 = 61
+pmu_bat_para23 = 67
+pmu_bat_para24 = 73
+pmu_bat_para25 = 78
+pmu_bat_para26 = 84
+pmu_bat_para27 = 88
+pmu_bat_para28 = 92
+pmu_bat_para29 = 93
+pmu_bat_para30 = 94
+pmu_bat_para31 = 95
+pmu_bat_para32 = 100
+pmu_usbvol_limit = 0
+pmu_usbcur_limit = 0
+pmu_usbvol = 4000
+pmu_usbcur = 0
+pmu_usbvol_pc = 4400
+pmu_usbcur_pc = 500
+pmu_pwroff_vol = 3300
+pmu_pwron_vol = 2600
+pmu_pekoff_time = 6000
+pmu_pekoff_func = 0
+pmu_pekoff_en = 1
+pmu_pekoff_delay_time = 0
+pmu_peklong_time = 1500
+pmu_pekon_time = 1000
+pmu_pwrok_time = 64
+pmu_pwrok_shutdown_en = 0
+pmu_battery_warning_level1 = 15
+pmu_battery_warning_level2 = 0
+pmu_restvol_adjust_time = 60
+pmu_ocv_cou_adjust_time = 60
+pmu_chgled_func = 0
+pmu_chgled_type = 0
+pmu_vbusen_func = 1
+pmu_reset = 0
+pmu_IRQ_wakeup = 0
+pmu_hot_shutdowm = 1
+pmu_inshort = 0
+power_start = 0
+pmu_temp_enable = 0
+pmu_charge_ltf = 2261
+pmu_charge_htf = 388
+pmu_discharge_ltf = 3200
+pmu_discharge_htf = 237
+pmu_temp_para1 = 7466
+pmu_temp_para2 = 4480
+pmu_temp_para3 = 3518
+pmu_temp_para4 = 2786
+pmu_temp_para5 = 2223
+pmu_temp_para6 = 1788
+pmu_temp_para7 = 1448
+pmu_temp_para8 = 969
+pmu_temp_para9 = 664
+pmu_temp_para10 = 466
+pmu_temp_para11 = 393
+pmu_temp_para12 = 333
+pmu_temp_para13 = 283
+pmu_temp_para14 = 242
+pmu_temp_para15 = 179
+pmu_temp_para16 = 134
+
+[pmu2_para]
+pmu_used = 0
+pmu_twi_addr = 52
+pmu_twi_id = 1
+pmu_irq_id = 0
+
+[pmu1_regu]
+ldo_count = 23
+ldo1 = "axp28_rtc"
+ldo2 = "axp28_aldo1"
+ldo3 = "axp28_aldo2"
+ldo4 = "axp28_aldo3"
+ldo5 = "axp28_dldo1"
+ldo6 = "axp28_dldo2"
+ldo7 = "axp28_dldo3"
+ldo8 = "axp28_dldo4"
+ldo9 = "axp28_eldo1"
+ldo10 = "axp28_eldo2"
+ldo11 = "axp28_eldo3"
+ldo12 = "axp28_fldo1"
+ldo13 = "axp28_fldo2"
+ldo14 = "axp28_dcdc1"
+ldo15 = "axp28_dcdc2"
+ldo16 = "axp28_dcdc3"
+ldo17 = "axp28_dcdc4"
+ldo18 = "axp28_dcdc5"
+ldo19 = "axp28_dcdc6"
+ldo20 = "axp28_dcdc7"
+ldo21 = "axp28_gpio0ldo"
+ldo22 = "axp28_gpio1ldo"
+
+[dvfs_table]
+L_max_freq = 1008000000
+L_min_freq = 120000000
+L_LV_count = 8
+L_LV1_freq = 1104000000
+L_LV1_volt = 1300
+L_LV2_freq = 1056000000
+L_LV2_volt = 1260
+L_LV3_freq = 864000000
+L_LV3_volt = 1200
+L_LV4_freq = 720000000
+L_LV4_volt = 1100
+L_LV5_freq = 480000000
+L_LV5_volt = 1000
+L_LV6_freq = 0
+L_LV6_volt = 1000
+L_LV7_freq = 0
+L_LV7_volt = 1000
+L_LV8_freq = 0
+L_LV8_volt = 1000
+B_max_freq = 1008000000
+B_min_freq = 120000000
+B_LV_count = 8
+B_LV1_freq = 1104000000
+B_LV1_volt = 1300
+B_LV2_freq = 1056000000
+B_LV2_volt = 1260
+B_LV3_freq = 864000000
+B_LV3_volt = 1200
+B_LV4_freq = 720000000
+B_LV4_volt = 1100
+B_LV5_freq = 480000000
+B_LV5_volt = 1000
+B_LV6_freq = 0
+B_LV6_volt = 1000
+B_LV7_freq = 0
+B_LV7_volt = 1000
+B_LV8_freq = 0
+B_LV8_volt = 1000
+
+[s_uart0]
+s_uart_used = 1
+s_uart_tx = port:PL02<2><default><default><default>
+s_uart_rx = port:PL03<2><default><default><default>
+
+[s_rsb0]
+s_rsb_used = 1
+s_rsb_sck = port:PL00<2><1><2><default>
+s_rsb_sda = port:PL01<2><1><2><default>
+
+[s_jtag0]
+s_jtag_used = 0
+s_jtag_tms = port:PL04<2><1><2><default>
+s_jtag_tck = port:PL05<2><1><2><default>
+s_jtag_tdo = port:PL06<2><1><2><default>
+s_jtag_tdi = port:PL07<2><1><2><default>
+
+[Vdevice]
+Vdevice_used = 0
+Vdevice_0 = port:PC00<5><1><2><default>
+Vdevice_1 = port:PC01<5><1><2><default>
+
+[mixture_para]
+startup_logo_en = 1
+startup_logo_type = 3
+startup_picture_type = 0
+startup_logo_enlarge = 1
+startup_ani_total_frame = 5
+startup_ani_inter_time = 100
+shutdown_logo_en = 1
+shutdown_logo_type = 0
+shutdown_picture_type = 1
+shutdown_logo_enlarge = 0
+shutdown_ani_total_frame = 5
+shutdown_ani_inter_time = 100
+bl_delay_time = 400
+carback_en = 0
+
+[adc_power]
+power_det_io = port:PB02<0><0><default><default>
+
+[app_para]
+standby_mode_en = 0
+
+[backlayer]
+backlayer_mode = 0
+
+[mipi_reg]
+used = 1
+write1129 = 0
+reg0 = "11"
+reg1 = "delayms120"
+reg2 = "29"
+reg3 = "delayms20"
+

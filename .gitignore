@@ -1,0 +1,20 @@
+# Nested clones / upstream sources (prebuilt tools kept in melis-tools/)
+allwinner-image-tool/
+d1s-melis-tools/
+melis-tools-windows-x86_64.zip
+
+# Partial / duplicate extract from early analysis
+extracted/
+
+# Repacked outputs (regenerate with dump_tool pack)
+*.repacked.bin
+*.modified.bin
+chipdump.modified.bin
+
+# OS / editor
+Thumbs.db
+Desktop.ini
+.DS_Store
+*.swp
+.vscode/
+.idea/

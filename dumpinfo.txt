@@ -1,0 +1,28 @@
+Current programmer: CH341 Black
+SPI ID: 204018
+---------------------------------------------------------------------------
+Currently selected:  XM25QH128C [3.3V] 128 Mbits, 16 Mbytes
+Pin 28 CH341A voltage modification required
+Doc\CH341\Programmers\3.3V_Fix.jpg
+Doc\CH341\Programmers\ch341a_black_3.3v_5.0v_basic_(EN).pdf
+---------------------------------------------------------------------------
+Current programmer: CH341 Black
+SPI ID: 204018
+---------------------------------------------------------------------------
+Currently selected:  XM25QH128C [3.3V] 128 Mbits, 16 Mbytes
+Pin 28 CH341A voltage modification required
+Doc\CH341\Programmers\3.3V_Fix.jpg
+Doc\CH341\Programmers\ch341a_black_3.3v_5.0v_basic_(EN).pdf
+---------------------------------------------------------------------------
+Current programmer: CH341 Black
+19:43:31
+Reading memory... Main Memory
+Success
+Execution time: 00:02:25.168
+CRC32 = 0x26430A0B
+Done
+
+
+
+___________________
+This is a chip for an Android Auto F133-B head unit
