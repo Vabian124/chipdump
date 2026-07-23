@@ -25,4 +25,10 @@ Done
 
 
 ___________________
-This is a chip for an Android Auto F133-B head unit
+Board: SK-8168-MAIN-V6.3
+SoC: Allwinner F133-B
+Display: 5 inch Android Auto head unit
+SPI NOR: XM25QH128C — chip closest to the main processor
+Programmer (dump): CH341 Black / related
+Programmer (verified flash of modified image): CH341A Pro (Amazon) + test clip, NeoProgrammer
+Modified image: chipdump.modified.bin — boot video replaced, confirmed working on device

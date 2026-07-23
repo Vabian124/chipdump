@@ -4,8 +4,11 @@ This document explains **how this repository was produced** and how to
 **reproduce the same workflow** on another dump (or with another AI agent).
 It is written for humans and for automated assistants.
 
-**Device context (this dump):** Android Auto head unit on Allwinner **F133-B**,
-SPI NOR **XM25QH128C** (16 MB, 3.3 V), read with **CH341 Black**.
+**Device context (this dump):** **5″** Android Auto head unit, board
+**SK-8168-MAIN-V6.3**, SoC Allwinner **F133-B**. SPI NOR **XM25QH128C**
+(16 MB, 3.3 V) — the flash chip **closest to the main processor**. Read/write
+with **CH341A Pro** + SOIC test clip and **NeoProgrammer** (also works with
+other CH341 tools). Boot-video mod **verified on device**.
 
 **Important:** This is **Melis RTOS**, not Android Linux. “Android Auto” here is
 an application module inside Melis, not AOSP.
@@ -37,10 +40,11 @@ an application module inside Melis, not AOSP.
 
 | Item | Notes |
 |------|--------|
-| Programmer | CH341A / CH341 Black |
-| Voltage | **3.3 V only** — black CH341 often needs the pin-28 3.3 V mod |
-| Chip | XM25QH128C, SPI ID `204018`, 128 Mbit / 16 MByte |
-| Software | AsProgrammer, NeoProgrammer, or similar SPI tools |
+| Programmer | **CH341A Pro** (Amazon) + SOIC test clip; other CH341 boards OK at 3.3 V |
+| Voltage | **3.3 V only** — many CH341 “black” boards need a 3.3 V mod |
+| Chip | **XM25QH128C** (closest IC to the F133-B), SPI ID `204018`, 16 MByte |
+| Board | **SK-8168-MAIN-V6.3**, 5″ Android Auto head unit |
+| Software | **NeoProgrammer** (verified); AsProgrammer also fine |
 
 ### Procedure (high level)
 
@@ -371,9 +375,13 @@ Drive letters inside Melis (from tooling docs / strings):
 
 ## 10. Credits
 
-- Unpack/repack design: [Gamadril/d1s-melis-tools](https://github.com/Gamadril/d1s-melis-tools) (`dump_tool`)
-- Optional MinFS utilities: [ChrisHughes/allwinner-image-tool](https://github.com/ChrisHughes/allwinner-image-tool)
-- Allwinner Melis / eGON / MinFS community docs and forum posts used for signature confirmation
+| Who | Contribution |
+|-----|----------------|
+| **Vabian124** | Hardware dump, SK-8168 / F133-B notes, boot-video change, NeoProgrammer flash verification |
+| **[Gamadril](https://github.com/Gamadril)** / [d1s-melis-tools](https://github.com/Gamadril/d1s-melis-tools) | `dump_tool` and Melis / MinFS / boot package libraries |
+| **[ChrisHughes](https://github.com/ChrisHughes)** / [allwinner-image-tool](https://github.com/ChrisHughes/allwinner-image-tool) | MinFS list/extract helpers used during verification |
+| Melis / Allwinner community | eGON, MinFS, and car-unit reverse-engineering references |
+| Cursor agent session | Unpack workflow, layout-aware pack script, documentation |
 
 ---
 

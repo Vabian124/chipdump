@@ -1,0 +1,17 @@
+# NOTICE — third-party firmware and trademarks
+
+This repository includes SPI NOR firmware images and extracted binaries from a
+consumer Android Auto head unit (Allwinner F133 / Melis RTOS and related
+modules). Those binary blobs may contain intellectual property belonging to
+their respective vendors (including but not limited to Allwinner, Melis/RTOS
+components, Apple CarPlay, Android Auto / Google, and the device OEM).
+
+- **Documentation, scripts, and tooling wrappers** in this repository are
+  released under the MIT License (see `LICENSE`).
+- **Firmware images and extracted vendor binaries** are redistributed for
+  interoperability, repair, education, and research. They remain subject to
+  any rights of their original owners. Use at your own risk.
+- Trademarks (Android Auto, CarPlay, Allwinner, etc.) belong to their owners.
+
+Flashing modified firmware can brick your device. Always keep a verified
+backup of the original dump (`chipdump.bin`).

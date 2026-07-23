@@ -1,0 +1,25 @@
+# Checksums (v1.0.0)
+
+All images are **16 777 216** bytes (XM25QH128C, 128 Mbit SPI NOR).
+
+## chipdump.bin (original stock dump)
+
+| Algo | Value |
+|------|-------|
+| CRC32 | `0x26430A0B` |
+| SHA1 | `c2892fcd1f0a8dea4848db3196d274f52013372f` |
+| SHA256 | `4d236715e7eb6bdb50aceff6a381d453eff2bfe0f90025389cd956f20e3085e6` |
+
+## chipdump.modified.bin (boot video replaced — flash-tested)
+
+| Algo | Value |
+|------|-------|
+| CRC32 | `0xA347F5D5` |
+| SHA1 | `13feecb9b669040ee6dc3e35f4d96b4b8648bffb` |
+| SHA256 | `5cc79aeb94e66337bc81c4c8fce54f84d1acba9ef4b5f13dc77a697e86105ff9` |
+
+Verify on Windows (PowerShell):
+
+```powershell
+Get-FileHash .\chipdump.modified.bin -Algorithm SHA256
+```
