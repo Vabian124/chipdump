@@ -2,6 +2,8 @@
 
 SPI NOR dump from an Allwinner **F133-B** Android Auto head unit.
 
+**Full how-to (for humans and other AIs):** [docs/GUIDE.md](docs/GUIDE.md) — dump → identify → unpack → edit → pack → flash, including signatures, offsets, and boot-video notes.
+
 | Field | Value |
 |-------|--------|
 | Flash | XM25QH128C, 16 MB, 3.3 V |
