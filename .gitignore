@@ -6,10 +6,9 @@ melis-tools-windows-x86_64.zip
 # Partial / duplicate extract from early analysis
 extracted/
 
-# Repacked outputs (regenerate with dump_tool pack)
-*.repacked.bin
-*.modified.bin
-chipdump.modified.bin
+# Intermediate pack artifacts (final flash image IS tracked)
+*.repacked
+_pack_tmp.bin
 
 # OS / editor
 Thumbs.db

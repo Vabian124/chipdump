@@ -4,6 +4,8 @@ SPI NOR dump from an Allwinner **F133-B** Android Auto head unit.
 
 **Full how-to (for humans and other AIs):** [docs/GUIDE.md](docs/GUIDE.md) — dump → identify → unpack → edit → pack → flash, including signatures, offsets, and boot-video notes.
 
+**Flash the modified image:** [docs/FLASH.md](docs/FLASH.md)
+
 | Field | Value |
 |-------|--------|
 | Flash | XM25QH128C, 16 MB, 3.3 V |
@@ -28,26 +30,34 @@ melis-tools/                 # Windows dump_tool + helpers
 dumpinfo.txt                 # programmer session notes
 ```
 
+## Flash-ready image (boot video replaced)
+
+| File | Purpose |
+|------|---------|
+| `chipdump.bin` | **Original** dump — keep for recovery |
+| `chipdump.modified.bin` | **Flash this** — new boot video (~3 s) |
+| `desiredvideo/` | Source MP4 + stock backup + encode |
+
+Flash with AsProgrammer / NeoProgrammer: **XM25QH128C @ 3.3 V**, full chip write of `chipdump.modified.bin` (must be exactly 16 777 216 bytes).
+
 ## Edit → pack → flash
 
 ```powershell
 # Extract (already done once into .\unpacked)
 .\scripts\extract.ps1
 
-# Edit files under .\unpacked\...
+# Edit files under .\unpacked\...  (e.g. res\stamovie.mp4)
 
-# Repack a flashable image
+# Repack a flashable image (layout-aware for THIS dump)
 .\scripts\pack.ps1
 # → writes chipdump.modified.bin
-
-# Flash chipdump.modified.bin with AsProgrammer / NeoProgrammer
-# Chip: XM25QH128C @ 3.3 V
 ```
 
 ### Sensible edit targets
 
 | Goal | Path |
 |------|------|
+| Boot video | `unpacked\...\res\stamovie.mp4` (800×480 H.264) |
 | User settings | `unpacked\gpt.bin.out\3_UDISK.bin.out\Config.ini` |
 | Default app config | `unpacked\gpt.bin.out\2_ROOTFS.bin.out\apps\Config.ini` |
 | Wallpapers / logos | `...\apps\WallPaper\`, `...\apps\Logo\` |

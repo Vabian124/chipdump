@@ -228,43 +228,60 @@ Also referenced by `mixture.mod` (may be absent until created):
 Recommended replacement encode (match stock as closely as possible):
 
 ```bash
-ffmpeg -i input.mp4 -an -c:v libx264 -pix_fmt yuv420p -s 800x480 -r 25 \
-  -movflags +faststart stamovie.mp4
+ffmpeg -i input.mp4 -an -c:v libx264 -profile:v baseline -level 3.0 \
+  -pix_fmt yuv420p -s 800x480 -r 25 -movflags +faststart stamovie.mp4
 ```
 
 Then replace `unpacked/.../res/stamovie.mp4`. Duration of that file **is** the boot video length.
+
+### Done in this repo (boot video change)
+
+| Item | Detail |
+|------|--------|
+| Source | `desiredvideo/faseout_boot_video.mp4` (~2.9 s, 800×480) |
+| Encoded | H.264 baseline, 800×480, 25 fps, no audio, ~3.04 s |
+| Installed as | `unpacked/.../res/stamovie.mp4` |
+| Stock backup | `desiredvideo/stamovie.mp4.stock.bak` |
+| Flash image | `chipdump.modified.bin` (16 777 216 bytes) |
+| Unchanged | `boot0`, `bootA`, `UDISK` (only ROOTFS MinFS rebuilt) |
+
+Verification performed before commit:
+
+- Final image size == 16 777 216
+- `eGON.BT0` / bootA / UDISK byte-identical to original
+- Re-extracted `stamovie.mp4` from the packed ROOTFS SHA-256-matches the installed file
+- Stock boot video no longer present in the image
 
 ---
 
 ## 6. Pack and flash
 
-### Pack
+### Pack (this dump)
 
 ```powershell
 .\scripts\pack.ps1
-# runs: dump_tool pack .\unpacked .\chipdump.modified.bin
+# → chipdump.modified.bin
 ```
 
-`dump_tool pack` will:
+**Why not plain `dump_tool pack` alone?** Upstream `dump_tool.exe` v0.1.0 hardcodes GPT splice offsets / UDISK size from another F133 layout, and always applies a `uart_debug_rx` patch. This dump has:
 
-1. Rebuild MinFS from `2_ROOTFS.bin.out/`
-2. Rebuild FAT16 from `3_UDISK.bin.out/`
-3. Re-apply `sys_config.fex` into the boot package
-4. Splice partitions back into the GPT image
-5. Prepend `boot0.bin` → full NOR image
+- Larger `bootA` (1.5 MiB) and **512 KiB** UDISK
+- `[uart_para]` with `uart_debug_tx` only (no `uart_debug_rx`)
+
+So `scripts/pack.ps1` uses `dump_tool` only to **rebuild MinFS**, then **splices ROOTFS at flash offset `0x190000`** into a copy of `chipdump.bin`. That keeps boot0 / bootA / UDISK intact.
 
 ### Verify before write
 
 - Output size must be **16 777 216** bytes for XM25QH128C.
 - Keep original `chipdump.bin` untouched as recovery image.
-- Optional: compare CRC of unmodified round-trip (`extract` then immediate `pack`) to gain confidence in the tool chain.
+- Optional: search the image for your new MP4 bytes; confirm stock MP4 is absent.
 
 ### Flash
 
 1. Same CH341 setup, **3.3 V**, chip XM25QH128C.
-2. Write `chipdump.modified.bin` (or erase + write full chip).
+2. Write **`chipdump.modified.bin`** (full-chip erase + write recommended).
 3. Verify read-back if your programmer supports it.
-4. Reseat chip / power unit and test.
+4. Reseat chip / power unit and confirm the shorter boot animation.
 
 ---
 
