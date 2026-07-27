@@ -1,0 +1,361 @@
+p}UEa
+p}UEa
+p}UEa
+p}UEa
+p}UEa
+p}UEa
+p}UEa
+pBy}U!a
+p}UEa
+<P8l#.
+jFkIa
+)A<PZ
+'A#"$
+4d0L(h
+;	iA<x
+dA# d
+4d0L(h
+<M0U*
+@<h4d#$
+@<|(hX`0L(
+|4dcT
+gA#$d
+$T<|#$
+%"f|H4L;F
+pBt!a2
+%"f|H4L;F
+pBt!a2
+$t(pc
+4d(p&
+<t(pc
+%4p8h
+<x(h&
+<p(tcl
+-G}Uc
+rG#(d
++AcOj
+ h|}G
+]||X\<
+||xD<
+||x\:E
+||:G<
+||:G<
+V7GIR
+7TAW>
+7WPI7jaf
+RWq7:
+$	GcI
+%7WAW
+zmf7|ad
+RWq7:
+RUq5*
+woc7[AD
+0P5q9
+h|IFMG
+ME	HcH
+0@L#$	
+||Y7#(
+0`G#$	
+$5F#(
+zb$%a
+@PJLD;
+ `8cE
+||x\BE
+%A;T7
+G"G#$4
+eG#&$
+ h|iG
+E7yuk
+||u7#(
+ |7JAM
+I)}9c
+||u7#(
+$")%a
+9	8;	y
+#0A[#4
+Z#8![#41[#<QY#8aY#4qY#0
+zB{ea
+GVGFD
+	Gy4;D
+	Gy4;D
+	Gcqg
+||uG<
+||uG<
+||uG<
+OGG Vorbis
+Extra_High
+[1;40;31m
+[ERR]
+%s%s%s: [%s:%04u]: %s%sfatal error! nAudioFileFmt[%x][%x]%s
+%s%s%s: [%s:%04u]: %s%sclose PsrAudioOal fail%s
+%s%s%s: [%s:%04u]: %s%s[][] pFileInf == NULL
+%s%s%s: [%s:%04u]: %s%sfatal error! thiz->pFileInf == NULL! Already Close?%s
+%s%s%s: [%s:%04u]: %s%sfatal error! psraudiooal close fail%s
+[1;40;33m
+[DBG]
+%s%s%s: [%s:%04u]: %s%s----ABsInf,bits_per_sample:%d,samplerate:%d channels:%d----%s
+%s%s%s: [%s:%04u]: %s%sfatal error! thiz->pFileInf != NULL! Already Open?%s
+%s%s%s: [%s:%04u]: %s%spFileInf->open() fail%s
+%s%s%s: [%s:%04u]: %s%sRequest memory for id3 information failed!%s
+%s%s%s: [%s:%04u]: %s%spFile[%x] is wrong!%s
+%s%s%s: [%s:%04u]: %s%sAnalyze %s file information failed!%s
+%s%s%s: [%s:%04u]: %s%sUNKNOW FILE ERROR NOT SUPPORT!%s
+%s%s%s: [%s:%04u]: %s%sPsrAudioOal malloc fail, no memory!%s
+%s%s%s: [%s:%04u]: %s%sPsrAudioOal open fail%s
+%s%s%s: [%s:%04u]: %s%sAudio file has not been opened! gPsrAudioOal[%x]!=pPsrAudioOal[%x]%s
+CheckIfSupport
+PsrAudio_MIoctrl
+OpenAudioFile
+CloseAudioFile
+GetAbsFormat
+GetLbsFormat
+ProcADecMsg
+ProcLDecMsg
+GetAbsInfForADec
+GetLbsInfForLDec
+GetFileBsInf
+GetFileId3Inf
+GetAbsData
+GetLbsData
+newAudioFileInfChild
+Impl_PsrAudioOal_Open
+Impl_PsrAudioOal_Close
+Impl_PsrAudioOal_GetAbsInfForADec
+newPsrAudioOal
+%s%s%s: [%s:%04u]: %s%smedia file format is not support!%s
+%s%s%s: [%s:%04u]: %s%smalloc fail%s
+eLIBs_fseek
+eLIBs_fllseek
+%s%s%s: [%s:%04u]: %s%sseek error! from %p.%s
+key%d
+video_encrypt
+%s%s%s: [%s:%04u]: %s%s[CEDAR_fopen]it is not Encrypt video file!
+%s%s%s: [%s:%04u]: %s%s[CEDAR_fopen]it is Encrypt video file!
+%s%s%s: [%s:%04u]: %s%s[YG] g_cedar_encrytp_mod:%d
+CEDAR_fs_set_encrytp_mod
+CEDAR_fopen
+%s%s%s: [%s:%04u]: %s%sRequest memory(size:%x) for user failed!%s
+%s%s%s: [%s:%04u]: %s%sRequest memory(size:%x) by palloc for user failed!%s
+CEDAR_malloc
+CEDAR_phymalloc
+pthread_mutex_lock_cedar
+%s%s%s: [%s:%04u]: %s%spthread sempend fail[%x], again%s
+%s%s%s: [%s:%04u]: %s%spsr_audio->open fail%s
+%s%s%s: [%s:%04u]: %s%sOpen audio file failed!%s
+%s%s%s: [%s:%04u]: %s%slibapsr_plg.a [%s] ID[%s|%s]%s
+8482bfd
+75a87bf
+Wed, 27 Nov 2024 17:53:16 +0800
+MIoctrl
+.FLAC
+	.WMA
+Window Media Audio-Standard
+Window Media Audio-ProfessionalWindow Media Audio-lossless
+unknow format
+WAV Unknown
+WAV PCM
+WAV DVI_ADPCM
+WAV ALaw
+WAV MULaw
+WAV RIFX
+WAV ADPCM
+WAV GSM610
+WAV DTS
+WAV MP3
+WAV Unspport
+@audio/x-pn-realaudio
+audio/x-pn-realaudio-encrypted
+RealAudio-Unknow
+RealAudio-RM-Cook
+RealAudio-RM-Sipro
+RealAudio-RM-Atric
+RealAudio-RM-AAC
+RealAudio-RM-AC3
+RealAudio-RA-14_4
+RealAudio-RA-28_8
+RealAudio-RA-Cook
+RealAudio-RA-Sipro
+RealAudio-RA-Atric
+RealAudio-RA-AAC
+RealAudio-RA-AC3
+MPEG1.0 LAY1
+MPEG1.0 LAY2
+MPEG1.0 LAY3
+MPEG2.0 LAY1
+MPEG2.0 LAY2
+MPEG2.0 LAY3
+MPEG2.5 LAY1
+MPEG2.5 LAY2
+MPEG2.5 LAY3
+?MThd
+image/bmp
+image/jpeg
+image/png
+DTS-Digital Theatre SystemDTS-HD
+%s%s%s: [%s:%04u]: %s%sthe file cannot find the dra frame
+%s%s%s: [%s:%04u]: %s%sThe DRA sync word error%s
+LoadDraFrame
+ATRAC3
+ATRAC3P
+Version:Fast
+Normal
+Extra_HighInsane
+Version:
+Mode:
+AMR-WB
+#!AMR
+#!AMR-WB
+Dolby Digital AC3DNET AC3
+TRUE HD
+AAC Unknown
+AAC ADTS
+AAC ADIF
+AAC RAW
+AAC LATM
+AAC Unspport
+2TIT1EPTBLATREYTNOCTCIPAMMOCNALT2TT
+2TIT1EPTBLATREYTNOCTCIPAMMOCNALTBlues
+ClassicRock
+Country
+Dance
+Disco
+Grunge
+Hip-Hop
+Metal
+NewAge
+Oldies
+Other
+Reggae
+Techno
+Industrial
+Alternative
+DeathMetal
+Pranks
+Soundtrack
+Euro-Techno
+Ambient
+Trip-Hop
+Vocal
+Jazz+Funk
+Fusion
+Trance
+Classical
+Instrumental
+House
+SoundClip
+Gospel
+Noise
+AlternRock
+Space
+Meditative
+InstrumentalPop
+InstrumentalRock
+Ethnic
+Gothic
+Darkwave
+Techno-Industrial
+Electronic
+Pop-Folk
+Eurodance
+Dream
+SouthernRock
+Comedy
+Gangsta
+Top40
+ChristianRap
+Pop/Funk
+Jungle
+NativeAmerican
+Cabaret
+NewWave
+Psychadelic
+Showtunes
+Trailer
+Lo-Fi
+Tribal
+AcidPunk
+AcidJazz
+Polka
+Retro
+Musical
+Rock&Roll
+HardRock
+Folk-Rock
+NationalFolk
+Swing
+FastFusion
+Bebob
+Latin
+Revival
+Celtic
+Bluegrass
+Avantgarde
+GothicRock
+ProgessiveRock
+PsychedelicRock
+SymphonicRock
+SlowRock
+BigBand
+Chorus
+EasyListening
+Acoustic
+Humour
+Speech
+Chanson
+Opera
+ChamberMusic
+Sonata
+Symphony
+BootyBass
+Primus
+PornGroove
+Satire
+SlowJam
+Tango
+Samba
+Folklore
+Ballad
+PowerBallad
+RhythmicSoul
+Freestyle
+PunkRock
+DrumSolo
+Acapella
+Euro-House
+DanceHall
+Drum&Bass
+Club-House
+Hardcore
+Terror
+Indie
+BritPop
+Negerpunk
+PolskPunk
+ChristianGangstaRap
+HeavyMetal
+BlackMetal
+Crossover
+ContemporaryChristian
+ChristianRock
+Merengue
+Salsa
+TrashMetal
+Anime
+Synthpop
+Remix
+Cover
+APETAGEX
+Title
+Artist
+Album
+Genre
+allwinner_epk001
+allwinner_epk001
+ &   ! 
+ePDK.mod
+MELIS_MOD
+.text
+.rodata
+.data
+.shstrtab
+MAGIC

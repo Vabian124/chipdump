@@ -1,0 +1,135 @@
+pBt!a
+pBt!a
+pBt"4!a
+tj$)a
+pBt!a
+P +#0
+P )#8
+pBt!a
+pBt!a
+pBt!a
+@}GcJ
+4=}FcvV=
+.#0!/#8
+.#<1-#8A-#4Q-#0a-#<q+#0
+('<!''81''4A''0Q''<a%:
+e]gcRP
++cXP=
+I}3!;e
+jJkia
+#"ia#(Y_c
+pvcLE	N
+`#(4_
+PE}T"u
+!)@:F,@zj/@\G1@|
+:@:F<@Z
+=@zj?@L~@@\GA@l
+@ %z8
+[1;40;33m
+[DBG]
+%s%s%s: [%s:%04u]: %s%sardr_sw.plg   [%s] ID[%s|%s]%s
+8482bfd
+75a87bf
+Wed, 27 Nov 2024 17:53:16 +0800
+[1;40;31m
+[ERR]
+%s%s%s: [%s:%04u]: %s%sinvalid para...%s
+MIoctrl
+AppendAuxWavBuf
+ResampleCurWavBuf
+MixAuxWavBuf
+pthread_mutex_lock_cedar
+%s%s%s: [%s:%04u]: %s%spthread sempend fail[%x], again%s
+%s%s%s: [%s:%04u]: %s%sRequest memory(size:%x) for user failed!%s
+%s%s%s: [%s:%04u]: %s%sRequest memory(size:%x) by palloc for user failed!%s
+CEDAR_phymalloc
+LUUUUU
+?IUUUUU
+IUUUUU
+<_sbrk
+%s%s%s: [%s:%04u]: %s%serror, status = %d.%s
+%s%s%s: [%s:%04u]: %s%serror, status%s
+@zS~po
+Ky@fh
+p0q |
+`M/xc
+@zS~po
+Ky@fh
+p0q |
+>@B83
+sx	&s
+	y|;\
+s@dVi
+Tn21zZ
+W?~{ 
+	y|;\
+s@dVi
+h>{l>
+Tn21zZ
+a*_T8
+Wwg$]4I
+#@:A-@<A-
+#@:A-@<A-
+#@:A-@<A-
+#@:A-@<A-
+#@:A-@<A-
+#@:A-@<A-
+#@:A-@<A-
+#@:A-@<A-
+#@:A-@<A-
+#@:A-@<A-
+#@:A-@<A-
+#@:A-@<A-
+#@:A-@<A-
+#@:A-@<A-
+#@:A-@<A-
+#@:A-@<A-
+*@9A-
+p>= Rp
+*@9A-
+p>= Rp
+*@9A-
+p>= Rp
+*@9A-
+p>= Rp
+@@B<`
+6@h="@
+$@OS4
+@@B<`Q
+q>`O|
+@t>=`
+@2B<@i
+Qq8`Ht
+P!,@1
+@D="@
+@@B<`
+6@h="@
+$@OS4
+@@B<`Q
+q>`O|
+@t>=`
+@2B<@i
+Qq8`Ht
+P!,@1
+@D="@
+ @7}6
+u2@"`'
++@([.@
+",@`Z.
+l/@Wf*
+#@X75
+]+9`Z
+@%$; {
+@>3:`
+@'.9@.
+w@;U-
+u@Un2
+}z@sg$
+W?~`rU
+ePDK.mod
+MELIS_MOD
+.text
+.rodata
+.data
+.shstrtab
+MAGIC

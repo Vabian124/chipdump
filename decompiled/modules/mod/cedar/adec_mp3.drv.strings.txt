@@ -1,0 +1,234 @@
+p@t<p
+y"$Ea
+j<j$p
+	0pcY
+<T#$T
+[0pc\
+GA#0D
+F4p8T
+!J3EE
+\\\cF
+`0!#(
+<p#$	
+lFmMa
+@`{cJ
+g}F	G
+S#<1!#<
+"#0!##8A!#4Q!#0a!
+;	iA>
+F^&S;
+_A;	#AFC>
+IAnI;
+NH^O3
+fS6X#
+fBGch
+g@7#`V
+x@;	^
+@tQpY5
+0tYpU5
+haCBnF
+}}5-a
+	AA3;
+iA!(;
+A;^f@c
+A;_h@
+A;^f@c
+vbf}7
+B;WgA
+B;WgA
+@;WgA
+ENXfo3
+@"gBm
+!"wb}
+%!je*y
+%!&efi
+%!"eZ
+n Rn2c
+HCXUq
+'0%	'45	'8E	'<U	'0e
+gyyq>
+ao 0g
+ @E#4
+!G}Uc
+W}7cj
+\t	G#
+\@"uc
+_KC__JR_
+QrFO@
+ BX'fD|>
+m`cAp
+komngeYYVVSSZZ\\BBBBAAAADDDDHHHH
+ONMLKJIHGFEDCBA@
+R"Q"Q!P!P
+R"Q"Q!P!P
+2r2r2a2a2a2a
+s1p1p"r"r
+b"a"a"a"a
+b!`!`!`!`
+s"c"c2b2b1`1`
+S2Q2Q2Q2Q"R"R"R"R
+B"A"A"A"A"A"A"A"A!@!@!@!@!@!@!@!@
+b"Q"Q
+REBERDRC2525B4B4"5"5R2R2
+524Q Q B323
+$"#2"
+"b"b"b"b
+b!`!`!`!`
+B"A"A"A"A"A"A"A"A"A"A"A"A"A"A"A"A
+R5R4B%B%R
+2%B$"
+dBa"c2b
+S2Q2Q
+c1`"R"R
+B"A"A"A"A!@!@!@!@
+R5B52%2%R#R#R4
+B$"%R"
+s2q2q1p1p"r"r
+b"a"a"a"a
+b!`!`!`!`
+r7b7r6R7r5b6B'B'
+r$R&b%2'
+r#r#B&B&R5R4b#b#
+brbr"
+vbqbqR
+"s"s2r2r
+c2a2a2a2a
+s1p1p"b"b"b"b"Q"Q"Q"Q"Q"Q"Q"Q
+R!P!P!P!P!P!P!P!P
+r'b'r&r%
+b&b&B'B'r$r$R7R5
+R&b%2
+B%R$2%R#
+"vbrbq
+uRq2tBs
+t2c2cBaBa"c"c2b2bAp
+s1`1`
+S2Q2Q2Q2Q"R"R"R"R
+B"A"A"A"A"A"A"A"A
+R!P!P!P!P
+r7b7r&r&R'R'r%r%
+b&B'r$b%
+r#R%"
+f2\2\"\"\
+RR[R[
+fri2[2[
+hRj"["[
+Trgrf
+VBZBZ2Z2Z
+SRYRY
+U"J"J"J"J
+C2YRX
+UbW"I"I
+BRWrU2H2H
+CbVBWrTRVbUrS
+@BHBH
+DrBrBBVbT"8"8"8"8
+7r1r1RE
+Gq@2FbCBERD"FbB2E
+RCBD"5"5R2R2
+%R!R!R!R!
+24B3Q0"4B223
+6b/b/
+bqbqR
+"u"uRrRr
+uRqRq
+2t2tBsBs"t"tBrBr2s2sBaBaBaBa
+t"c"c"c"c2b2b2b2bApAp
+c2a2a2a2a1`1`1`1`"R"R"R"R"R"R"R"R
+R"Q"Q"Q"Q"Q"Q"Q"Q
+R!P!P!P!P!P!P!P!P
+IrOrO
+LbObO
+5r>r>
+MB?B?
+42?2?
+6"?"?
+82>b=
+@R=R=
+-r+r+
+<2,2,
+("+R*
+s2q2q
+b"a"a"a"a
+b!`!`!`!`
+2/2/2/2/
+G"<"<
+E";";
+32JRI":":
+4BIRGb7b7
+4r528
+"B7r4
+8R62'2'
+r#r#b5B6"'"'r"r"
+b#B%R$"&
+9r=R.R.
+RqRqRqRq2
+"t"t"t"tBrBrBrBr2s2s2s2s
+tBqBqBqBq
+"s"s"s"s2r2r2r2r
+c2a2a2a2a2a2a2a2a
+s1p1p1p1p"b"b"b"b"b"b"b"b
+R"Q"Q"Q"Q"Q"Q"Q"Q"Q"Q"Q"Q"Q"Q"Q"Q
+b!`!`!`!`!`!`!`!`
+B.".2
+[1;40;33m
+[DBG]
+%s%s%s: [%s:%04u]: %s%sadec_mp3.drv [%s] ID[%s|%s]%s
+8482bfd
+75a87bf
+Wed, 27 Nov 2024 17:53:16 +0800
+SetAudioBsHeader
+[1;40;31m
+[ERR]
+%s%s%s: [%s:%04u]: %s%slong jmp exit.%s
+%s%s%s: [%s:%04u]: %s%sAudio bitstream format information ptr is invalid!%s
+%s%s%s: [%s:%04u]: %s%sdelete audio decoder finished%s
+%s%s%s: [%s:%04u]: %s%simpossible! adrv stop already begin! It's sync!%s
+%s%s%s: [%s:%04u]: %s%sfatal error! notify stop fail!%s
+WaitAbsDataInput
+FreeAbsBuffer
+MIoctrl
+adrv_audio_main_task
+%s%s%s: [%s:%04u]: %s%sdelete audio decode driver main task!%s
+%s%s%s: [%s:%04u]: %s%ssend DATA_END message.%s
+%s%s%s: [%s:%04u]: %s%sBe careful! why video_adrv receive ERR_AUDIO_DEC_ABSEND?%s
+%s%s%s: [%s:%04u]: %s%sadec thread exit.%s
+%s%s%s: [%s:%04u]: %s%sadrv underflow, send ADEC2ADRV_MSG_TYPE_DATA_END%s
+%s%s%s: [%s:%04u]: %s%ssend DATA_END message%s
+%s%s%s: [%s:%04u]: %s%sadrv quit: send pcm buf socket! bufaddr[%x],bufsize[%d],pcmlen[%d]%s
+%s%s%s: [%s:%04u]: %s%sadec thread exit%s
+%s%s%s: [%s:%04u]: %s%s[]adrv_status_lock create fail
+%s%s%s: [%s:%04u]: %s%s[err]adrv_status_lock has release
+Impl_AdrvStatus_NotifyNewStatus
+Impl_AdrvStatus_DetectStatusChange
+Impl_AdrvStatus_ProcessStatusChange
+AdrvStatus_Init
+%s%s%s: [%s:%04u]: %s%sinvalid parameter.%s
+%s%s%s: [%s:%04u]: %s%salloc bitstream buffer failure.%s
+AudioDEC_open
+%s%s%s: [%s:%04u]: %s%sastream_fifo_init() fail, fatal error!%s
+%s%s%s: [%s:%04u]: %s%sfatal error from audio decoder, underflow%s
+%s%s%s: [%s:%04u]: %s%svideo file : adrv return ERR_AUDIO_DEC_ABSEND%s
+%s%s%s: [%s:%04u]: %s%saudio file adrv: absend%s
+%s%s%s: [%s:%04u]: %s%s[2]adeclib donot set fseekflag to 1,[%d][%d]%s
+AC320_decInit
+AC320_decPro
+FSeek_AC320
+AllwinnerAlibs
+(%s),line(%d) : init successs...
+(%s),line(%d) : exit successs...
+Y@XING cbr
+XING vbr
+fseeklen:%d
+VBRfseek:%d
+%s%s%s: [%s:%04u]: %s%sRequest memory(size:%x) for user failed!%s
+%s%s%s: [%s:%04u]: %s%sRequest memory(size:%x) by palloc for user failed!%s
+CEDAR_malloc
+CEDAR_phymalloc
+ePDK.mod
+MELIS_MOD
+.text
+.rodata
+.data
+.shstrtab
+MAGIC

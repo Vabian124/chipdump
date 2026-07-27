@@ -1,0 +1,14 @@
+[1;40;33m
+[DBG]
+%s%s%s: [%s:%04u]: %s%sardr_hw.plg [%s] ID[%s|%s]%s
+8482bfd
+75a87bf
+Wed, 27 Nov 2024 17:53:16 +0800
+MIoctrl
+ePDK.mod
+MELIS_MOD
+.text
+.rodata
+.data
+.shstrtab
+MAGIC

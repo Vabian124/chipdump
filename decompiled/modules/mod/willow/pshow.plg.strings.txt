@@ -1,0 +1,196 @@
+tByaa
+@o5q&
+jBkaa
+biEao
+zR{ua
+zR{ua
+|}7cV
+^7@}7
+|}7cV
+|}7cV
+LXLAh
+LXLAh
+tByaa
+}7cyW
+@#|L"F,P
+E4@P\<HxD
+P\|Lcv
+X\|Lc
+<@4Pc
+L\Lfe
+yRz5a
+zG\Tcu
+ppwje
+@`4cT
+dNima
+g#8!1#0A1#4
+0#<Q/#8a/#4q/#0
+\AAj*
+p E}=c
+`}W}T
+`0ac	%
+@Pl"d
+`0MVd
+kRl5a
+` P#<
+`@F#$
+``SFd
+jBkaa
+|o``	
+}8}63u
+<l|	J
+P y}U
+gFsf~
+ao@`N
+Eao@ D
+z!ao@`:
+XF\MB
+;	,A;
+8{H@>
+.#8!-#41-#0A-#<Q+#8a+#4q+#<
+0PC#*Q
+%FcyF
+-GckG
+.#8!/#41/#0A/#<Q-#8a-#4q-#0
+E(	DC
+ P	#4
+M,@(d
+Ml@(h
+pec	%
+4x8mc
+K}Uc^
+iFj	a
+jBkaa
+8#0A9#4
+:#8!9#419
+LPLcl
+9	|(h
+(h;	IA
+F\X8dc
+zB{ea
+*A#,$
+gA# d
+pBt!a
+ !0123@ABCPQRS
+%s%s%s: [%s:%04u]: %s%sfirst time test%s
+[1;40;31m
+[ERR]
+%s%s%s: [%s:%04u]: %s%sthumb_img malloc err!%s
+%s%s%s: [%s:%04u]: %s%sSTART%s
+%s%s%s: [%s:%04u]: %s%sEND%s
+%s%s%s: [%s:%04u]: %s%s[YG][]file path:%s%s
+%s%s%s: [%s:%04u]: %s%sdec image err!input type:%d, subtype:%d%s
+%s%s%s: [%s:%04u]: %s%srun to _show_gif_ext%s
+%s%s%s: [%s:%04u]: %s%sNORMAL_ShowImg after free size = 0x%x add = 0x%x%s
+save_data_for_check
+get_cur_rot
+gif_show_tsk
+NORMAL_ShowImg
+get_thumbs_buf
+create_thumbs
+NORMAL_GetThumbs
+get_show_fb_plus
+NORMAL_ComeBack
+de_cvt_2_rgb8888
+[1;40;33m
+[DBG]
+%s%s%s: [%s:%04u]: %s%screate_thumbs fail, %d,%d%s
+%s%s%s: [%s:%04u]: %s%screate_thumbs:filename:%s%s
+pthumbs
+%s%s%s: [%s:%04u]: %s%sthumbs Path:%s%s
+%s%s%s: [%s:%04u]: %s%screate thumbs file Path:%s%s
+%s%s%s: [%s:%04u]: %s%sthumbs file exist%s
+%s%s%s: [%s:%04u]: %s%screate thumbs file fail%s
+%s%s%s: [%s:%04u]: %s%swrite(%d,%d),%d%s
+%s%s%s: [%s:%04u]: %s%swrite ok!%s
+%s%s%s: [%s:%04u]: %s%s[]YG[]dst w = %d h = %d src w = %d h = %d %s
+%s%s%s: [%s:%04u]: %s%sscaler free mem 1%s
+%s%s%s: [%s:%04u]: %s%sscaler free mem 2%s
+%s%s%s: [%s:%04u]: %s%sscaler free mem 3%s
+%s%s%s: [%s:%04u]: %s%sscaler free mem 4%s
+%s%s%s: [%s:%04u]: %s%slangaojie set auto_rot%s
+%s%s%s: [%s:%04u]: %s%scvt rgb8888 err!%s
+%s%s%s: [%s:%04u]: %s%srotate err!%s
+%s%s%s: [%s:%04u]: %s%serror........................%s
+%s%s%s: [%s:%04u]: %s%sget_thumbs_buf:filename:%s%s
+%s%s%s: [%s:%04u]: %s%s%s not exist%s
+%s%s%s: [%s:%04u]: %s%sread thumbs file Path:%s%s
+%s%s%s: [%s:%04u]: %s%sthumbs file not exist%s
+%s%s%s: [%s:%04u]: %s%sthumbs flag fail%s
+%s%s%s: [%s:%04u]: %s%sread(%d,%d)%s
+%s%s%s: [%s:%04u]: %s%sread ok%s
+%s%s%s: [%s:%04u]: %s%sgif req buffer 1 err%s
+f:\%d_%s_%d_%d_%d.dat
+%s%s%s: [%s:%04u]: %s%s-------save %s data err1 %d--------%s
+f:\%d_%s_y_%d_%d_%d.dat
+f:\%d_%s_u_%d_%d_%d.dat
+f:\%d_%s_v_%d_%d_%d.dat
+%s%s%s: [%s:%04u]: %s%s-------save %s data ok %d--------%s
+%s%s%s: [%s:%04u]: %s%s-------save %s data err2 %d--------%s
+%s%s%s: [%s:%04u]: %s%sPSHOW_MClose
+%s%s%s: [%s:%04u]: %s%sdel pSem_buf%s
+%s%s%s: [%s:%04u]: %s%s before WILLOW_cmdq_del  p1 = %p p2 = %p%s
+%s%s%s: [%s:%04u]: %s%s before free  p1 = %p p2 = %p%s
+%s%s%s: [%s:%04u]: %s%sfree dis%s
+%s%s%s: [%s:%04u]: %s%spshow free ok%s
+%s%s%s: [%s:%04u]: %s%slangaojie set lyr rot = %d%s
+%s%s%s: [%s:%04u]: %s%s[YG] set usr layer cnt:%d
+%s%s%s: [%s:%04u]: %s%slgj set backcolor = 0x%x%s
+PSHOW_maintsk
+PSHOW_MClose
+?%s%s%s: [%s:%04u]: %s%s[YG] scline_buf[0] malloc fail,size:0x%x
+%s%s%s: [%s:%04u]: %s%s YV12ToRGB24 incorrect input parameter!
+%s%s%s: [%s:%04u]: %s%s[YG 1] bgr malloc fail,size:0x%x
+%s%s%s: [%s:%04u]: %s%s[YG] bgr malloc fail,size:0x%x
+%s%s%s: [%s:%04u]: %s%s[YG] YV444_Scalar_To_RGB32_aligned fail 1
+YV12_Scalar_To_RGB32_aligned
+YV444_Scalar_To_RGB32_aligned
+YV444_To_Argb888
+ARGB8888_Scaler_chart
+sw_scaler_img_2
+%s%s%s: [%s:%04u]: %s%sUnsupport %d format software scaler%s
+%s%s%s: [%s:%04u]: %s%sScalar_To_BGR32_aligned fail%s
+%s%s%s: [%s:%04u]: %s%s[YG]tmp_srcAddr palloc fail!
+%s%s%s: [%s:%04u]: %s%sargb8888_scaler_chart fail%s
+%s%s%s: [%s:%04u]: %s%s1 sw_scaler_img, src(w:%d,h:%d)->dst(w:%d,h:%d) wast:%d * 10ms%s
+display
+%s%s%s: [%s:%04u]: %s%sout:0x%x,out->used:%d
+/dev/g2d
+SWITCH_FadeInOut
+SWITCH_Slid
+get_img_src_fb
+%s%s%s: [%s:%04u]: %s%spara err!%s
+d:\mod\willow\psr_bmp.plg
+d:\mod\willow\pdec_bmp.plg
+d:\mod\willow\psr_gif.plg
+d:\mod\willow\pdec_gif.plg
+d:\mod\willow\psr_jpg.plg
+d:\mod\willow\pdec_jpg.plg
+d:\mod\willow\psr_png.plg
+d:\mod\willow\pdec_png.plg
+d:\mod\willow\psr_3d.plg
+d:\mod\willow\pdec_3d.plg
+d:\mod\willow\psr_jpeg_pro.plg
+d:\mod\willow\pdec_jpeg_pro.plg
+%s%s%s: [%s:%04u]: %s%sunsupported pixel format, format = %d.%s
+g2d_fill_rect
+MapPixelFmt_de_2_g2d
+g2d_rotate_argb8888_img
+g2d_fill_rect
+%s%s%s: [%s:%04u]: %s%s[%s][%d]fopen g2d fail%s
+%s%s%s: [%s:%04u]: %s%stmp_buffer malloc fail,size:%d
+eLIBs_fseek
+eLIBs_fllseek
+%s%s%s: [%s:%04u]: %s%sseek error! from %p.%s
+pthread sempend fail[%d], again
+key_type
+video_encrypt
+key%d
+allwinner_epk001
+ePDK.mod
+MELIS_MOD
+.text
+.rodata
+.data
+.shstrtab
+MAGIC

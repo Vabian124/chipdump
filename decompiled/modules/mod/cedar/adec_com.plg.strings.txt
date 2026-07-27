@@ -1,0 +1,81 @@
+ @D#(	
+E<i#<
+%s%s%s: [%s:%04u]: %s%sAdecStatus init fail%s
+%s%s%s: [%s:%04u]: %s%sno pcm buffer got.%s
+%s%s%s: [%s:%04u]: %s%sfatal error! nAbsType[%s] is not support!%s
+%s%s%s: [%s:%04u]: %s%sfatal error! rawdata nAbsType[%s] is not support!%s
+%s%s%s: [%s:%04u]: %s%sfatal error! adec_com->pAdrvInfo[%x], abstype[%x] is not exist!%s
+%s%s%s: [%s:%04u]: %s%s[%s], drv_adec open fail%s
+%s%s%s: [%s:%04u]: %s%sCreate pcm frame ouput socket failed when open audio decoder plug-in!%s
+%s%s%s: [%s:%04u]: %s%sCreate socket for audio decode driver message failed!%s
+%s%s%s: [%s:%04u]: %s%sCreate semaphore failed when open audio decoder plug-in!%s
+%s%s%s: [%s:%04u]: %s%snAbsType[%x] is not support!%s
+%s%s%s: [%s:%04u]: %s%sdon't support raw data mode of this type[%d]%s
+%s%s%s: [%s:%04u]: %s%sAudio decoder plug-in has been closed already!%s
+%s%s%s: [%s:%04u]: %s%sfatal error!Audio decoder plug-in module handle is invalid!%s
+%s%s%s: [%s:%04u]: %s%saudio decoder may being used by someone, close it!%s
+%s%s%s: [%s:%04u]: %s%sadec_com.plg  [%s] ID[%s|%s]%s
+8482bfd
+75a87bf
+Wed, 27 Nov 2024 17:53:16 +0800
+%s%s%s: [%s:%04u]: %s%sfatal error! cedarini can't set to adrv%s
+%s%s%s: [%s:%04u]: %s%sfatal error! adec_com->nRawDataFlag[%x] != adec_com->pAdrvInfo->nRawDataFlag[%x]%s
+%s%s%s: [%s:%04u]: %s%sfatal error! newAdrvInfo fail%s
+%s%s%s: [%s:%04u]: %s%sOpenAdrv fail%s
+%s%s%s: [%s:%04u]: %s%sAudio decoder abs socket input not set!%s
+%s%s%s: [%s:%04u]: %s%sAudio decode driver module has not been opened!%s
+%s%s%s: [%s:%04u]: %s%sstop adec_drv begin.%s
+%s%s%s: [%s:%04u]: %s%sstop adec_drv end.%s
+%s%s%s: [%s:%04u]: %s%simpossible! stop already begin! It's sync!%s
+%s%s%s: [%s:%04u]: %s%sfatal error! notify stop fail!%s
+%s%s%s: [%s:%04u]: %s%sAudio decoder plug-in has been opended by someone !%s
+%s%s%s: [%s:%04u]: %s%sRequest memory failed when open com decoder plug-in!%s
+Impl_AdecCom_Open
+MExit
+MOpen
+MClose
+MIoctrl
+adec_main_tsk
+CB_RequestPcmBuffer
+Impl_AdecCom_Open
+Impl_AdecCom_newAdrvInfoChild
+Impl_AdecCom_CheckIfAbsSupport
+AdecCom_Init
+newAdecCom
+[1;40;31m
+[ERR]
+%s%s%s: [%s:%04u]: %s%sadec[%d] receive fatal error msg from psr!%s
+%s%s%s: [%s:%04u]: %s%sstop flag msg.%s
+%s%s%s: [%s:%04u]: %s%svideo_adec meet data_end in FFRR, quit!%s
+%s%s%s: [%s:%04u]: %s%sfatal error%s
+%s%s%s: [%s:%04u]: %s%sadec_com receive adrv data_end!%s
+%s%s%s: [%s:%04u]: %s%sadec_com[2] fatal error!%s
+%s%s%s: [%s:%04u]: %s%sadec_com[2] receive adrv data_end!%s
+[1;40;33m
+[DBG]
+%s%s%s: [%s:%04u]: %s%sstop flag set.%s
+%s%s%s: [%s:%04u]: %s%ssend datatype end message.%s
+%s%s%s: [%s:%04u]: %s%sadec com mallc fail%s
+d:\mod\cedar\adec_atr.drv
+d:\mod\cedar\adec_aac.drv
+d:\mod\cedar\adec_alac.drv
+d:\mod\cedar\adec_amr.drv
+d:\mod\cedar\adec_ape.drv
+d:\mod\cedar\adec_cok.drv
+d:\mod\cedar\adec_flc.drv
+d:\mod\cedar\adec_mid.drv
+d:\mod\cedar\adec_mp3.drv
+d:\mod\cedar\adec_pcm.drv
+d:\mod\cedar\adec_rac.drv
+d:\mod\cedar\adec_rxxx.drv
+d:\mod\cedar\adec_ogg.drv
+d:\mod\cedar\adec_spr.drv
+d:\mod\cedar\adec_drxx.drv
+d:\mod\cedar\adec_wma.drv
+ePDK.mod
+MELIS_MOD
+.text
+.rodata
+.data
+.shstrtab
+MAGIC

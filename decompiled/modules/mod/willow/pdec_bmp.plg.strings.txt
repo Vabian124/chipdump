@@ -1,0 +1,9 @@
+L\\2G
+TT8@PH5
+ePDK.mod
+MELIS_MOD
+.text
+.rodata
+.data
+.shstrtab
+MAGIC

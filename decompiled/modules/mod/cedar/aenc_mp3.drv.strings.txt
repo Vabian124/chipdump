@@ -1,0 +1,63 @@
+pBt!a
+pBt!a
+pBt!a
+pBt!a
+pBt!a
+											
+Error: MAX_HEADER_BUF too small in bitstream.c 
+bit reservoir error: 
+l3_side->main_data_begin: %i 
+Resvoir size:             %i 
+resv drain (post)         %i 
+resv drain (pre)          %i 
+header and sideinfo:      %i 
+data bits:                %i 
+total bits:               %i (remainder: %i) 
+bitsperframe:             %i 
+[1;40;31m
+[ERR]
+%s%s%s: [%s:%04u]: %s%sRequest memory(size:%x) for user failed!%s
+%s%s%s: [%s:%04u]: %s%sRequest memory(size:%x) by palloc for user failed!%s
+CEDAR_malloc
+CEDAR_phymalloc
+?uofp
+Bsc`u	F
+?uofp
+Bsc`u	F
+?uofp
+Bsc`u	F
+?uofp
+Bsc`u	F
+?uofp
+Bsc`u	F
+?uofp
+Bsc`u	F
+?uofp
+Bsc`u	F
+?uofp
+Bsc`u	F
+?uofp
+Bsc`u	F
+?uofp
+Bsc`u	F
+?uofp
+Bsc`u	F
+?uofp
+Bsc`u	F
+?uofp
+Bsc`u	F
+j!sc`u	F
+Bsc`u	F
+Bsc`u	F
+Bsc`u	F
+Bsc`u	F
+Bsc`u	F
+Bsc`u	F
+Bsc`u	F
+ePDK.mod
+MELIS_MOD
+.text
+.rodata
+.data
+.shstrtab
+MAGIC

@@ -1,0 +1,35 @@
+0O#<	
+IAT7JIT
+yBz%a
+DH@#*$
+D-IH@D
+jBkaa
+9	|(h
+(h;	IA
+F\X8dc
+zB{ea
+*A#,$
+gA# d
+pBt!a
+[1;40;33m
+[DBG]
+%s%s%s: [%s:%04u]: %s%sopen file fail:%s
+%s%s%s: [%s:%04u]: %s%scan not open file 
+GetPngInfo
+eLIBs_fseek
+eLIBs_fllseek
+[1;40;31m
+[ERR]
+%s%s%s: [%s:%04u]: %s%sseek error! from %p.%s
+pthread sempend fail[%d], again
+key_type
+video_encrypt
+key%d
+allwinner_epk001
+ePDK.mod
+MELIS_MOD
+.text
+.rodata
+.data
+.shstrtab
+MAGIC

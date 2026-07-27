@@ -1,0 +1,121 @@
+kct7|t 
+GAEcp
+kct7|t 
+FAGc|
+G4rct
+`@z# 
+!c!n&
+!c!n&
+!c!n&
+!c!n&
+(@cFN
+\\#<$
+'A\\#<$
+@X@	E
+\\#<$
+'A\\#<$
+@X@	E
+u9c@$
+D	GcD
+PGIw171
++8	Gc
+wfhFg
+}G\AcV
+0@SByAF
+0`	|@XP
+_,DcT
+,\dXJ
+PpG#0
+	E%%L
+lBmea
+e}WcS
+g5CBf
+s&wF~7
+%fgcN
+F&vc@
+)$e|#
+b#8!a#41a#0Aa#<Q_#8a_#4q_#0
+3sX3ff
+G-!=G
+vfg&vc
+8hT3e
+w&gFf
+'0%	'45	'8E	'<U	'0e
+g)]q&
+ao 0g
+ @E#4
+!G}Uc
+W}7cj
+\t	G#
+\@"uc
+N%IDD
+33333333
+<V!L#
+WAVEfmt data
+[1;40;33m
+[DBG]
+%s%s%s: [%s:%04u]: %s%sadec_pcm.drv [%s] ID[%s|%s]%s
+8482bfd
+75a87bf
+Wed, 27 Nov 2024 17:53:16 +0800
+SetAudioBsHeader
+[1;40;31m
+[ERR]
+%s%s%s: [%s:%04u]: %s%slong jmp exit.%s
+%s%s%s: [%s:%04u]: %s%sAudio bitstream format information ptr is invalid!%s
+%s%s%s: [%s:%04u]: %s%sdelete audio decoder finished%s
+%s%s%s: [%s:%04u]: %s%simpossible! adrv stop already begin! It's sync!%s
+%s%s%s: [%s:%04u]: %s%sfatal error! notify stop fail!%s
+WaitAbsDataInput
+FreeAbsBuffer
+MIoctrl
+adrv_audio_main_task
+%s%s%s: [%s:%04u]: %s%sdelete audio decode driver main task!%s
+%s%s%s: [%s:%04u]: %s%ssend DATA_END message.%s
+%s%s%s: [%s:%04u]: %s%sBe careful! why video_adrv receive ERR_AUDIO_DEC_ABSEND?%s
+%s%s%s: [%s:%04u]: %s%sadec thread exit.%s
+%s%s%s: [%s:%04u]: %s%sadrv underflow, send ADEC2ADRV_MSG_TYPE_DATA_END%s
+%s%s%s: [%s:%04u]: %s%ssend DATA_END message%s
+%s%s%s: [%s:%04u]: %s%sadrv quit: send pcm buf socket! bufaddr[%x],bufsize[%d],pcmlen[%d]%s
+%s%s%s: [%s:%04u]: %s%sadec thread exit%s
+%s%s%s: [%s:%04u]: %s%s[]adrv_status_lock create fail
+%s%s%s: [%s:%04u]: %s%s[err]adrv_status_lock has release
+Impl_AdrvStatus_NotifyNewStatus
+Impl_AdrvStatus_DetectStatusChange
+Impl_AdrvStatus_ProcessStatusChange
+AdrvStatus_Init
+%s%s%s: [%s:%04u]: %s%sinvalid parameter.%s
+%s%s%s: [%s:%04u]: %s%salloc bitstream buffer failure.%s
+AudioDEC_open
+%s%s%s: [%s:%04u]: %s%sastream_fifo_init() fail, fatal error!%s
+%s%s%s: [%s:%04u]: %s%sfatal error from audio decoder, underflow%s
+%s%s%s: [%s:%04u]: %s%svideo file : adrv return ERR_AUDIO_DEC_ABSEND%s
+%s%s%s: [%s:%04u]: %s%saudio file adrv: absend%s
+%s%s%s: [%s:%04u]: %s%s[2]adeclib donot set fseekflag to 1,[%d][%d]%s
+AC320_decInit
+AC320_decPro
+FSeek_AC320
+Wav Decoder
+(%s),line(%d) : init success...
+(%s),line(%d) : exit successs...
+AllwinnerAlibs
+(%s),line(%d) : block_size has changed %d != %d
+(%s),line(%d) : error ! put bits should not out range of 32!!
+(%s),line(%d) : warning ! bitmanager added bits to the end!!
+(%s),line(%d) : error ! request bits should not out range of 32!!
+(%s),line(%d) : warning ! bitmanager cosume to the end!!
+(%s),line(%d) : bitManager is void ptr while initializing
+(%s),line(%d) : src data is null?
+%s%s%s: [%s:%04u]: %s%sRequest memory(size:%x) for user failed!%s
+%s%s%s: [%s:%04u]: %s%sRequest memory(size:%x) by palloc for user failed!%s
+CEDAR_malloc
+CEDAR_phymalloc
+  !!""##$%&'()*+,-./001123456789:;<=>?@@ABCDEFGHIJKLMNOOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+!"#$%&'()*+,.0123456789:;<=>@ABCDEFGHIJKLMNOQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ePDK.mod
+MELIS_MOD
+.text
+.rodata
+.data
+.shstrtab
+MAGIC

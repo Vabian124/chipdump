@@ -29,15 +29,17 @@ only way to produce a flashable, modified image, and it is demonstrated to work.
 
 | Path | What it is |
 |------|-----------|
+| `COVERAGE.md` | Proof of completeness: files extracted, ELF found vs disassembled, resource breakdown |
+| `MANIFEST.md` | **Complete** recursive listing of **every** file in all partitions (size, type, sha256) |
 | `PLATFORM.md` | Target SoC/board reference (F133-B, DDR2, Wi-Fi/BT), cross-checked vs the dump |
-| `INVENTORY.md` | Every file in `bootA` + all `.mod`/`.exe` with size, type, sha256 |
 | `binwalk_chipdump.txt` | `binwalk` signature scan of the full 16 MiB image |
+| `boot0/boot0.info.md` + `.disasm.txt` + `.strings.txt` | eGON.BT0 first-stage SPL (raw RV64 disasm) |
 | `kernel/epos.img.info.md` | Kernel header/marker analysis (OpenSBI, CHKv1.0) |
 | `kernel/epos.img.strings.txt` | Extracted strings (reveals RT-Thread/lwIP source paths) |
 | `kernel/epos.img.disasm.txt.gz` | Raw RV64 disassembly of the whole blob (data regions decode as noise; analysis only) |
-| `modules/<name>.readelf.txt` | Full ELF headers/sections/program headers per module |
-| `modules/<name>.disasm.txt[.gz]` | `objdump -d` RISC-V disassembly per module (stripped: no symbol names) |
-| `modules/<name>.strings.txt` | Extracted strings per module |
+| `modules/**` | **All 68** RISC-V ELF binaries, disassembled with the original tree preserved: top-level `mod/*.mod` and `apps/*.mod`, `apps/init.axf`, plus every `mod/cedar/*.plg`/`*.drv` codec and `mod/willow/*.plg` image decoder. Each has `.readelf.txt`, `.disasm.txt[.gz]`, `.strings.txt` (stripped: no symbol names) |
+
+Coverage: **68/68** RISC-V ELF binaries disassembled + 2 raw blobs (boot0, kernel). See `COVERAGE.md`.
 
 ## Tools used
 
