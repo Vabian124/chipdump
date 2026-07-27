@@ -1,0 +1,144 @@
+&#8A%#0a%#0
+&#0!'#<1%#4Q%#<q##8
+`EFw;
+nBcBw
+TFg}7
+@f"ccB
+fwFvA
+&#8A%#4Q%#0
+&#0!'#<1%#0a%#<q##8
+ RFw;
+nBcBw
+fwFvA
+<"ccB
+0Fg}7
+``o"g
+~BscF
+~Bsc	
+J#8!K#4
+y}UEa
+$#8a!#0
+"#8!##41##0A##<Q!#4q!
+dEaoPpz
+@cA`L
+@cD0Q
+A3c^o
+"cAOFvA3
+OFvA3
+@c@p]
+@cGP[3'
+GcXW.c
+@cWP	&
+VcSW/
+J#8!K#4
+3	9Am
+@#8A?
+@#0!A#<1?#4Q?#0a?#8
+tByaa
+dFiea
+jRkqa
+C8Gcr
+                0000000000000000LN
+                0000000000000000
+%u2jR
+-64OS
+zc%C1
+U> *$b
+?M==|
+                0000000000000000p
+                0000000000000000
+         (((((                  
+AAAAAA
+BBBBBB
+video_display_layer_request
+video_show_task
+video_check_task
+video_dev_init
+open_video_dev
+video_stop_show
+/dev/video%d
+%s%s%s: [%s:%04u]: %s%scan't open video%d dev%s
+/dev/sensor
+%s%s%s: [%s:%04u]: %s%scan't open sensor dev%s
+[1;40;33m
+[DBG]
+%s%s%s: [%s:%04u]: %s%sdelete video_check task!%s
+%s%s%s: [%s:%04u]: %s%slock signal!%s
+i = %d
+[1;40;31m
+[ERR]
+%s%s%s: [%s:%04u]: %s%swait viedo_show task exit failed, kill it!!%s
+%s%s%s: [%s:%04u]: %s%sswitch to PAL!!%s
+%s%s%s: [%s:%04u]: %s%sswitch to NTSC!!%s
+%s%s%s: [%s:%04u]: %s%sswitch to 720P!!%s
+%s%s%s: [%s:%04u]: %s%sswitch to 1080P!!%s
+%s%s%s: [%s:%04u]: %s%screate  video_show_task !!!!!%s
+%s%s%s: [%s:%04u]: %s%scan't get disp handle%s
+/dev/g2d
+%s%s%s: [%s:%04u]: %s%scan't open g2d dev%s
+%s%s%s: [%s:%04u]: %s%sdelete video_show_task!%s
+%s%s%s: [%s:%04u]: %s%swait check task exit failed, kill it!!%s
+v4l2_set_contrast
+v4l2_set_brightness
+v4l2_set_saturation
+v4l2_set_hue
+v4l2_set_channel
+v4l2_update_frame
+v4l2_exit
+v4l2_stop
+v4l2_start
+v4l2_set_fmt
+req_frame_buffers
+%s%s%s: [%s:%04u]: %s%sVIDIOC_REQBUFS ret:%d
+%s%s%s: [%s:%04u]: %s%sbuffers calloc failed%s
+%s%s%s: [%s:%04u]: %s%smalloc failed
+%s%s%s: [%s:%04u]: %s%sVIDIOC_QBUF error
+VIDIOC_REQBUFS error: %d
+buffers calloc failed!
+buf.m.planes calloc failed!
+VIDIOC_QUERYBUF error: %d
+malloc %x,len %d
+userptr malloc %d error
+VIDIOC_QBUF failed: %d
+v412_set_video_mode %d
+%s%s%s: [%s:%04u]: %s%sdelete start = %p len = %d%s
+%s%s%s: [%s:%04u]: %s%sset brightness:%u %s
+%s%s%s: [%s:%04u]: %s%sCAPTURE mode video4 set channel %d
+%s%s%s: [%s:%04u]: %s%sVIDIOC_S_INPUT %d error : %d
+%s%s%s: [%s:%04u]: %s%smplane mode video%d set channel %d
+successfully
+%s%s%s: [%s:%04u]: %s%sset contrast:%u %s
+v4l2_set_fmt %d
+%s%s%s: [%s:%04u]: %s%sset image system failed
+VIDIOC_S_FMT %d
+%s%s%s: [%s:%04u]: %s%sset hue:%u %s
+%s%s%s: [%s:%04u]: %s%sset saturation:%u %s
+%s%s%s: [%s:%04u]: %s%sVIDIOC_STREAMON error
+%s%s%s: [%s:%04u]: %s%sVIDIOC_STREAMOFF error
+%s%s%s: [%s:%04u]: %s%splanes length overflow %d,%d
+%s%s%s: [%s:%04u]: %s%sVideo_Play_MClose%s
+%s%s%s: [%s:%04u]: %s%sopen video dev error!%s
+VIDEO_PLAY_SET_VIDEO_MODE %d
+VIDEO_PLAY_SET_FIX_VIDEO_MODE %d
+set dispay rect %d,%d,%d,%d
+set offset %d,%d,%d,%d
+%s%s%s: [%s:%04u]: %s%svideo_play.mod Minit err!%s
+Video_Play_MOpen
+Video_Play_MClose
+Video_Play_MIoctrl
+0123456789abcdef
+0123456789ABCDEF
+(null)
+ NaN 
+ -Infinity 
+ Infinity 
+POSIX
+ASCII
+ASCII
+ePDK.mod
+MELIS_MOD
+.text
+.rodata
+.data
+.shstrtab
+MAGIC

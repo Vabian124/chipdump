@@ -1,0 +1,11 @@
+zN{Ua
+jBkaa
+unknown file
+d:\mod\willow\pshow.plg
+ePDK.mod
+MELIS_MOD
+.text
+.rodata
+.data
+.shstrtab
+MAGIC

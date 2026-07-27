@@ -1,0 +1,134 @@
+&#8A%#4Q%#0
+&#0!'#<1%#0a%#<q##8
+ RFw;
+nBcBw
+fwFvA
+s"ccB
+0Fg}7
+~BscF
+~Bsc	
+J#8!K#4
+y}UEa
+$#8a!#0
+"#8!##41##0A##<Q!#4q!
+dEaop
+&#8A%#0a%#0
+&#0!'#<1%#4Q%#<q##8
+`EFw;
+nBcBw
+TFg}7
+ PQ"ccB
+fwFvA
+@c@p]
+@cGP[3'
+GcXW.c
+@cWP	&
+VcSW/
+J#8!K#4
+3	9Am
+@cA`L
+@cD0Q
+A3c^o
+"cAOFvA3
+OFvA3
+@#8A?
+@#0!A#<1?#4Q?#0a?#8
+pBt!a
+pBt!a
+                0000000000000000
+%u2jR
+-64OS
+zc%C1
+U> *$b
+?M==|
+                0000000000000000h
+                0000000000000000
+         (((((                  
+AAAAAA
+BBBBBB
+                0000000000000000
+video_show_task
+video_check_task
+video_dev_init
+video_dev_exit
+[1;40;33m
+[DBG]
+%s%s%s: [%s:%04u]: %s%sdelete video_check task!%s
+%s%s%s: [%s:%04u]: %s%sswitch to NTSC!!%s
+%s%s%s: [%s:%04u]: %s%sswitch to PAL!!%s
+i = %d
+%s%s%s: [%s:%04u]: %s%screate  video_show_task !!!!!%s
+%s%s%s: [%s:%04u]: %s%slangaojie fd = %d%s
+[1;40;31m
+[ERR]
+%s%s%s: [%s:%04u]: %s%scan't get disp handle%s
+/dev/g2d
+%s%s%s: [%s:%04u]: %s%scan't open g2d dev%s
+/dev/video4
+%s%s%s: [%s:%04u]: %s%scan't open video dev%s
+%s%s%s: [%s:%04u]: %s%sdelete video_show_task!%s
+v4l2_set_contrast
+v4l2_get_contrast
+v4l2_set_brightness
+v4l2_get_brightness
+v4l2_set_saturation
+v4l2_get_saturation
+v4l2_set_sharpness
+v4l2_get_sharpness
+v4l2_set_hue
+v4l2_get_hue
+v4l2_set_channel
+v4l2_exit
+v4l2_stop
+v4l2_start
+v4l2_init
+%s%s%s: [%s:%04u]: %s%sv4l2_exit%s
+%s%s%s: [%s:%04u]: %s%sget brightness %s :%u
+%s%s%s: [%s:%04u]: %s%sget contrast %s :%u
+%s%s%s: [%s:%04u]: %s%sget hue %s :%u
+%s%s%s: [%s:%04u]: %s%sget saturation %s :%u
+%s%s%s: [%s:%04u]: %s%sget sharpness %s :%u
+%s%s%s: [%s:%04u]: %s%sv4l2_init%s
+%s%s%s: [%s:%04u]: %s%sh_video_dev open err 
+%s%s%s: [%s:%04u]: %s%sset image format failed
+%s%s%s: [%s:%04u]: %s%sVIDIOC_REQBUFS ret:%d
+%s%s%s: [%s:%04u]: %s%sbuffers calloc failed%s
+%s%s%s: [%s:%04u]: %s%smalloc failed
+%s%s%s: [%s:%04u]: %s%sVIDIOC_QBUF error
+/dev/di
+%s%s%s: [%s:%04u]: %s%sopen di di_fd = %d
+%s%s%s: [%s:%04u]: %s%sset brightness:%u %s
+%s%s%s: [%s:%04u]: %s%sVIDIOC_S_INPUT:%u %s
+successfully
+%s%s%s: [%s:%04u]: %s%sg_video_ctrl is error
+%s%s%s: [%s:%04u]: %s%sset contrast:%u %s
+%s%s%s: [%s:%04u]: %s%sset hue:%u %s
+%s%s%s: [%s:%04u]: %s%sset saturation:%u %s
+%s%s%s: [%s:%04u]: %s%sset sharpness:%u %s
+%s%s%s: [%s:%04u]: %s%sv4l2_start%s
+%s%s%s: [%s:%04u]: %s%sVIDIOC_STREAMON error
+%s%s%s: [%s:%04u]: %s%sv4l2_stop%s
+%s%s%s: [%s:%04u]: %s%sg_video_ctrl or h_video_dev is error
+%s%s%s: [%s:%04u]: %s%sVIDIOC_STREAMOFF error
+%s%s%s: [%s:%04u]: %s%sVideo_Play_MClose%s
+set dispay rect %d,%d,%d,%d
+set offset %d,%d,%d,%d
+%s%s%s: [%s:%04u]: %s%svideo_play.mod Minit err!%s
+Video_Play_MOpen
+Video_Play_MClose
+0123456789abcdef
+0123456789ABCDEF
+(null)
+ NaN 
+ -Infinity 
+ Infinity 
+POSIX
+ASCII
+ASCII
+ePDK.mod
+MELIS_MOD
+.text
+.rodata
+.data
+.shstrtab
+MAGIC

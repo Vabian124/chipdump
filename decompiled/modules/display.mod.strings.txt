@@ -1,0 +1,137 @@
+'|}Uc
+tByaa
+zB{ea
+%s%s%s: [%s:%04u]: %s%scolor = 0x%x %s
+[1;40;31m
+[ERR]
+%s%s%s: [%s:%04u]: %s%slayer not color mode%s
+%s%s%s: [%s:%04u]: %s%sdrvinfo.info.alpha_value = %x%s
+/dev/pwm
+%s%s%s: [%s:%04u]: %s%sFM Find PWM Dev File Failed
+%s%s%s: [%s:%04u]: %s%sset pwm%d %d,freq %d%s
+%s%s%s: [%s:%04u]: %s%smod_display test case!!%s
+%s%s%s: [%s:%04u]: %s%sno this CMD in display mod %d%s
+vcom_pwm_ch
+vcom_pwm_freq
+avdd_pwm_ch
+avdd_pwm_freq
+disp_layer_manager_init
+disp_layer_manager_deinit
+disp_dev_layer_config
+layer_request
+disp_layer_release
+disp_layer_open
+disp_layer_close
+disp_layer_get_para
+disp_layer_set_para
+disp_layer_set_fb
+disp_layer_get_fb
+Mod_Display_MIoctrl
+%s%s%s: [%s:%04u]: %s%sioctl failed: %s%s
+%s%s%s: [%s:%04u]: %s%sfatal error! pinfo->channel[%d]layer_id[%d] is invalid!%s
+%s%s%s: [%s:%04u]: %s%sfatal error! pinfo == NULL!%s
+%s%s%s: [%s:%04u]: %s%sch[%d]lyl[%d] disable, use storage value%s
+%s%s%s: [%s:%04u]: %s%sget para failed%s
+%s%s%s: [%s:%04u]: %s%sBe careful! layer_config ret[%d] > 0, is it normal?%s
+[1;40;33m
+[DBG]
+%s%s%s: [%s:%04u]: %s%sfatal error! hlay[%d] invalid!%s
+%s%s%s: [%s:%04u]: %s%sfatal error! input fb is null!%s
+%s%s%s: [%s:%04u]: %s%sset para failed%s
+%s%s%s: [%s:%04u]: %s%sfatal error! pthread mutex destroy fail!%s
+/dev/disp
+%s%s%s: [%s:%04u]: %s%sFailed to open disp device, ret:%x, errno: %d%s
+%s%s%s: [%s:%04u]: %s%sfatal error! pthread mutex init fail!%s
+%s%s%s: [%s:%04u]: %s%slayer_request MOD_DISP_LAYER_WORK_MODE_SCALER%s
+%s%s%s: [%s:%04u]: %s%s err :scaler layer use up%s
+%s%s%s: [%s:%04u]: %s%slayer_request MOD_DISP_LAYER_WORK_MODE_NORMAL%s
+%s%s%s: [%s:%04u]: %s%slayer use up.%s
+%s%s%s: [%s:%04u]: %s%sno this channel.%s
+%s%s%s: [%s:%04u]: %s%srequested: ch:%d, id:%d  disp_mgr[%d].req_layer_cnt = %d%s
+Not owner
+No such file or directory
+No such process
+Interrupted system call
+I/O error
+No such device or address
+Arg list too long
+Exec format error
+Socket already connected
+Bad file number
+No children
+Destination address required
+No more processes
+Not enough space
+Permission denied
+Bad address
+Device or resource busy
+File exists
+Cross-device link
+No such device
+Not a directory
+Host is down
+Connection already in progress
+Is a directory
+Invalid argument
+Network interface is not configured
+Connection aborted by network
+Too many open files in system
+File descriptor value too large
+Not a character device
+Text file busy
+File too large
+Host is unreachable
+No space left on device
+Not supported
+Illegal seek
+Read-only file system
+Too many links
+Broken pipe
+Mathematics argument out of domain of function
+Result too large
+No message of desired type
+Identifier removed
+Illegal byte sequence
+Deadlock
+Network is unreachable
+No lock
+Not a stream
+Stream ioctl timeout
+No stream resources
+Virtual circuit is gone
+Protocol error
+Unknown protocol
+Multihop attempted
+Bad message
+Function not implemented
+Directory not empty
+File or path name too long
+Too many symbolic links
+No buffer space available
+No data
+Address family not supported by protocol family
+Protocol wrong type for socket
+Socket operation on non-socket
+Protocol not available
+Connection refused
+Connection reset by peer
+Address already in use
+Address not available
+Software caused connection abort
+Socket is not connected
+Socket is already connected
+Operation canceled
+State not recoverable
+Previous owner died
+Operation not supported on socket
+Value too large for defined data type
+Message too long
+Connection timed out
+Success
+ePDK.mod
+MELIS_MOD
+.text
+.rodata
+.data
+.shstrtab
+MAGIC

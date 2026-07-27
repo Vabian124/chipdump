@@ -1,0 +1,23 @@
+gD}#0
+`y}T"
+[1;40;31m
+[ERR]
+%s%s%s: [%s:%04u]: %s%smalloc failed!%s
+MOpen
+[1;40;33m
+[DBG]
+%s%s%s: [%s:%04u]: %s%sInitJpegHw fail%s
+%s%s%s: [%s:%04u]: %s%sJpegHwDec fail%s
+JpegDecodeRaw
+VEngine
+%s%s%s: [%s:%04u]: %s%sfatal error.%s
+%s%s%s: [%s:%04u]: %s%sVE hasn't any response!%s
+MJPEG_SendVeReady
+MJPEG_WaitVeReady
+ePDK.mod
+MELIS_MOD
+.text
+.rodata
+.data
+.shstrtab
+MAGIC

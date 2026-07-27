@@ -1,0 +1,2380 @@
+y}UEa
+pbd"y
+D4X8t
+l,l#$
+k<X#<
+&#8A%#0a%#0
+&#0!'#<1%#4Q%#<q##8
+`EFw;
+nBcBw
+TFg}7
+Q"ccB
+fwFvA
+T#8!U#41U#0AU#<QS#8aS#4qS#8
+0pQ}w
+	GcsGU
+3	9Am
+  NXD
+$#8a!#0
+"#8!##41##0A##<Q!#4q!
+A!GcV
+EeC}X
+EeC}X
+}X3~h
+}XAC3Xh
+}X3~h
+}XAC3Xh
+@cA`L
+@cD0Q
+A3c^o
+"cAOFvA3
+OFvA3
+PP[<X#<
+$}7#$
+*}7#$
+xck%_
+AcrW;}
+D	Fc	
+PGXcw
+@}W;W
+E"db{
+\HXDc
+VEXcv
+pbd;V
+@BfcU
+>cE ?cX
+.ec^`o
+pBt!a
+ #8!!
+yJz-a
+tByaa
+tByaa
+tRyqa
+}TcT0
+EZEao
+p"dbi
+pbd"y
+p"dbi
+aoBi"
+aF1q"
+pbdEa
+qOyT"
+q'yT"
+atyT"
+aUyT"
+jBkaa
+jBkaa
+pbdEa
+$\L# 
+}&4-a
+DXq9aF3
+E#0%%
+aopQ`
+ e"ey
+pQKbd
+p1D}Y#
+pbd"y
+opah6
+`!?"u
+`A#"f
+p0(bu<A
+ Qd#<
+PqA}U
+!#<t!#
+EEaoP
+PaH1E
+Pa4"d
+tuUaa
+puUEa
+tuUEa
+tuUEa
+`BiuU
+E#84/
+1C	NY
+{b$%a
+PBs#8
+9	|cc$
+#8A'#4Q'#<q%
+(#0!)
+#<1'#0a'
+<#<1;#4Q;#8
+<#0!=#8A;#0a;#<q9
+E#8;	#8{
+fh2gRf
+Faao 
+o R]o
+tByaa
+zB{ea
+jBkaa
+L#0!M#<1K#8AK#4QK#0aK#<qI#8
+B#0!C#<1A#8AA#4QA
+?c`n 
+		@3y	
+#<1I#8AI#4QI#0aI#<qG#8
+J#0!K#4
+zB{ea
+9	|cd$
+dFyIa
+biEao
+biEao
+p"dbi
+p"dbi
+p"dbi
+p"dbi
+@vuYN
+`huYN
+ .uYN
+@ uYN
+0vuYN
+pbd"y
+pbd"y
+0	uYc
+jBkaa
+jBkaa
+jBkaa
+jFk&$Ia
+zB{ea
+0uuYc
+jBkaa
+P;uYc
+jBkaa
+jBkaa
+jBkaa
+jBkaa
+jBkaa
+jBkaa
+jBkaa
+jBkaa
+jBkaa
+jBkaa
+jBkaa
+jBkaa
+jBkaa
+jBkaa
+jBkaa
+p@luY"
+zB{ea
+zB{ea
+jBkaa
+jBkaa
+jBkaa
+jBkaa
+`pmuYN
+7	(yT
+jBkaa
+`@huYN
+lBmea
+jBkaa
+p"dbi
+P@MuY
+g5Gcb
+@PmuT
+@0fyT&
+lBmea
+@P8iT
+GAGa<#
+@`IuTc
+p"dbi
+pEaoP
+pEaoPo
+0 puU
+ao0 a
+#,T	#(
+`!}cX
+p"dbi
+pbd"y
+pbdEa
+yBz	a
+Eao01
+"#<d'#8T'# 
+jBkaa
+Hi\Ec
+Hm\Ec
+p"dbi
+p"dbi
+zbkaa
+/ADcA
+BVO&u
+G3U3I
+G3U3I
+kBl%a
+tByaa
+zB{ea
+~#8!}#41}#<Q{#8a{#8
+|#0A}#4q{#0
+biEao
+1K};c
+zJ{ma
+dFyIa
+kBl%a
+e9Gcr
+pJt)a
+fz!G|
+<x0p(|
+8L|Tc
+3	9AY
+o `doP
+Fo0p1
+{B|	a
+@UGcX
+@YGcR
+GbWB]
+G7Gpm
+&GbN3N
+&GbN3N
+9	|cd$
+dFyIa
+9	|cd$
+9	|cd$
+www.baidu.com
+%)+/5;=CGIOSYaegkmq
+                0000000000000000
+%u2jR
+-64OS
+zc%C1
+U> *$b
+?M==|
+                0000000000000000l"
+         (((((                  
+AAAAAA
+BBBBBB
+ECLINK_MInit
+eclink_authorize_status %d
+eclink_connect_status %d
+**************eclink_start_mirror**************
+**************ws_eclink_start**************
+**************ws_eclink_stop_mirror**************
+h264_init width %d,height %d
+m_bFirstPlay
+h264_uninit
+lib_eclink_disconnect
+lib_eclink_hide
+lib_eclink_init
+malloc fail ---
+lib_eclink_key %d
+lib_eclink_net_connect
+lib_eclink_net_disconnect
+lib_eclink_screen %d,%d
+lib_eclink_show
+lib_eclink_start
+lib_eclink_stop
+**************ws_eclink_stop**************
+lib_eclink_video %d,%d
+status_notify %d
+SIOCGIFHWADDR
+%02x:%02x:%02x:%02x:%02x:%02x
+12345678
+SIOCGIFADDR
+%d.%d.%d.%d
+/dev/udisk_flush
+can not find device:%s
+----CarApi_FlushCache---end
+/dev/spinor2
+fd is null----
+flash id=0x%x
+uuid len %d:
+%02x 
+eLIBs_fseek
+[1;40;31m
+[ERR]
+%s%s%s: [%s:%04u]: %s%sseek error! from %p.%s
+ws_eclink_init
+ws_eclink_set_status_callback
+ws_eclink_set_authorize_callback
+ws_eclink_set_message_callback
+%s%s%s: [%s:%04u]: %s%suuid error ---
+%s%s%s: [%s:%04u]: %s%s----eclink_ex_func Error-----
+%s%s%s: [%s:%04u]: %s%s----Check License Error-----
+1.0.13
+/tmp/
+V0.0.1
+CARBIT00000001
+opt_socketTimeoutPeriod
+opt_supportScreenTouch
+opt_supportBackDesktop
+car_btName
+%s%s%s: [%s:%04u]: %s%scallback is NULL
+onPhoneNotification
+onLicenseAuthFail
+onPhoneAppHUDLaneGuidancePicture
+%s%s%s: [%s:%04u]: %s%sonLicenseAuthFail
+/tmp/LANE_%02d.%s
+%s%s%s: [%s:%04u]: %s%sFailed to open [%s]
+/tmp/wxIcon_%02d.%s
+ec_spi_init
+ec_spi_read_nor_chipid
+/dev/spi0
+%s%s%s: [%s:%04u]: %s%sopen dev failed
+%s%s%s: [%s:%04u]: %s%sspi read fail
+%s%s%s: [%s:%04u]: %s%sex_func is NULL1;%s
+Ec_Ws_Checkkey
+Ec_Ws_Md5_Checkkey
+nor_flash_flush
+file_size
+file_read
+file_write
+file_clear
+registerIECACallback
+[1;40;33m
+[DBG]
+%s%s%s: [%s:%04u]: %s%s---file_clear---name = %s
+%s%s%s: [%s:%04u]: %s%sclear name is NULL ---
+%s%s%s: [%s:%04u]: %s%sfile is not exist
+%s%s%s: [%s:%04u]: %s%s---file_clear---end---
+%s%s%s: [%s:%04u]: %s%sread name is NULL ---
+%s%s%s: [%s:%04u]: %s%sread: file open failed file is not exist---
+%s%s%s: [%s:%04u]: %s%ssieze name is NULL ---
+%s%s%s: [%s:%04u]: %s%sfile_size file is not exist ---
+%s%s%s: [%s:%04u]: %s%swrite name is NULL ---
+%s%02x
+/dev/UDISK_flush
+%s%s%s: [%s:%04u]: %s%sopen UDISK_flush fail ---
+%s%s%s: [%s:%04u]: %s%sregister iec file failed ---
+config=%p,listener=%p
+EC_initialize
+auth_uuid
+auth_versionName
+opt_workspace
+fw_appType
+fw_onPhoneConnected
+fw_onPhoneDisconnected
+fw_onTransportStopedByApp
+fw_onPhoneAppExited
+fw_onMirrorVideoReceived
+fw_paramAuth
+fw_paramCarDesc
+fw_paramOptions
+fw_updateFlavor
+fw_paramConfig
+handle_openTransport
+handle_openMirrorConnection
+handle_startMirror
+handle_closeTransport
+handle_closeMirrorConnection
+handle_stopMirror
+handle_pauseMirror
+handle_resumeMirror
+handle_closeWiFiService
+handle_connect_callback
+fw_initialize
+fw_release
+fw_start
+fw_stop
+fw_setMirrorConfig
+fw_setVideoPlayer
+fw_setAudioPlayer
+fw_setAudioRecorder
+fw_notifyWifiStateChanged
+fw_startMirror
+fw_pauseMirror
+fw_resumeMirror
+fw_stopMirror
+fw_setLinkPhoneApp
+fw_resetECConfig
+fw_getECConnectStatus
+find result failed
+find ECTransportType failed
+onECConnectStatus
+mIsPhoneConn is false, so need not to callback EC_CONNECT_STATUS_CONNECTING
+mIsPhoneConn is false, so need not to callback EC_CONNECT_STATUS_CONNECT_FAILED
+mIsPhoneConn is false, so need not to callback EC_CONNECT_STATUS_CONNECT_SUCCEED
+mIsPhoneConn is false, so need not to callback EC_CONNECT_STATUS_APP_EXIT
+mIsPhoneConn is false, so need not to callback EC_CONNECT_STATUS_INTERRUPTED_BY_APP
+mIsPhoneConn is %d, mIsTransportOpen = %d, mIsMirror = %d, so need not to callback EC_MIRROR_STATUS_MIRROR_AUTH_PENDING
+onMirrorStatus
+mIsPhoneConn is %d, mIsTransportOpen = %d, so need not to callback EC_MIRROR_STATUS_MIRROR_STARTED
+mIsPhoneConn is %d, mIsTransportOpen = %d, so need not to callback EC_MIRROR_STATUS_MIRROR_FAILED
+mIsPhoneConn is %d, mIsTransportOpen = %d, so need not to callback EC_MIRROR_STATUS_MIRROR_STOPPED
+result invalid
+fw_getECConnectStatus:mStarted:%d, mIsPhoneConn:%d, mIsTransportOpen:%d, mIsMirrorOpen:%d, mIsMirrorStart:%d, mIsMirror:%d
+DEBUG
+has initialized
+listener is null
+ecFrame
+createHandler failed
+ecCallback
+no started
+[ECSDKFrameworkImpl]:the program not support
+[ECSDKFrameworkImpl]:notifyWifiStateChanged need=%d, interrupt=%d, stat=%d
+[ECCallback]:onMirrorVideoReceived mIsInterrupt is true!
+[ECCallback]:onMirrorVideoReceived start video
+[%s] object is null
+onMirrorInfoChanged
+[%s]:%s object is null
+mVideoPlayer
+[ECCallback]:onMirrorVideoReceived videoinfo changed MirrorWidth:%d MirrorHeight:%d
+[ECCallback]:onMirrorVideoReceived videoinfo changed realWidth:%u realHeight:%u
+[ECCallback]onPhoneConnected: type=%d, >>>>>>>>> %d
+ECTransportType
+result
+---[OUT]---
+[ECCallback]onPhoneDisconnected count = %d, errCode = %d
+[ECCallback]onPhoneDisconnected_end
++++[IN]+++
+auth_pwd
+auth_versionCode
+auth_flavor
+auth_authCheckMode
+car_mediaLevel
+car_mediaOS
+car_mediaModel
+car_screenType
+car_carBrand
+car_carModel
+car_carConfig
+car_micType
+car_supportBTCall
+car_supportBTSetting
+car_btAddress
+car_btPin
+car_dpi
+car_enableDpi
+car_supportConnect
+car_supportFunction
+car_micSupportFeature
+car_productType
+car_wakeupWord
+initCarDesc mesiaOS:%s, mediaMode:%s, carBrand:%s, carModel:%s, carConfig:%s, mediaLevel:%d, screenType:%d, micType:%d, supportConnect:%d, supportFunction:%d micSupportFeature:%d, productType:%d, wakeupWord:%s
+opt_autoOpenWifiService
+opt_scanADB
+opt_scanAOA
+opt_scanIOSUsb
+opt_supportRVForAdb
+opt_isAppMirrorForAdb
+opt_supportScreenMirroring
+opt_supportThirdPartyApp
+opt_supportLandscapeAdaptive
+opt_supportOTAUpdate
+opt_mirrorMode
+opt_bluetoothPolicy
+opt_disableShowCallInfo
+opt_disablePageInRVMap
+pauseMirror_phoneConnected:%d, transportOpend:%d, mirrorOpened:%d, mirrorStarted:%d
+This project does not support this feature!
+ERROR
+resumeMirror_phoneConnected:%d, transportOpend:%d, mirrorOpened:%d, mirrorStarted:%d
+audioRecorder is null
+http://www.carbit.com.cn/down5/663
+net.easyconn.carman
+http://www.carbit.com.cn/down5/227
+net.easyconn.carman.wws
+setLinkPhoneApp type=%u
+create json object failed.
+flavor
+phoneAppPackage
+net.easyconn.carman.MainActivity
+phoneAppMainActivity
+aoaUri
+setMirrorConfig cfg is same
+no initialized
+has started
+video is null
+startMirror_phoneConnected:%d, transportOpend:%d, mirrorOpened:%d, mirrorStarted:%d
+CarbitDriverModel
+Carbit
+http://www.carbit.com.cn/down5/310
+DriverModelNeutral
+net.easyconn.carman.neutral
+CarbitDriverOversea
+http://www.carbit.com.cn/down5/218
+[ECSDKFrameContext]updateFlavor project flavor=%d,Please set correct flavor
+channel
+aoaManufacturer
+aoaModel
+aoaVersion
+opReserve:%s
+[ECSDKFrameworkImpl]:openMirrorConnection_mIsInterrupt is true
+[ECSDKFrameworkImpl]:openMirrorConnection_mIsTransportOpen is false
+[ECSDKFrameworkImpl]:openMirrorConnection_mirror connection already opened
+[ECSDKFrameworkImpl]:openMirrorConnection_mirror width: %d, mirror height: %d
+[ECSDKFrameworkImpl]:openMirrorConnection_open mirror connection successfully
+[ECSDKFrameworkImpl]:openMirrorConnection_open mirror connection failed, ret = %d
+mIsInterrupt is true
+find int32_t failed
+opentransport return value: %d
+[ECSDKFrameworkImpl]:pauseMirror_pause mirror successfully
+[ECSDKFrameworkImpl]:pauseMirror_failed to pause mirror, return value: %d
+[ECSDKFrameworkImpl]:resumeMirror_resume mirror successfully
+[ECSDKFrameworkImpl]:resumeMirror_failed to resume mirror, return value: %d
+[ECSDKFrameworkImpl]:startMirror_mIsInterrupt is true
+[ECSDKFrameworkImpl]:startMirror_mIsTransportOpen is false
+[ECSDKFrameworkImpl]:startMirror_mirror already started
+[ECSDKFrameworkImpl]:startMirror_mTransportType = %d
+[ECSDKFrameworkImpl]:startMirror_startMirror() = %d
+[ECSDKFrameworkImpl]:startMirror_start mirror successfully
+[ECSDKFrameworkImpl]:startMirror_starting mirror errror
+[ECSDKFrameworkImpl]:startMirror_starting mirror, return value: %d
+[ECSDKFrameworkImpl]:stopMirror_mTransportType = %d
+[ECSDKFrameworkImpl]:stopMirror_stop mirror successfully
+ectiny_imp_initialize
+ectiny_imp_release
+ectiny_imp_setLogInfo
+ectiny_imp_bindUSBDevice
+ectiny_imp_bindWIFIDevice
+ectiny_imp_unbindDevice
+ectiny_imp_bindHidDevice
+ectiny_imp_unBindHidDevice
+ectiny_imp_bindBTDevice
+ectiny_imp_unBindBTDevice
+ectiny_imp_setRequestBuildNetRly
+ectiny_imp_setNetInterfaceInfo
+ectiny_imp_openWiFiService
+ectiny_imp_closeWiFiService
+ectiny_imp_openTransport
+ectiny_imp_closeTransport
+ectiny_imp_openMirrorConnection
+ectiny_imp_startMirror
+ectiny_imp_pauseMirror
+ectiny_imp_resumeMirror
+ectiny_imp_stopMirror
+ectiny_imp_sendSystemKeyEvent
+ectiny_imp_sendTouchEvent
+ectiny_imp_closeMirrorConnection
+ectiny_imp_sendBtnEvent
+ectiny_imp_sendBtnEvent2
+ectiny_imp_stopPhoneNavigation
+ectiny_imp_stopPhoneVR
+ectiny_imp_uploadAudioData
+ectiny_imp_uploadNightModeStatus
+ectiny_imp_uploadDrivingStatus
+ectiny_imp_enableDownloadPhoneAppAudio
+ectiny_imp_disableDownloadPhoneAppAudio
+ectiny_imp_enableDownloadPhoneAppHud
+ectiny_imp_disableDownloadPhoneAppHud
+ectiny_imp_setConnectedBTAddress
+ectiny_imp_openAppPage
+ectiny_imp_openAppPage2
+ectiny_imp_sendAudioPlayEnd
+ectiny_imp_queryGPS
+ectiny_imp_queryTime
+ectiny_imp_sendCarStatus
+ectiny_imp_sendCarBluetooth
+ectiny_imp_registerCarCmds
+ectiny_imp_uploadStatistics
+ectiny_imp_checkOTAUpdate
+ectiny_imp_startOTAUpdate
+ectiny_imp_stopOTAUpdate
+ectiny_imp_enableSandbox
+ectiny_imp_openAppMainPage
+ectiny_imp_playCarTTS
+ectiny_imp_sendInputText
+ectiny_imp_sendInputAction
+ectiny_imp_sendInputSelection
+ectiny_imp_queryPageList
+ectiny_imp_queryPageIcon
+ectiny_imp_queryWeather
+ectiny_imp_queryVRTips
+ectiny_imp_generateQRCodeUrl
+ectiny_imp_registerSimilarSoundingWords
+ectiny_imp_sendNotifyOTAFtpFile
+ectiny_imp_sendNotifyOTAFtpFile2
+ectiny_imp_sendOTAFtpServiceRequest
+ectiny_imp_sendNotifyOTAFtpFileDownload
+ectiny_imp_sendOTADownloadFromRemote
+ectiny_imp_requestPhoneNotification
+BTBLE module is not support!
+dev is null,please implement it outside
+create aoa hid service fail
++++,type=%d
++++,type=%d,ip=%s
+[ECSDKImp]checkOTAUpdate: This project do not support OTA!
+closeMirrorConnection: mirror not initialized yet
+enableDownloadPhoneAppAudio, enableTTS=%d, enableVR=%d, enableTalkie=%d, enableMusic=%d, autoChangeToBT=%d
+enableDownloadPhoneAppAudio: pxc not initialized yet
+enableDownloadPhoneAppAudio: sendEnableDownloadPhoneAudio failed, ret=%d
+[ECSDKImp]enableDownloadPhoneAppHud: sendEnableDownloadPhoneHud failed, ret=%d
+[ECSDKImp]enableSandbox begin
+[ECSDKImp]enableSandbox end
+[ECSDKImp]please init ECTiny first
+LTT01
+%s_%s
+ecTiny already init
+create mutex attribute error. msg:%s
+initialize:authenization {uuid=%s, pwd len=%d, versionName=%s, versionCode=%d, authCheckMode=%d,flavor=%d}
+initialize:carDescription {mediaLevel=%d, mediaOS=%s, mediaModel=%s, carBrand=%s, carModel=%s, micType=%d, supportBTCall=%d, supportBTSetting=%d, screenType=%d, btName=%s, btAddress=%s, btPin=%s, dpi=%d, supportConnect=%d, supportFunction=0X%X, micSupportFeature=0X%X, productType=0X%X, wakeupWord=%s}
+initialize:options {workspace=%s, scanADB=%d, scanAOA=%d, scanIOSUsb=%d, isAppMirrorForAdb=%d, supportScreenMirroring=%d, supportThirdPartyApp=%d, supportLandscapeAdaptive=%d, supportScreenTouch=%d, supportOTAUpdate=%d, supportBackDesktop=%d, mirrorMode=%d, bluetoothPolicy=%d,socketTimeoutPeriod=%d}, {SDK_VERSION_NAME=%s, SDK_VERSION_CODE=%d}, listener=%p
+ listener is null
+initialize: ECContext failed to init, ret=%d
+initialize: channel is invalid
+initialize: failed to start EventManager, ret=%d
+127.0.0.1
+deviceManager start fail,ret=%d
+ECFuncHandle create failed!
+[ECSDKImp]openAppMainPage: sendSwitchAppToMainPage failed, ret=%d
+[ECSDKImp]openAppPage: page=%d
+[ECSDKImp]openAppPage: sendOpenAppPage failed, ret=%d
+[ECSDKImp]openAppPage2: page=%d, channel=%d
+[ECSDKImp]openAppPage: sendOpenAppPage2 failed, ret=%d
+openMirrorConnection: config={width=%d, height=%d, quality=%d,touchMode=%d}
+openMirrorConnection: pxc is not created
+openMirrorConnection: mirror connection already opened
+openMirrorConnection: failed to open mirror
+openTransport: type=%d
+openTransport: transport already opened, type=%d
+openTransport: there haven't connected phone
+openTransport: EC_TRANSPORT_IOS_USB_LIGHTNING is not supported by HU
+openTransport: currentIp=%s
+openTransport: failed to create pxc, type=%d
+openTransport: failed to start LicenseManager
+openTransport end
+openTransport fail,ret=%d
+openWiFiService: publishWiFiService failed
+pauseMirror: mirror not initialized yet
+pauseMirror: pause failed, ret=%d
+[ECSDKImp]playCarTTS:text=%s, level=%d
+[ECSDKImp]playCarTTS: text is null or empty
+[ECSDKImp]playCarTTS: sendCarTTS failed, ret=%d
+[ECSDKImp]queryGPS: queryGPS failed, ret=%d
+[ECSDKImp]queryPageIcon: pages=%p, length=%d
+[ECSDKImp]queryPageIcon: invalid params
+[ECSDKImp]: failed, ret=%d
+[ECSDKImp]queryTime: queryTime failed, ret=%d
+[ECSDKImp]registerCarCmds: sendCarCmds failed, ret=%d
+[ECSDKImp]registerSimilarSoundingWords: parameters is invalid
+[ECSDKImp]registerSimilarSoundingWords: registerSimilarSoundingWords failed, ret=%d
+ectiny_imp_release 1
+ectiny_imp_release 2
+ectiny_imp_release 3
+ectiny_imp_release 4
+ectiny_imp_release 5
+ectiny_imp_release 6
+ectiny_imp_release 7
+ectiny_imp_release 8
+ectiny_imp_release 9
+resumeMirror: mirror not initialized yet
+resumeMirror: resume failed, ret=%d
+[ECSDKImp]sendAudioPlayEnd: type=%d
+[ECSDKImp]sendAudioPlayEnd: sendAudioPlayEnd failed, ret=%d
+[ECTinyImp] key=%d, type=0x%x
+[ECTinyImp] pxc not initialized yet
+[ECTinyImp] sendSwitchFront failed, ret=%d
+[ECTinyImp] sendBtnEvent failed, ret=%d
+[ECTinyImp] btnCode=0x%x, type=0x%x, channel=0x%x
+[ECTinyImp] sendBtnEvent2 failed, ret=%d
+[ECSDKImp]sendCarBluetooth name=%s, adddress=%s, pin=%s
+[ECSDKImp]sendCarBluetooth: sendCarBluetoothInfo failed, ret=%d
+[ECSDKImp]sendCarStatus type=%d, value=%d
+[ECSDKImp]sendCarStatus: sendCarStatus failed, ret=%d
+[ECSDKImp]sendInputAction: actionId=%d, keyCode=%d
+[ECSDKImp]sendInputAction: sendInputAction failed, ret=%d
+[ECSDKImp]sendInputSelection: start=%d, stop=%d
+[ECSDKImp]sendInputSelection: sendInputSelection failed, ret=%d
+[ECSDKImp]sendInputText:text=%s
+[ECSDKImp]sendInputText: text is null
+[ECSDKImp]sendInputText: sendInputText failed, ret=%d
+[ECSDKImp]sendNotifyOTAFtpFile: parameters is invalid
+[ECSDKImp]sendNotifyOTAFtpFile: sendNotifyOTAFtpFile failed, ret=%d
+[ECSDKImp]ectiny_imp_sendNotifyOTAFtpFile2: leng=%d,data=[%s]
+[ECSDKImp]sendNotifyOTAFtpFile2: parameters is invalid
+[ECSDKImp]sendNotifyOTAFtpFile2: sendNotifyOTAFtpFile2 failed, ret=%d
+[ECSDKImp]sendNotifyOTAFtpFileDownload: parameters is invalid
+[ECSDKImp]sendNotifyOTAFtpFileDownload: sendNotifyOTAFtpFileDownload failed, ret=%d
+[ECSDKImp]sendOTADownloadFromRemote: parameters is invalid
+[ECSDKImp]sendOTADownloadFromRemote: sendOTADownloadFromRemote failed, ret=%d
+[ECSDKImp]sendOTAFtpServiceRequest: parameters is invalid
+[ECSDKImp]sendOTAFtpServiceRequest: sendOTAFtpServiceRequest failed, ret=%d
+sendSystemKeyEvent failed, ret=%d
+sendTouchEvent: touch={pointX=%d, pointY=%d, slot=%d}, type=%d
+sendTouchEvent: mirror not initialized yet
+sendTouchEvent: sendTouchEvent failed, ret=%d
+[ECSDKImp]setConnectedBTAddress: sendConnectedBTAddress failed, ret=%d
++++,level=%d,type=%d,logDirectory=%s,module=%d
+BTBLE module is not import!
+startMirror: mirror not initialized yet
+startMirror: start failed, ret=%d
+[ECSDKImp]startOTAUpdate: This project do not support OTA!
+stopMirror: mirror not initialized yet
+[ECSDKImp]stopOTAUpdate: This project do not support OTA!
+[ECSDKImp]stopPhoneNavigation: sendStopPhoneNavigation failed, ret=%d
+[ECSDKImp]stopPhoneNavigation: sendStopPhoneVR failed, ret=%d
+[ECSDKImp]uploadAudioData: sendCarRecordData failed, ret=%d
+[ECSDKImp]uploadDrivingStatus: sendDrivingStatus failed, ret=%d
+[ECSDKImp]uploadNightModeStatus: sendNightMode failed, ret=%d
+[ECSDKImp]uploadStatistics: sendStatistics failed, ret=%d
+pk_parse_public_key ret = %d
+pk_parse_public_key Public key parsing has failed error = 0x%08x
+pk_rsa can do = %d
+pk_rsa len = %d, rsa = %p
+decryptData: no rsa
+access file %s size = %lld 
+[EC_ParseIDR]EC_ParseIDR len=%d,P=%d,x=%d
+EC_ParseIDR
+EC_BuildPubKey
+EC_DecryptData
+em_handleMessage
+em_start
+em_stop
+em_notifyMirrorChanged
+[EventManager]eventLoop: handle event=%d begin
+[EventManager]eventLoop: handle event=%d end
+[EventManager]handle event=%d begin
+transport
+[EventManager]eventLoop: ET_PHONE_CONNECTED mIp=%s
+[EventManager]eventLoop: ET_PHONE_CONNECTED end
+[EventManager]eventLoop: ET_PHONE_CONNECTED, transport or authenticated not found
+[EventManager]eventLoop: ET_PHONE_DISCONNECTED, onPhoneDisconnected
+errCode
+[EventManager]eventLoop: it is connecting to phone via wifi, no need to emit onPhoneDisconnected because of usb device detached
+[EventManager]eventLoop: ET_PHONE_DISCONNECTED, onPhoneDisconnected end
+[EventManager]eventLoop: ET_APP_EXITED
+[EventManager]eventLoop: ET_APP_EXITED end
+status
+ecEventManager->mECCallback->tEC
+onECStatusMessage
+onECStatusMessage status=%d
+enableAccessibility
+displayRotation
+width
+height
+enableAOAHid
+[EventManager]eventLoop: aoa hid key information missed, AOA HID won't work
+ET_STATUS_MESSAGE, status not found
+[EventManager]eventLoop: ET_APP_STOP_SERVICE, onTransportStopedByApp
+ecEventManager->mECCallback
+onTransportStopedByApp
+[EventManager]eventLoop: ET_APP_STOP_SERVICE, onTransportStopedByApp end
+[EventManager]eventLoop: ET_STATUS_MIRROR_DISCONNECTED, onMirrorDisconnected
+[EventManager]eventLoop: ET_STATUS_MIRROR_DISCONNECTED, onMirrorDisconnected end
+[EventManager]eventLoop: ET_CAR_MICRO_RECORD_START, onStartCarMicRecord
+record
+[EventManager]eventLoop: ET_CAR_MICRO_RECORD_START, onStartCarMicRecord end
+reserved
+[EventManager]eventLoop: ET_CAR_MICRO_RECORD_START, onStartCarMicRecord config=%s
+[EventManager]eventLoop: ET_CAR_MICRO_RECORD_START, record not found
+[EventManager]eventLoop: ET_CAR_MICRO_RECORD_STOP, onStopCarMicRecord
+[EventManager]eventLoop: ET_CAR_MICRO_RECORD_STOP, onStopCarMicRecord end
+[EventManager]eventLoop: ET_APP_HUD, onPhoneAppHUD
+onPhoneAppHUD
+[EventManager]eventLoop: ET_APP_HUD, onPhoneAppHUD end
+[EventManager]eventLoop: ET_APP_HUD, hud not found
+[EventManager]eventLoop: ET_APP_PHONE_CALL, onCallAction
+number
+onCallAction
+[EventManager]eventLoop: ET_APP_PHONE_CALL, onCallAction end
+[EventManager]statusLoop: ET_APP_PHONE_CALL data type wrong
+[EventManager]statusLoop: ET_APP_PHONE_CALL not valid json string
+[EventManager]eventLoop: ET_APP_PHONE_CALL, call not found
+[EventManager]eventLoop: ET_SWITCH_AOA_FAIL
+[EventManager]eventLoop: ET_SWITCH_AOA_FAIL end
+[EventManager]eventLoop: ET_OPEN_FTP_SERVER_RESULT
+phoneOs
+phoneOsVersion
+phoneModel
+phoneUuid
+phoneAppVersionCode
+bluetoothName
+bluetoothAddress
+[EventManager]eventLoop: ET_PHONE_APP_INFO json=%s
+onPhoneAppInfo
+[EventManager]eventLoop: ET_PHONE_APP_INFO end
+FunId
+RegCmd
+VrText
+[EventManager]eventLoop: ET_CAR_CMD id=%s, cmd=%s, vr=%s
+onCarCmdNotified
+[EventManager]eventLoop: ET_CAR_CMD end
+[EventManager]eventLoop: ET_OPEN_OTA_FTP_SERVER_RESULT not support OTA
+[EventManager]eventLoop: ET_OTA_RESULT not support OTA
+[EventManager]eventLoop: ET_APP_MUSIC_INFO
+title
+artist
+album
+albumArtist
+length
+onPhoneAppMusicInfo
+[EventManager]eventLoop: ET_APP_MUSIC_INFO end
+[EventManager]eventLoop: ET_STATUS_MIRROR_RECONNECT
+onMirrorRequestReconnect
+[EventManager]eventLoop: ET_STATUS_MIRROR_RECONNECT end
+[EventManager]eventLoop: ET_INPUT_START
+inputType
+imeOptions
+rawText
+minLines
+maxLines
+maxLength
+[EventManager]eventLoop: onInputStart begin
+onInputStart
+[EventManager]eventLoop: onInputStart end
+[EventManager]eventLoop: ET_INPUT_START, ECInputInfo cann't be gained
+[EventManager]eventLoop: ET_INPUT_START, parse json error
+[EventManager]eventLoop: ET_INPUT_START end
+[EventManager]eventLoop: ET_INPUT_CANCEL
+onInputCancel
+[EventManager]eventLoop: ET_INPUT_CANCEL end
+[EventManager]eventLoop: ET_INPUT_SELECTION
+[EventManager]eventLoop: onInputSelection begin
+onInputSelection
+[EventManager]eventLoop: onInputSelection end
+[EventManager]eventLoop: ET_INPUT_SELECTION, start and stop cann't be gained
+[EventManager]eventLoop: ET_INPUT_SELECTION end
+[EventManager]eventLoop: ET_BULK_DATA
+[EventManager]eventLoop: ET_BULK_DATA end
+[EventManager]eventLoop: ET_VR_TEXT
+source
+sequence
+[EventManager]eventLoop: onVRTextReceived begin
+onVRTextReceived
+[EventManager]eventLoop: onVRTextReceived end
+[EventManager]eventLoop: ET_VR_TEXT, ECVRTextInfo cann't be gained
+[EventManager]eventLoop: ET_VR_TEXT invalid json data
+[EventManager]eventLoop: ET_VR_TEXT end
+[EventManager]eventLoop: ET_INPUT_TEXT
+[EventManager]eventLoop: onInputText begin
+[EventManager]eventLoop: ET_INPUT_TEXT, data cann't be gained
+onInputText
+[EventManager]eventLoop: onInputText end
+[EventManager]eventLoop: ET_INPUT_TEXT invalid json data
+[EventManager]eventLoop: ET_INPUT_TEXT end
+[EventManager]eventLoop: ET_PAGE_LIST
+icon_md5
+[EventManager]eventLoop: ET_PAGE_LIST: the %dth element in list is not right json format
+[EventManager]eventLoop: onPageListReceived begin
+onPageListReceived
+[EventManager]eventLoop: onPageListReceived end
+[EventManager]eventLoop: ET_PAGE_LIST, data cann't be gained
+[EventManager]eventLoop: ET_PAGE_LIST invalid json data
+[EventManager]eventLoop: ET_PAGE_LIST end
+[EventManager]eventLoop: ET_PAGE_ICON
+[EventManager]eventLoop: onPageIconReceived begin
+onPageIconReceived
+[EventManager]eventLoop: onPageIconReceived end
+[EventManager]eventLoop: ET_PAGE_ICON end
+[EventManager]eventLoop: ET_WEATHER
+onWeatherReceived
+[EventManager]eventLoop: ET_WEATHER end
+[EventManager]eventLoop: ET_VR_TIPS
+onVRTipsReceived
+[EventManager]eventLoop: ET_VR_TIPS end
+[EventManager]eventLoop: ET_OTA_DOWNLOAD_FROM_PHONE not support OTA
+[EventManager]eventLoop: ET_APP_HUD_ROAD_JUNCTION_PICTURE
+[EventManager]eventLoop: ET_APP_HUD_ROAD_JUNCTION_PICTURE picture data is error, totalSize = %d
+[EventManager]eventLoop: ET_APP_HUD_ROAD_JUNCTION_PICTURE pictureLength is error, picture.pictureLength = %u, totalSize = %d
+onPhoneAppHUDRoadJunctionPicture
+[EventManager]eventLoop: ET_APP_HUD_ROAD_JUNCTION_PICTURE end
+[EventManager]eventLoop: ET_MOBILE_PHONE_NOTIFICATION
+[EventManager]eventLoop: ET_MOBILE_PHONE_NOTIFICATION no icon data!!
+[EventManager]eventLoop: ET_MOBILE_PHONE_NOTIFICATION: data error
+appName
+context
+dateTime
+onPhoneNotification
+[EventManager]eventLoop: ET_MOBILE_PHONE_NOTIFICATION: data error, no json
+[EventManager]eventLoop: ET_MOBILE_PHONE_NOTIFICATION end
+[EventManager]eventLoop: ET_APP_HUD_LANE_GUIDANCE_PICTURE
+[EventManager]eventLoop: ET_APP_HUD_LANE_GUIDANCE_PICTURE picture data is error, totalSize = %d
+[EventManager]eventLoop: ET_APP_HUD_LANE_GUIDANCE_PICTURE pictureLength is error, picture.pictureLength = %u, totalSize = %d
+onPhoneAppHUDLaneGuidancePicture
+[EventManager]eventLoop: ET_APP_HUD_LANE_GUIDANCE_PICTURE end
+Unknown event type=%d
+handle event=%d end
+[EventManager]notifyMirrorChanged return 1,info->mAppDisplayStatus=%d
+[EventManager]notifyMirrorChanged return 2,mLastDisplayStatus=%d
+[EventManager]notifyMirrorChanged return 4,mFilteRotationCnt < nMaxCnt ,info->mPhoneRotation=%d,mLastRotation=%d,mFilteRotationCnt=%d,info->mAppDisplayStatus=%d,mLastDisplayStatus=%d,nMaxCnt=%d,appStatusChanged=%d
+[EventManager]notifyMirrorChanged return 5,info->mAppDisplayStatus=%d
+[EventManager]notifyMirrorChanged:mAppDisplayStatus=%d,mRealMirrorWidth=%d,mRealMirrorHeight=%d,mPhoneRotation=%d
+ecEvtMgr
+handler_loop
+handler_start
+handler_stop
+handler_post
+createHandler
+destroyHandler
+mHandlerName
+ecQueue_create failed
+[handler]handler_post  not runn
+[handler]handler_start work is running
+[handler]:handler_start create thread failed
+[handler]:handler_stop  not run
+stop thread id == Looper
+thread join begin
+thread join end
+flush queue begin
+flush queue end
+EC_BuildPubKey %p
+licenseFailLoop: begin
+onLicenseAuthFail
+licenseFailLoop: end
+licenseLoop: haveLicense
+licenseLoop: failed to decodeLicense
+WRONG
+licenseLoop: uuids compare same, checkSN, SN %s
+checkSN: no pxc
+licenseLoop: failed to checkSN
+licenseLoop: checkSN was not supported
+licenseLoop: uuids compare different, sendCheckCarUuid
+licenseLoop: failed to checkUuid
+licenseLoop: checkUuid was not supported
+licenseLoop: no license file, checkUuid
+licenseLoop: failed to sendCheckCarUuid
+licenseLoop: sendCheckCarUuid was not supported
+goto finish
+license not found
+licenseSuccessLoop: begin
+onLicenseAuthSuccess
+licenseSuccessLoop: end
+deleteLicense
+saveLicense
+decryptBase64Buffer
+decryptLicense
+checkSN
+checkUuid
+downloadUuidLicense
+registerUuid
+LM_licenseSuccessLoop
+reportLicenseAuthSuccess
+LM_licenseFailLoop
+reportLicenseAuthFail
+handleLicenseResult
+LM_licenseLoop
+LM_initialize
+startLicenseCheck
+stopLicenseCheck
+LM_release
+checkUuid: no pxc
+EC_Base64Decode error
+EC_DecryptData error
+licenseLength  is 0 , licenseLength =%d
+verifyLicense: failed to malloc licenseBuff, %s
+mAccessFile read failed, %s
+verifyLicense: open license file failed, file name: %s, %s
+fpLicense size is 0, path %s
+verifyLicense: failed to decryptData
+decryptLicense end
+carbit_license
+deleteLicense: failed to delete uuid license file, filePath %s
+CHECK
+DOWNLOAD
+REGISTER
+handleLicenseResult: failed to findABuffer of result
+handleLicenseResult: aPtr was invalid
+handleLicenseResult: no isOk
+errMsg
+isLocalNetWork
+handleLicenseResult: mCurrentAuthType is EC_CAR_AUTH_TYPE_PXC, not do this job
+[handleLicenseResult]:mEventType=%d
+handleLicenseResult:ET_CHECK_SN_RESULT true, pass check, code=%d, msg=%s
+handleLicenseResult:ET_CHECK_SN_RESULT ECP_CERT_STATUS_NOT_NETWORK errCode=%d, errMsg=%s
+handleLicenseResult:ET_CHECK_SN_RESULT false deleteUuidCheckLicense, then checkUuid, errCode=%d, errMsg=%s
+handleLicenseResult: failed to checkUuid
+handleLicenseResult:downloadUuidLicense, code=%d, msg=%s
+downloadUuidLicense: no pxc
+handleLicenseResult: failed to sendDownloadCarUuidLicense
+handleLicenseResult: ET_CHECK_CAR_UUID_RESULT errCode=%d, errMsg=%s, registerUuid
+handleLicenseResult: ET_CHECK_CAR_UUID_RESULT ECP_CERT_STATUS_NOT_VALID
+handleLicenseResult:EC_CAR_AUTH_TYPE_CAR_LOCAL_NETWORK ,need regist by android phone , notify UI
+need regist by android phone!
+handleLicenseResult: ET_CHECK_CAR_UUID_RESULT ECP_CERT_STATUS_NOT_NETWORK,mCurrentAuthType=%d,mCurrentTransportType=%d
+Please connect the Internet to verification the certificate
+registerUuid: carUuid=%s, channel=%s, authType=%d
+registerUuid: no pxc
+handleLicenseResult: failed to registerUuid
+handleLicenseResult: %s, errCode=%d, errMsg=%s
+license
+handleLicenseResult:write license to file, %s
+handleLicenseResult: failed to create file %s
+handleLicenseResult: failed to save
+handleLicenseResult: %s, pass check
+handleLicenseResult: failed to %s, rlyData %s
+handleLicenseResult: failed to decodeLicense, rlyData %s
+handleLicenseResult: failed to %s, rlyData %s, errCode=%d, errMsg=%s
+reportLicenseAuthFail: errCode=%d, errMsg=%s
+ecLicFail
+reportLicenseAuthSuccess
+ecLicRep
+startLicenseCheck: carUuid=%s, pxc=%p, authType=%d
+startLicenseCheck: license already checked true ,return
+startUuidCheck: license thread is running,current authType=%d
+current authType is EC_CAR_AUTH_TYPE_CAR_LOCAL_NETWORK ,switch to pxc check 
+ecLicChk
+startLicenseCheck: end
+wait mLicenseThread begin
+wait mLicenseThread end
+mirror_configMirror
+mirror_start
+mirror_pause
+mirror_resume
+mirror_stop
+mirror_sendSystemKeyEvent
+mirror_sendTouchEvent
+mirror_onMirrorDisconnected
+mirror_onMirrorRequestReconnect
+createMirror
+destroyMirror
+openMirror: type, failed to initialize Mirror
+tcp:%d
+configMirror: failed to new CtrlService, %s
+configMirror: failed to start CtrlService
+configMirror: failed to sendConfig
+onMirrorDisconnected: end, mirror has reported
+onMirrorDisconnected: end
+onMirrorRequestReconnect: mMirrorReported=%d, getTransportLoop=%d
+onMirrorRequestReconnect: post event ET_STATUS_MIRROR_RECONNECT
+pause: mirror not started yet
+resume: mirror not started yet
+sendSystemKeyEvent: mirror not started
+sendTouchEvent: mirror not started
+start: failed to sendConfig
+initialize: mirror not configured
+start: failed to sendStart
+initialize: failed to new DataService, %s
+initialize: failed to start DataService
+[Mirror]start: finish
+pxc_start
+pxc_stop
+pxc_sendEnableDownloadPhoneAudio
+pxc_sendDisableDownloadPhoneAudio
+pxc_sendEnableDownloadPhoneHud
+pxc_sendDisableDownloadPhoneHud
+pxc_sendCarRecordData
+pxc_sendLocationStatus
+pxc_sendCompassBearing
+pxc_sendVehicleSpeed
+pxc_sendEngineRpm
+pxc_sendOdometer
+pxc_sendFuelSatus
+pxc_sendParkingBrakeStatus
+pxc_sendGearStatus
+pxc_sendNightMode
+pxc_sendEnvironmentStatus
+pxc_sendDrivingStatus
+pxc_sendPassengerStatus
+pxc_sendDoorStatus
+pxc_sendLightStatus
+pxc_sendTirePressure
+pxc_sendAccelerometerStatus
+pxc_sendGyroscopeStatus
+pxc_sendGpsSatelliteStatus
+pxc_sendSensorError
+pxc_sendVehicleInfo
+pxc_sendStartPhoneBluetooth
+pxc_sendLightPhoneScreen
+pxc_sendSetPhoneScreenBrightness
+pxc_sendCheckOTAUpdateStatus
+pxc_sendGetOTAUpdateData
+pxc_sendGetBulkData
+pxc_sendBulkDataToPhone
+pxc_sendBtnEvent
+pxc_sendBtnEvent2
+pxc_sendSwitchFront
+pxc_sendStopPhoneNavigation
+pxc_sendStopPhoneVR
+pxc_sendConnectedBTAddress
+pxc_sendFtpServiceRequest
+pxc_sendOpenAppPage
+pxc_sendOpenAppPage2
+pxc_sendSwitchAppToMainPage
+pxc_sendAudioPlayEnd
+pxc_sendCarStatus
+pxc_sendCheckPhoneNetwork
+pxc_queryGPS
+pxc_queryTime
+pxc_sendCarBluetoothInfo
+pxc_sendCarCmds
+pxc_sendCarTTS
+pxc_sendCheckCarUuid
+pxc_sendDownloadCarUuidLicense
+pxc_sendRegisterCarUuid
+pxc_sendCheckSN
+pxc_sendStatistics
+pxc_sendOTAFile
+pxc_sendOTAFtpServiceRequest
+pxc_sendNotifyOTAFtpFile
+pxc_sendNotifyOTAFtpFile2
+pxc_sendNotifyOTAFtpFileDownload
+pxc_sendInputText
+pxc_sendInputAction
+pxc_sendInputSelection
+pxc_sendCustomData
+pxc_sendGetPageList
+pxc_sendGetPageIcon
+pxc_sendQueryWeather
+pxc_sendQueryVRTips
+pxc_sendOTADownloadFromRemote
+pxc_uploadGPSInfo
+pxc_registerSimilarSoundingWords
+pxc_sendRequestPhoneNotification
+pxc_onAppDisconnect
+createPXC
+destroyPXC
+[PXC]createPXC: begin, ip=%s, type=%d, cb=%p
+[PXC]createPXC: pxc = %p end
+[PXC]destroyPXC: begin, pxc=%p
+[PXC]destroyPXC: end
+[PXC]onAppDisconnect: begin
+[PXC]onAppDisconnect: post event  ET_PHONE_DISCONNECTED
+[PXC]onAppDisconnect: post event  ET_APP_EXITED
+[PXC]onAppDisconnect: end
+[PXC]queryGPS: mC2PService not initialized
+[PXC]queryTime: mC2PService not initialized
+[PXC]registerSimilarSoundingWords: mC2PService not initialized
+[PXC]sendAccelerometerStatus: mC2PService not initialized
+[PXC]sendAudioPlayEnd: mC2PService not initialized
+[PXC]sendBtnEvent: mC2PService not initialized
+[PXC]sendBulkDataToPhone: mC2PService not initialized
+[PXC]sendCarBluetoothInfo: mC2PService not initialized
+[PXC]sendCarCmds: mC2PService not initialized
+[PXC]sendCarStatus: mC2PService not initialized
+[PXC]sendCarTTS: mC2PService not initialized
+[PXC]sendCheckOTAUpdateStatus: mC2PService not initialized
+[PXC]sendCheckPhoneNetwork: mC2PService not initialized
+[PXC]setBlueToothAddress: mC2PService not initialized
+[PXC]sendDoorStatus: mC2PService not initialized
+[PXC]sendDrivingStatus: mC2PService not initialized
+[PXC]sendEnvironmentStatus: mC2PService not initialized
+[PXC]sendFtpServiceRequest: mC2PService not initialized
+[PXC]sendFuelSatus: mC2PService not initialized
+[PXC]sendGearStatus: mC2PService not initialized
+[PXC]sendGetBulkData: mC2PService not initialized
+[PXC]sendGetOTAUpdateData: mC2PService not initialized
+[PXC]sendGetPageIcon: mC2PService not initialized
+[PXC]sendGetPageList: mC2PService not initialized
+[PXC]sendGpsSatelliteStatus: mC2PService not initialized
+[PXC]sendGyroscopeStatus: mC2PService not initialized
+[PXC]sendInputAction: mC2PService not initialized
+[PXC]sendInputSelection: mC2PService not initialized
+[PXC]sendInputText: mC2PService not initialized
+[PXC]sendLightPhoneScreen: mC2PService not initialized
+[PXC]sendLightStatus: mC2PService not initialized
+[PXC]sendNightMode: mC2PService not initialized
+[PXC]sendNotifyOTAFtpFile: mC2PService not initialized
+[PXC]sendNotifyOTAFtpFileDownload: mC2PService not initialized
+[PXC]sendOTADownloadFromRemote: mC2PService not initialized
+[PXC]sendOTAFile: mC2PService not initialized
+[PXC]sendOTAFtpServiceRequest: mC2PService not initialized
+[PXC]sendSwitchAppPage: mC2PService not initialized
+[PXC]sendParkingBrakeStatus: mC2PService not initialized
+[PXC]sendPassengerStatus: mC2PService not initialized
+[PXC]sendQueryVRTips: mC2PService not initialized
+[PXC]sendQueryWeather: mC2PService not initialized
+[PXC]sendRequestPhoneNotification: mC2PService not initialized
+[PXC]sendSensorError: mC2PService not initialized
+[PXC]sendSetPhoneScreenBrightness: mC2PService not initialized
+[PXC]sendStartPhoneBluetooth: mC2PService not initialized
+[PXC]sendStatistics: mC2PService not initialized
+[PXC]sendStopPhoneNavigation: mC2PService not initialized
+[PXC]sendStopPhoneVR: mC2PService not initialized
+[PXC]sendSwitchAppToMainPage: mC2PService not initialized
+[PXC]sendSwitchFront: mC2PService not initialized
+[PXC]sendTirePressure: mC2PService not initialized
+[PXC]sendVehicleInfo: mC2PService not initialized
+[PXC]start: begin
+[PXC]start: no need to forward
+[PXC]start: failed to start C2PService = %p
+[PXC] force to apply EC_TRANSPORT_IOS_USB_MUX
+[PXC]start: failed to start P2CService = %p
+[PXC]start: failed to start C2PService Hearbeat
+[PXC]start: end
+[PXC]start: fail
+[PXC]stop: begin
+[PXC]stop: end
+[PXC]uploadGPSInfo: mC2PService not initialized
+-----BEGIN PUBLIC KEY-----
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0OUZJk+czvufIQwRmPzb
+UOUaGLAX83j/VjVQTCDdPaivUaTjqwaEZu5QwqmEZLwv/YaXqzcfNH+bgYuBSrrv
+pVGg4tDaaY3hSlHi3ptApNnF+FeavGW93qCNNg6DAesE+1PHiGUvd2DpjKuXuR8m
+YGKn9PaXuNMLSQdKa8+x8fqeeqG2tNNHm0d+iTdMXa185IbXXUoCX/P6EKNPue5b
++utiuALNZqD3PZKfSb6b4Z7gdlX3wk5XErD9ZtyrkAyll3qK7uH8OTVIBcqmYvK+
+Dez9kcGwFxRNf+QDyWgfL1wUbVKAKQ06EAVtFrFfPEe8j0JML00I7otbI8wymxdG
+4QIDAQAB
+-----END PUBLIC KEY-----
+wf_publishMdns
+wf_readPhoneType
+wf_createWifiSocket
+wf_selectLoop
+wf_openWifiService
+wf_closeWifiService
+[DSocket][close]fd = %d
+[WifiService]closeWifiService: wifi service is not running
+wait mSelectThread begin
+wait mSelectThread end
+[WifiService]createWifiSocket:fail to create socket
+[WifiManager]createWifiSocket: failed to bind, port=%d, error=%d, %s
+[WifiService]createWifiSocket:listen socket failed, s = %d, error=%d, %s
+[WifiService]createWifiSocket:bind socket failed, retry to max
+[WifiManager]openWifiService: wifi service is running
+[WifiService]openWifiService: create wifi socket failed, ret=%d
+[WifiService]openWifiService: port = %d, publish mdns success
+ecWifiSer
+EasyConn
+_EasyConn._tcp
+local.
+huname
+packagename
+ec_name
+[WifiManager]publishMdns: failed to mDNSInterface_PublishService
+[WifiService]readPhoneType:recv cmd, type:%x, length:%u, magic:%u, reserve:%u
+[WifiService]readPhoneType:recv data:%s
+phoneType
+[WifiService]readPhoneType:phone type:%s
+[WifiManager]selectLoop: begin
+/home/weili/Project/F133-RTOS/melis-4.x-release/source/livedesk/beetles/ECTiny/Platform/F133/ECComm/../../../Src/ECComm/WifiManager.c
+[DSocket][open]fd = %d[%s][%s][%d]
+[WifiService]selectLoop:mClientSock=%d, failed to accept.
+[WifiService]selectLoop:new connection ip:%s
+[WifiManager]selectLoop: end
+?456789:;<=
+ !"#$%&'()*+,-./0123
+u%04x
+<false
+%.3lf
+mDNSInterface_addtxt_item
+mDNSInterface_PublishService
+mDNSInterface_StopService
+service_thread
+local.
+_afpovertcp._tcp.
+ecMdns
+ec_thread_create failed
+wait mdns_thread begin
+wait mdns_thread  end
+mDNSInterface_addtxt_item param is NULL.key=[%s]
+service_thread malloc failed!
+%s.%s
+service_thread end
+mdns_socket_open_ipv4
+mdns_socket_setup_ipv4
+mdns_multicast_send
+mdns_answer_add_record
+service_callback
+open_client_sockets
+service_mdns
+ !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+IPv6 is not supported!
+	_services
+_dns-sd
+local
+unicast
+multicast
+Query %s %.*s
+  --> answer %.*s (%s)
+  --> answer %.*s port %d (%s)
+  --> answer %.*s IPv4 %.*s (%s)
+_services._dns-sd._udp.local.
+Local IPv4 address: %s
+/home/weili/Project/F133-RTOS/melis-4.x-release/source/livedesk/beetles/ECTiny/Platform/F133/ThirdParty/libmdns/../../../../Src/ThirdParty/libmdns/src/mdns.h
+create socket failed
+setsockopt IP_MULTICAST_TTL failed ret=%d,errno=%d
+setsockopt IP_MULTICAST_LOOP failed ret=%d,errno=%d
+setsockopt IP_ADD_MEMBERSHIP failed ret=%d,errno=%d
+bind sock failed
+Opened %d socket%s for mDNS service
+mdns_socket_setup_ipv4 failed
+Failed to open any client sockets
+Invalid service name
+Service mDNS: %s:%d
+Hostname: %s
+failed to malloc for server instance buffer.
+%.*s.%.*s
+%.*s.local.
+Closed socket%s
+eckey.Q
+rsa.N
+rsa.E
+RSA-alt
+ECDSA
+EC_DH
+-----END RSA PUBLIC KEY-----
+-----BEGIN RSA PUBLIC KEY-----
+-----END PUBLIC KEY-----
+-----BEGIN PUBLIC KEY-----
+f133_pthread_create count = %d
+ecLisChk
+f133_pthread_create set thread %s stackSize = %d
+f133_pthread_create set thread name %s
+sendFtpServiceRequest
+sendOpenAppPage
+sendOpenAppPage2
+sendSwitchAppToMainPage
+sendAudioPlayEnd
+sendCarStatus
+sendCheckPhoneNetwork
+queryGPS
+queryTime
+sendCarBluetoothInfo
+sendCarCmds
+sendCarTTS
+sendCheckCarUuid
+sendDownloadCarUuidLicense
+sendRegisterCarUuid
+sendCheckSN
+sendStatistics
+sendOTAFile
+sendOTAFtpServiceRequest
+sendNotifyOTAFtpFile
+sendNotifyOTAFtpFile2
+sendNotifyOTAFtpFileDownload
+sendInputText
+sendInputAction
+sendInputSelection
+sendCustomData
+sendGetPageList
+sendGetPageIcon
+sendQueryWeather
+sendQueryVRTips
+sendOTADownloadFromRemote
+uploadGPSInfo
+registerSimilarSoundingWords
+parsePhoneRly
+sendClientInfo
+sendRequestPhoneNotification
+heartBeatLoop
+destroyC2PService
+start_C2PService
+stop_C2PService
+startHeartbeat
+sendEnableDownloadPhoneAudio
+sendDisableDownloadPhoneAudio
+sendEnableDownloadPhoneHud
+sendDisableDownloadPhoneHud
+sendCarRecordData
+sendLocationStatus
+sendCompassBearing
+sendVehicleSpeed
+sendEngineRpm
+sendOdometer
+sendFuelSatus
+sendParkingBrakeStatus
+sendGearStatus
+sendNightMode
+sendDrivingStatus
+sendVehicleInfo
+sendStartPhoneBluetooth
+sendLightPhoneScreen
+sendSetPhoneScreenBrightness
+sendCheckOTAUpdateStatus
+sendGetOTAUpdateData
+sendGetBulkData
+sendBulkDataToPhone
+sendBtnEvent
+sendBtnEvent2
+sendSwitchFront
+sendStopPhoneNavigation
+sendStopPhoneVR
+sendConnectedBTAddress
+[C2PService]destroyC2PService: begin
+[C2PService]destroyC2PService: end, c2p is null
+[C2PService]destroyC2PService: end
+C2PService
+[C2PService]heartBeatLoop: begin
+[%s]heartBeatLoop: sendCMD failed, cmdType=0x%X
+[%s]heartBeatLoop: recv rlyCmd failed, rlyCmdType=0x%X
+[C2PService]heartBeatLoop_ING1
+[C2PService]heartBeatLoop_ING2
+[C2PService]heartBeatLoop: end
+phoneRly = %s
+rvPath
+token
+pubkey
+encryptedHUID
+encryptedHUID = %s
+phoneUUID
+package
+versionCode
+mirrorRequestReconnect
+disableAoaHID
+disableIphoneQt
+supportH264IFrame
+speechEngineType
+[%s]queryGPS: send CMD failed, cmdType=0x%X
+[%s]queryGPS: recv rlyCmd failed, rlyCmdType=0x%X
+course
+province
+district
+poiname
+[%s]queryTime: send CMD failed, cmdType=0x%X
+[%s]queryTime: recv rlyCmd failed, rlyCmdType=0x%X
+currentTime
+currentTimeZone
+[%s]registerSimilarSoundingWords: send CMD failed, cmdType=0x%X
+[%s]registerSimilarSoundingWords: recv rlyCmd failed, rlyCmdType=0x%X
+Atimestamp
+[%s]sendAudioPlayEnd: send CMD failed, cmdType=0x%X
+[%s]sendAudioPlayEnd: recv rlyCmd failed, rlyCmdType=0x%X
+[%s]sendBtnEvent: send CMD failed, cmdType=0x%X
+[%s]sendBtnEvent: recv rlyCmd failed, rlyCmdType=0x%X
+[%s]sendBtnEvent2: send CMD failed, cmdType=0x%X
+[%s]sendBtnEvent2: recv rlyCmd failed, rlyCmdType=0x%X
+[%s]sendBulkDataToPhone: send CMD failed, cmdType=0x%X
+[%s]sendBulkDataToPhone: recv rlyCmd failed, rlyCmdType=0x%X
+address
+[%s]sendCarBluetoothInfo: send CMD failed, cmdType=0x%X
+[%s]sendCarBluetoothInfo: recv rlyCmd failed, rlyCmdType=0x%X
+PauseMusic
+cJSON: %s
+[%s]sendCarCmds: send CMD failed, cmdType=0x%X
+[%s]sendCarCmds: recv rlyCmd failed, rlyCmdType=0x%X
+[%s]sendCarRecordData: send CMD failed, cmdType=0x%X
+[%s]sendCarRecordData: recv rlyCmd failed, rlyCmdType=0x%X
+reversing
+bluetooth
+drivingMode
+audioFocusChange
+isAutoStartEasyconn
+level
+[%s]sendCarTTS: send CMD failed, cmdType=0x%X
+[%s]sendCarTTS: recv rlyCmd failed, rlyCmdType=0x%X
+password
+[%s]sendCheckCarUuid: sendCMD failed, %s
+[C2PService]sendCheckCarUuid: recv CMD failed
+[C2PService]sendCheckCarUuid: recv ECP_PXC_UNSUPPORT
+[%s]sendCheckCarUuid: recv wrong cmd, rlyCmdType 0x%X
+[%s]sendCheckOTAUpdateStatus: send CMD failed, cmdType=0x%X
+[%s]sendCheckPhoneNetwork: send CMD failed, cmdType=0x%X
+[%s]sendCheckPhoneNetwork: recv rlyCmd failed, rlyCmdType=0x%X
+recv data not json format
+[%s]sendCheckSN: sendCMD failed, %s
+[%s]sendCheckSN: recv CMD failed
+[%s]sendCheckSN: recv wrong cmd
+@[%s]sendClientInfo
+sdkVersion
+1.0.2
+pxcVersion
+supportMic
+HUName
+transportType
+enableDPI
+supportConnect
+package_name
+version_code
+supportBTCall
+supportBTSetting
+supportScreenMirroring
+supportThirdPartyApp
+supportLandscapeAdaptive
+supportRVForAdb
+supportScreenTouch
+supportOTAUpdate
+supportBackDesktop
+supportBackDesktopNew
+mirrorMode
+btName
+btAddress
+btPin
+carBrand
+carModel
+carConfig
+supportMirrorReconnect
+supportHID
+bluetoothPolicy
+productType
+wakeupWord
+disableShowCallInfo
+socketTimeoutPeriodWifi
+disablePageInRVMap
+currentHUTime
+carMicSupportFeature
+supportSyncCorrectTime
+screenType
+[C2PService]sendClientInfo: currentHUTime=%u
+[C2PService]sendClientInfo: %s
+[%s]sendClientInfo: send client info, {sdkVersion: %s, pxcVersion: %s, uuid: %s} failed
+[C2PService]sendClientInfo: C2PSocket send clientinfo success
+[%s]sendClientInfo: recv CMD failed
+[%s]sendClientInfo: rly {cmdType: 0x%X, cmdLength: %d}
+[%s]sendClientInfo: recv data failed, {length: %d}
+[C2PService] force to apply EC_TRANSPORT_IOS_USB_MUX
+[C2PService]sendClientInfo: finished
+pitch
+[%s]sendCompassBearing: send CMD failed, cmdType=0x%X
+[%s]sendCompassBearing: recv rlyCmd failed, rlyCmdType=0x%X
+sendConnectedBTAddress: carBtMac and phoneBtMac were both null
+carBtMac
+phoneBtMac
+[%s]sendConnectedBTAddress: send CMD failed, cmdType=0x%X
+[%s]sendConnectedBTAddress: recv rlyCmd failed, rlyCmdType=0x%X
+[%s]sendCustomData: send CMD failed, cmdType=0x%X
+[%s]sendCustomData: recv rlyCmd failed, rlyCmdType=0x%X
+[%s]sendEnableDownloadPhoneAudio: send CMD failed, cmdType=0x%X
+[%s]sendEnableDownloadPhoneAudio: recv rlyCmd failed, rlyCmdType=0x%X
+[%s]sendDisableDownloadPhoneHud: send CMD failed, cmdType=0x%X
+[%s]sendDisableDownloadPhoneHud: recv rlyCmd failed, rlyCmdType=0x%X
+version_name
+[%s]sendDownloadCarUuidLicense: sendCMD failed, %s
+[%s]sendDownloadCarUuidLicense: recv CMD failed
+[%s]sendDownloadCarUuidLicense: recv wrong cmd
+[%s]sendDrivingStatus: send CMD failed, cmdType=0x%X
+[%s]sendDrivingStatus: recv rlyCmd failed, rlyCmdType=0x%X
+talkie
+music
+autoChangeToBT
+T@supportFunction
+maxNaviIcon
+[%s]sendEnableDownloadPhoneHud: send CMD failed, cmdType=0x%X
+[%s]sendEnableDownloadPhoneHud: recv rlyCmd failed, rlyCmdType=0x%X
+[%s]sendEngineRpm: send CMD failed, cmdType=0x%X
+[%s]sendEngineRpm: recv rlyCmd failed, rlyCmdType=0x%X
+userName
+[%s]sendFtpServiceRequest: send CMD failed, cmdType=0x%X
+[%s]sendFtpServiceRequest: recv rlyCmd failed, rlyCmdType=0x%X
+remainFuelPercent
+range
+fuelWarning
+[%s]sendFuelSatus: send CMD failed, cmdType=0x%X
+[%s]sendFuelSatus: recv rlyCmd failed, rlyCmdType=0x%X
+[%s]sendGetBulkData: send CMD failed, cmdType=0x%X
+[%s]sendGetOTAUpdateData: send CMD failed, cmdType=0x%X
+cjson: %s
+[%s]sendGetPageIcon: send CMD failed, cmdType=0x%X
+[%s]sendGetPageIcon: recv rlyCmd failed, rlyCmdType=0x%X
+[%s]sendGetPageList: send CMD failed, cmdType=0x%X
+[%s]sendGetPageList: recv rlyCmd failed, rlyCmdType=0x%X
+actionId
+keyCode
+[%s]sendInputAction: send CMD failed, cmdType=0x%X
+[%s]sendInputAction: recv rlyCmd failed, rlyCmdType=0x%X
+[%s]sendInputSelection: send CMD failed, cmdType=0x%X
+[%s]sendInputSelection: recv rlyCmd failed, rlyCmdType=0x%X
+[%s]sendInputText: send CMD failed, cmdType=0x%X
+[%s]sendInputText: recv rlyCmd failed, rlyCmdType=0x%X
+[%s]sendLightPhoneScreen: send CMD failed, cmdType=0x%X
+[%s]sendLightPhoneScreen: recv rlyCmd failed, rlyCmdType=0x%X
+latitude
+longitude
+accuracy
+altitude
+speed
+bearing
+[%s]sendLocationStatus: send CMD failed, cmdType=0x%X
+[%s]sendLocationStatus: recv rlyCmd failed, rlyCmdType=0x%X
+night
+[%s]sendNightMode: send CMD failed, cmdType=0x%X
+[%s]sendNightMode: recv rlyCmd failed, rlyCmdType=0x%X
+fileName
+filePath
+fileLength
+fileMd5
+fileType
+[%s]sendNotifyOTAFtpFile: send CMD failed, cmdType=0x%X
+[%s]sendNotifyOTAFtpFile: recv rlyCmd failed, rlyCmdType=0x%X
+[%s]sendNotifyOTAFtpFile2: send CMD failed, cmdType=0x%X
+[%s]sendNotifyOTAFtpFile2: recv rlyCmd failed, rlyCmdType=0x%X
+[%s]sendNotifyOTAFtpFileDownload: send CMD failed, cmdType=0x%X
+[%s]sendNotifyOTAFtpFileDownload: recv rlyCmd failed, rlyCmdType=0x%X
+[%s]sendOTAFile: fileName is null or empty
+[%s]sendOTAFile: send CMD failed, cmdType=0x%X
+[%s]sendOTAFile: recv rlyCmd failed, rlyCmdType=0x%X
+dataPort
+ctrlPort
+[%s]sendOTAFtpServiceRequest: send CMD failed, cmdType=0x%X
+[%s]sendOTAFtpServiceRequest: recv rlyCmd failed, rlyCmdType=0x%X
+reading
+tripKms
+[%s]sendOdometer: send CMD failed, cmdType=0x%X
+[%s]sendOdometer: recv rlyCmd failed, rlyCmdType=0x%X
+[%s]sendOpenAppPage: send CMD failed, cmdType=0x%X
+[%s]sendOpenAppPage: recv rlyCmd failed, rlyCmdType=0x%X
+[%s]sendOpenAppPage2: send CMD failed, cmdType=0x%X
+[%s]sendOpenAppPage2: recv rlyCmd failed, rlyCmdType=0x%X
+brake
+[%s]sendParkingBrakeStatus: send CMD failed, cmdType=0x%X
+[%s]sendParkingBrakeStatus: recv rlyCmd failed, rlyCmdType=0x%X
+[%s]sendQueryVRTips: send CMD failed, cmdType=0x%X
+[%s]sendQueryVRTips: recv rlyCmd failed, rlyCmdType=0x%X
+[%s]sendQueryWeather: send CMD failed, cmdType=0x%X
+[%s]sendQueryWeather: recv rlyCmd failed, rlyCmdType=0x%X
+[%s]sendRegisterCarUuid: sendCMD failed, %s
+[%s]sendRegisterCarUuid: recv CMD failed
+[%s]sendRegisterCarUuid: recv wrong cmd
+enabled
+[%s]sendRequestPhoneNotification: send CMD failed, cmdType=0x%X
+[%s]sendRequestPhoneNotification: recv rlyCmd failed, rlyCmdType=0x%X
+[%s]sendSetPhoneScreenBrightness: send CMD failed, cmdType=0x%X
+[%s]sendSetPhoneScreenBrightness: recv rlyCmd failed, rlyCmdType=0x%X
+[%s]sendStartPhoneBluetooth: send CMD failed, cmdType=0x%X
+[%s]sendStartPhoneBluetooth: recv rlyCmd failed, rlyCmdType=0x%X
+value
+[%s]sendStatistics: send CMD failed, cmdType=0x%X
+[%s]sendStatistics: recv rlyCmd failed, rlyCmdType=0x%X
+[%s]sendStopPhoneNavigation: send CMD failed, cmdType=0x%X
+[%s]sendStopPhoneNavigation: recv rlyCmd failed, rlyCmdType=0x%X
+[%s]sendStopPhoneVR: send CMD failed, cmdType=0x%X
+[%s]sendStopPhoneVR: recv rlyCmd failed, rlyCmdType=0x%X
+[%s]sendSwitchAppToMainPage: send CMD failed, cmdType=0x%X
+[%s]sendSwitchAppToMainPage: recv rlyCmd failed, rlyCmdType=0x%X
+[%s]sendSwitchFront: send CMD failed, cmdType=0x%X
+[%s]sendSwitchFront: recv rlyCmd failed, rlyCmdType=0x%X
+[%s]sendVehicleInfo: send CMD failed, cmdType=0x%X
+cruiseEngaged
+cruiseSetSpeed
+[%s]sendVehicleSpeed: send CMD failed, cmdType=0x%X
+[%s]sendVehicleSpeed: recv rlyCmd failed, rlyCmdType=0x%X
+[C2PService]startHeartbeat: heartbeat thread is already running
+ecC2pHBeat
+[C2PService]startHeartbeat: failed to create heartbeat thread, %s
+[C2PService]start: begin
+[%s]start:  pxcService is null
+[%s]start: {ip:%s, port: %d} already started
+[%s]start: Socket open failed
+[%s]start: sendConnectType failed
+[%s]start: sendClientInfo failed
+[C2PService]start: end
+[C2PService]start: fail
+[C2PService]stop: begin
+[C2PService]destroyC2PService: c2p is null
+[%s]stop: {ip=%s, port=%d}
+[%s]stop: {ip=%s, port=%d} not open yet
+[C2PService]stop: end
+[%s]sendOTADownloadFromRemote: send CMD failed, cmdType=0x%X
+[%s]sendOTADownloadFromRemote: recv rlyCmd failed, rlyCmdType=0x%X
+ctrls_heartBeatLoop
+ctrls_start
+ctrls_stop
+sendConfigExtend
+ctrls_sendConfig
+ctrls_sendStart
+ctrls_sendSystemKeyEvent
+ctrls_sendTouchEvent
+ctrls_sendHeartBeat
+createCtrlService
+destroyCtrlService
+heartBeatLoop: begin
+heartLoop: failed to sendHeartBeat
+heartBeatLoop: end
+configMirror: unsupported type=%d
+[CtrlService]configMirror: failed to send ReqConfigCapturer
+[CtrlService]configMirror: failed to recv ReqBase
+[CtrlService]configMirror: failed to construct ABuffer of size %d
+[CtrlService]configMirror: failed to recv RlyConfigCapturer
+[CtrlService]configMirror: rlyCmdType of RlyConfigCapturer 0x%X
+[CtrlService]configMirror: authroization failed
+[CtrlService]configMirror: no data of RlyConfigCapturer
+[CtrlService]:supportExtendProtocol=%d
+physWidth
+physHeight
+screenPhysicsSize
+mirrorFeature
+[CtrlService]sendConfigExtend: ReqConfigCapturerExtend = %s
+viewAreaConfig
+initArea
+viewCount
+viewAreas
+index
+[CtrlService]sendConfigExtend: view rect error.sRECT(%d,%d,%d,%d),dRECT(%d,%d)
+originX
+originY
+[CtrlService]sendConfigExtend: safeview rect error.sRECT(%d,%d,%d,%d),dRECT(%d,%d)
+safeArea
+[CtrlService]sendConfigExtend: failed to send ReqConfigCapturerExtend
+[CtrlService]sendConfigExtend: failed to recv rly
+[CtrlService]sendConfigExtend: failed to recv rly msg, length %d
+[CtrlService]sendConfigExtend: recv rly data is not json format
+[CtrlService]sendConfigExtend: rlyCmdType of REQ_CONFIGCAPTUREREXTEND 0x%X
+[CtrlService]sendConfigExtend: authroization failed
+[CtrlService]sendConfigExtend: cmd no support
+state
+[CtrlService]sendConfigExtend: rly msg no support key[state]=[%d] 
+[CtrlService]sendConfigExtend: rly msg no key[viewAreaConfig]
+[CtrlService]configMirror: ExtendProtocol parse error
+ecRvCtrlHB
+[CtrlService]sendConfig: failed to create heart thread
+[CtrlService]sendHeartBeat: failed to send heart beat packet
+[CtrlService]sendHeartBeat: failed to recv heartBeat
+[CtrlService]sendHeartBeat: recv wrong rly of heartBeat
+[CtrlService]sendStart: failed to send start req
+[CtrlService]sendStart: failed to recv rly
+[CtrlService]sendStart: failed to recv rly msg, length %d
+[CtrlService]sendStart: rly cmdType 0x%X, length %d, rlyMsg %s
+cancel
+VerifyFail
+[CtrlService]sendStart: rly cmdType RLY_INITFAILED,reTry=%d
+[CtrlService]sendStart: fail,invalid cmdType 0x%X
+[CtrlService]sendSystemKeyEvent: unsupported key=%d
+[CtrlService]sendSystemKeyEvent: failed to send ReqScreenEvent
+[CtrlService]sendTouchEvent: unsupported type=%d
+[CtrlService]sendTouchEvent: failed to send screen event
+[CtrlService]start: {ip=%s, port=%d} already started
+[CtrlService]start: {ip=%s, port=%d} failed to create CtrlSocket
+[CtrlService]start: {ip=%s, port=%d} failed to open CtrlSocket
+[CtrlService]ctrls_stop: c2p is null
+[CtrlService]stop: stop heart thread
+stop: {ip=%s, port=%d}
+stop: {ip=%s, port=%d} not open yet
+datas_postLoop
+datas_onRecv
+datas_onSend
+datas_onError
+datas_start
+datas_stop
+datas_initializeQueue
+datas_initializeThread
+datas_releaseThread
+datas_sendNext
+datas_recvFrame
+createDataService
+destroyDataService
+[DataService]createDataService alloc dataService failed 
+[DataService]createDataService alloc failed 
+[DataService]createDataService alloc buffer = %d failed 
+ecQueue_put error = %d
+ecRvDtSer
+initializeThread: failed to create post thread
+[DataService]onSend: DataService does not watch error event
+[DataService]onRecv: begin recv data
+[DataService]onRecv: failed to getFreeBuf
+[DataService]onRecv: recvFrame begin
+[DataService]onRecv: recvFrame length = %d end
+[DataService]onRecv: queueFrameBuf
+[DataService]onRecv: failed to sendNext
+[DataService]onRecv: sendNext
+[DataService]onSend: DataService does not watch send event
+[DataService]postLoop: begin
+(ECCallBack*)pThis->mECCallback
+onMirrorVideoReceived
+[DataService]postLoop: end
+[DataService]recvFrame: begin
+[DataService]recvFrame: failed to recv frame length
+[DataService]recvFrame: frame = %d
+[DataService]recvFrame: failed to recv frame data
+[DataService]recvFrame: end
+wait mPostThread begin
+wait mPostThread end
+[DataService]sendNext: failed to send next req
+[DataService]start: {ip=%s, port=%d} already started
+[DataService]start: {ip=%s, port=%d} failed to create DataSocket
+[DataService]start: {ip=%s, port=%d} failed to open DataSocket
+[DataService]start: {ip=%s, port=%d} failed to sendNext
+[DataService]start: {ip=%s, port=%d} failed to initializeQueue
+[DataService]start: {ip=%s, port=%d} failed to DataSocket.startSelect
+[DataService]stop begin
+[DataService]stop end
+ecMirrData
+dm_start
+dm_stop
+dm_bindUSBDevice
+dm_bindWIFIDevice
+dm_unbindDevice
+dm_forward
+dm_addWifiDevice
+[DeviceManager]addWifiDevice: ip=%s is already added
+bind transportType=%d,device=%p
+This feature is not supported.
+bind transportType=%d,ip=%s
+transport device is NULL
+last transport=%d is not closed ,please unbind first
+unsupport transport type=%d
+dm_forward start local=%s,remote=%s, mIosDevice = %d
+%*[a-z]:%hu
+dm_forward end
+unbind transportType=%d +
+unbind transportType=%d -
+sendHidTouchReport
+XYtransformToPhone
+sendTouchEvent
+sendKeyEvent
+allowed
+createAoaHidTKService
+allowed is false
+calloc fail
+regist touch hid fail,ret=%d
+send touch hid descriptor fail,ret=%d
+regist consumer hid fail,ret=%d
+send consumer hid descriptor fail,ret=%d
+sendHidTouchReport fail ,dev is NULL
+[ECAoaHidService]sendKeyEvent,key=%d
+[ECAoaHidService]sendKeyEvent fail ,service is NULL
+[ECAoaHidService]not support key 
+[ECAoaHidService]sendHidControlEvent: invalid key
+[ECAoaHidService]sendHidEvent fail ret = %d
+?service is null
+[ECAoaHidService]:XYtransformToPhone parameter check,mCarWidth=%d,mCarHeight=%d,mPhoneWidth=%d,mPhoneHeight=%d
+[ECAoaHidService]:transform out x=%d,y=%d,case=0-%d
+[ECAoaHidService]:transform out x=%d,y=%d,case=1-%d
+[ECAoaHidService]:transform out x=%d,y=%d,case=2-%d
+[ECAoaHidService]:transform out x=%d,y=%d,case=3-%d
+[ECAoaHidService]sendHIDTouchEvent:invalid Type=
+parseStr2ConfigEC
+setPhoneIp
+setPhoneIp2
+setPubkey
+setAppReported
+setDisableAoaHID
+generateQRCodeUrl
+resetECConfig
+http://www.carbit.com.cn/down5/312
+http://www.carbit.com.cn/down6/636/637/_yltp
+http://www.carbit.com.cn/down6/654/655/_motofun
+http://www.carbit.com.cn/down6/646/647/_motofunos
+http://www.carbit.com.cn/down6/642/643/_ylqx
+http://www.carbit.com.cn/down6/645/644/_ylqxos
+http://www.carbit.com.cn/down6/652/653/_kymco
+generateQRCodeUrl,info.action=%d,sn=%s,ssid=%s,pwd=%s,auth=%s,mac=%s,name=%s,bm=%s,authCheckMode=0x%04x
+[ECContext]generateQRCodeUrl:FLAVOR NOT SUPPORT
+%s?modelid=%d
+&sn=%s
+&action=%d
+&ssid=%s
+&pwd=%s
+&auth=%s
+&mac=%s
+&name=%s
+&bm=%s
+&uid=%s
+generateQRCodeUrl,url=%s
+ASDF!@#$asdf1234
+ECSDK_
+mOs=[%s]
+mOsVersion=[%s]
+mPhoneUuid=[%s]
+mPhoneModel=[%s]
+mPhoneAppPackage=[%s]
+mPhoneBluetoothName=[%s]
+mPhoneBluetoothAddress=[%s]
+Invalid parameter.
+json parse failed
+carAppPackage
+carAppSignature
+carAppAnotherSignature
+airplayEthnet
+airplayRoute
+qnxDriverPath
+lightningBindApp
+invalid argument.
+ecContext->mIsAppReported=%d
+[ECContext]setDisableAoaHID fail,because register aoa hid fail,mDisableAoaHID=%d,mIsSupportAOAHID=%d,flag=%d
+mPhoneIp=%s
+mPhoneIp=[%s]
+setPubkey,key=null
+setPubkey,key=[%s]
+handleMessage
+ecFuncEvt
+[ECFuncHandle]eventLoop: handle event=%d begin
+[ECFuncHandle]eventLoop: handle unknown event=%d 
+ECSDK
+[%s][ADB][%s]
+[%s][MUX][%s]
+[%s][APP][%s]
+[%s][SDK][%s]
+[%lu]
+.%03d]
+ecQueue_lock
+ecQueue_unlock
+ecQueue_lock lock error
+ecQueue_lock unlock error
+release
+onAudioStart
+onAudioData
+onAudioStop
+onAudioInterrupt
+onAudioSetVolume
+onStartCarMicRecord
+onStopCarMicRecord
+startListeningRecorderData
+stopListeningRecorderData
+uploadRecorderData
+type = %d, data = %d
+type = %d
+mAudioPlayer
+setVolume
+recorde thread is listenning
+mRecorderListenQuit need quit
+ecAdoMgr
+mAudioRecord
+wait mRecorderListenThread exit begin
+wait mRecorderListenThread exit end
+record size = 0
+ record error:%d
+mAudioRecord object is null
+onDisconnect_MirrorSocket
+createMirrorSocket
+destroyMirrorSocket
+[PXCSocket]:onDisconnect_MirrorSocket sc no parent
+onDisconnect_MirrorSocket p2cSocket no pxc object
+onMirrorRequestReconnect begin
+onMirrorRequestReconnect end
+onMirrorDisconnected begin
+[P2CService]:P2CService_handleCMD_PXCService pxcService is null
+[P2CService]:P2CService_handleCMD_PXCService parent of pxcService is null
+user is null
+[%s]handleCarRecordStart: sendCMD failed, cmdType: 0x%X
+handleAudioMessage
+handleHudMessage
+P2CService_handleCMD_PXCService
+P2CService_onEventDone
+start_P2CService
+stop_P2CService
+handleCMD_P2CService
+handleCheckCarUuidResult
+handleDownloadCarUuidLicenseResult
+handleRegisterCarUuidResult
+handleCheckSNResult
+handleRemoteAuthResult
+handleAppStatusForeground
+handleAppStatusBackground
+handleAppStatusScreenLocked
+handleAppStatusScreenUnlocked
+handleAppHorizontalSupport
+handleAppHorizontalUnsupport
+handleNaviStatus
+handleAcqueireBlueTooth
+handleCallOutByBuleTooth
+handleAudioStart
+handleAudioData
+handleAudioVolume
+handleAudioInterrupt
+handleAudioStop
+handleCarRecordStart
+handleCarRecordStop
+handleVRStatus
+handleMusicStatus
+handleMusicInfo
+handleAppHud
+handleSwitchToSystemMainPage
+handleLaunchPhoneApp
+handleOpenBluetooth
+handleBluetoothSetting
+handlePhoneAppQuit
+handleCarCmd
+handleStopService
+handleFtpServerOpened
+handleOTAFtpServerOpened
+handleOTAResult
+handleSwitchToFront
+handleHeartBeat
+handleUnSupport
+handleInputStart
+handleInputCancel
+handleInputSelection
+handleBulkData
+handleVRText
+handleCustomData
+handleInputText
+handleTalkieStatus
+handlePageListResult
+handlePageIconResult
+handleWeatherResult
+handleVRTipsResult
+handleOTADownloadFromPhone
+handleSwitchEasyconnToBackground
+handleHuBTNotMatch
+handleEnableOrDisableUploadGPSInfo
+handleEnableOrDisableAOAHid
+handleAppHudRoadJunctionPicture
+handleMobilePhoneNotification
+handleAppHudLaneGuidancePicture
+postTTSVRAudio
+postTalkieAudio
+postMUSICAudio
+checkAudioStart
+checkAudioStop
+createP2CService
+destroyP2CService
+[P2CService]checkAudioStart:TTS, no stop before start
+[P2CService]checkAudioStart:VR, no stop before start
+[P2CService]checkAudioStart:Talkie, no stop before start
+[P2CService]checkAudioStart:Music, no stop before start
+[P2CService]checkAudioStop:TTS, no start before stop
+[P2CService]checkAudioStop:VR, no start before stop
+[P2CService]checkAudioStop:Talkie, no start before stop
+[P2CService]checkAudioStop:Music, no start before stop
+[P2CService]createP2CService: begin, ip=%s, port=%d, cb=%p, pxc=%p
+ecTTS
+ecTalk
+ecMusic
+ecHUD
+[P2CService]createP2CService: end
+[P2CService]destroyP2CService: begin
+[P2CService]destroyP2CService: end, p2c is null
+[P2CService]destroyP2CService: end
+P2CService
+sendPlayEvent
+postTTSAudio: queue is oversized
+postTTSAudio: queue error occured 
+[P2CService]handleAppHudLaneGuidancePicture: sendCMD failed, cmdType: 0x%X
+[P2CService]handleAppHudRoadJunctionPicture: sendCMD failed, cmdType: 0x%X
+accept
+[%s]handleAudioData: sendCMD failed, cmdType: 0x%X
+(ECCallBack*)p2c->mECCallback
+onPhoneAudioStart
+onPhoneAudioSetVolume
+onPhoneAudioData
+onPhoneAudioStop
+onPhoneAudioInterrupt
+reqData not json format
+sampleRate
+format
+recv data type wrong
+malloc audiounit error
+volume
+recv data is wrong!
+cmdType = %08x
+[%s]handleCMD: invalid cmd = 0x%X
+[P2CService]handleCarRecordStart
+[P2CService]handleCarRecordStart: sampleRate %d, channel %d, format %d
+[%s]handleCarRecordStart: recv data type wrong
+[P2CService]handleCarRecordStart: recv data not json format
+[P2CService]handleCarRecordStop
+[%s]handleCheckCarUuidResult: failed to create ABuffer, %d
+[%s]handleCheckSNResult: failed to create ABuffer, %d
+[%s]handleDownloadCarUuidLicenseResult: failed to create ABuffer, %d
+enable
+[%s]handleFtpServerOpened: recv data not json format
+[%s]handleFtpServerOpened: result %s
+ftpServerPort
+passivePort
+[%s]handleHeartBeat: sendCMD failed, cmdType: 0x%X
+[%s]handleHeartBeat ING
+currentRoad
+carDirection
+cameraType
+cameraSpeed
+cameraDistance
+naviIcon
+nextRoad
+roadRemainingDistance
+roadRemainingTime
+destinationRemainingDistance
+destinationRemainingTime
+arriveTime
+arriveTimeZone
+signalIntensity
+userCallback
+[P2CService]handleMobilePhoneNotification: sendCMD failed, cmdType: 0x%X
+[%s]handleMusicInfo: failed to create ABuffer, %d
+[%s]handleOTAFtpServerOpened: result %s
+[%s]handleUnSupport: sendCMD failed, cmdType: 0x%X
+[%s]handlePhoneAppQuit: recv ECP_P2C_PHONE_APP_QUIT, then call onAppDisconnect
+[%s]handleRegisterCarUuidResult: failed to create ABuffer, %d
+[P2CService]handleRemoteAuthResult: result is invalid
+[P2CService]handleRemoteAuthResult: result is not cjson
+authOk
+[%s]handleRemoteAuthResult: authOk: %d
+[%s]handleRemoteAuthResult: recv data type wrong
+islogin
+ismute
+postMUSICAudio: queue is oversized
+postMUSICAudio: queue error occured 
+postTalkieAudio: queue is oversized
+postTalkieAudio: queue error occured 
+[P2CService]start: begin
+[%s]start: startSelect failed
+[P2CService]start: end
+[P2CService]start: fail
+[P2CService]stop: begin
+[P2CService]stop: end
+onRecv_PXCService
+sendConnectType
+checkCMD
+sendCMD_type
+sendCMD
+recvCMD
+recvCMD_data
+recycleRecvBuf
+recycleSendBuf
+createPXCService
+destroyPXCService
+[PXCService]checkCMD: cmd error, cmdType=0x%X
+[PXCService]:createPXCService begin
+[PXCService]:createPXCService end
+[PXCService]:destroyPXCService begin
+[PXCService]:destroyPXCService end
+PXCService
+[%s]onRecv: selectListener is null
+[%s]onRecv: selectListener parent is null
+[%s]onRecv: mSocket not initialized
+[%s]onRecv: recv CmdBase failed
+[%s]onRecv: checkCMD error, {cmdType: 0x%X}
+[%s]onRecv: getRecvBuf failed, {cmdType: 0x%X, size: %d}
+[%s]onRecv: recv failed, {cmdType: 0x%X, size: %d}
+[%s]recvCMD: mSocket not initialized
+[%s]recvCMD: recv cmd failed
+[%s]recvCMD: recv data failed, length: %d
+[%s]recvCMD: ECP_PXC_CMD_ERR cmdType:%x|data:%s
+[%s]recycleRecvBuf: %d oversize MAX_BUF_SIZE
+[%s]recycleSendBuf: %d oversize MAX_BUF_SIZE
+[%s]sendCMD:send failed, {length: %d}
+[%s]sendCMD: mSocket not initialized
+%s, sendCMD: getSendBuf failed, {length: %d}
+[%s]sendCMD: send failed, {length: %d}
+[%s]sendConnectType: send CmdBase failed
+[%s]sendConnectType: recv CmdBase failed
+[%s]sendConnectType: send 0x%X cmd, recv wrong rlyCmdType 0x%X
+onDisconnect_PXCSocket
+createPXCSocket
+destroyPXCSocket
+[PXCSocket]:createPXCSocket begin
+[PXCSocket]:createPXCSocket end
+[PXCSocket]:destroyPXCSocket begin
+[PXCSocket]:destroyPXCSocket end
+PXCSocket
+[PXCSocket]:onDisconnect_PXCSocket begin
+[PXCSocket]:onDisconnect_PXCSocket sc no parent
+[%s]:onDisconnect_P2CSocket p2cSocket no pxc object
+[%s]:onDisconnect_PXCSocket end
+createSelectListener
+destroySelectListener
+selectLoop
+open_
+close_
+startSelect
+stopSelect
+recv_
+send_
+onDisconnect
+createSocket
+destroySocket
+[%s]close_ begin
+[%s]close: {ip=%s, port=%d} mSock=%d
+[%s]close_ end
+[SelectListener]:createSelectListener begin
+[SelectListener]:createSelectListener end
+[Socket]createSocket begin
+[Socket]createSocket end
+[SelectListener]:destroySelectListener begin
+[SelectListener]:destroySelectListener end
+[Socket]destroySocket begin
+[Socket]destroySocket sc is invalid
+[Socket]destroySocket end
+ecSocket
+[Socket]onDisconnect code = %d
+/home/weili/Project/F133-RTOS/melis-4.x-release/source/livedesk/beetles/ECTiny/Platform/F133/ECComm/../../../Src/ECComm/Socket.c
+[%s]open: failed to create socket for {ip=%s, port=%d}, %s
+[%s]open: failed to connect %s:%d, %s
+[%s]open: failed to setsockopt TCP_NODELAY, %s
+[%s]open: failed to setsockopt SO_SNDTIMEO, %s
+[%s]open: failed to setsockopt SO_RCVTIMEO, %s
+DataSocket
+CtrlSocket
+[%s]open: {ip=%s, port=%d} mSock=%d, mMirrorFlag=%d
+[%s]recv: socket(%s:%d) closed, mSock=%d, errno=%d, %s
+[%s]recv: socket(%s:%d) no error to read mSock=%d, n=%d, errno=%d, %d, %s 
+[%s]recv: socket(%s:%d) interrupted, n=%d
+[%s]recv: socket(%s:%d) timeout, n=%d, timeoutCnt=%d, errno=%d, %s
+[%s]recv: socket(%s:%d) failed to read mSock=%d, n=%d, errno=%d, %s
+[%s]selectLoop: begin
+[%s]selectLoop: timeout tryCount=%d
+[%s]selectLoop: over tryCount times, tryCount=%d
+[Socket]getLoop: select error, n=%d, %s
+[%s]selectLoop: end
+[%s]send: socket(%s:%d) closed, mSock=%d, errno=%d, %s
+[%s]send: socket(%s:%d) interrupted
+[%s]send: socket(%s:%d) timeout, n=%d, timeoutCnt=%d, errno=%d, %s
+[%s]send: socket(%s:%d) failed to send mSock=%d, errno=%d, %s
+[%s]startSelect begin
+[%s]startSelect: failed to create select thread
+[%s]startSelect end
+[%s]startSelect: invalid parameters, listener=%p, selectMode=%d
+[%s]stopSelect begin
+[%s]stopSelect end
+BLINDING CONTEXT
+4000000000000000000000000000000000000000000000000000000000000000
+5C3C3C3C3C3C3C3C3C3C3C3C3C3C3C3C3C3C3C3C3C3C3C3C3C3C3C3C3C3C3C30
+5715ECCE24583F7A7023C24164390586842E816D7280A49EF6DF4EAE6B280BF8
+41A2B017516F6D254E1F002BCCBADD54BE30F8CEC737A0E912B4963B6BA74460
+5555555555555555555555555555555555555555555555555555555555555550
+7FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF8
+000000000000000000000000000000000000000000000001
+FFFFFFFFFFFFFFFFFFFFFFFE26F2FC170F69466A74DEFD8C
+5EA6F389A38B8BC81E767753B15AA5569E1782E30ABE7D25
+400000000000000000000000000000000000000000000000
+7FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+555555555555555555555555555555555555555555555555
+secp521r1
+brainpoolP512r1
+secp384r1
+brainpoolP384r1
+secp256r1
+secp256k1
+brainpoolP256r1
+secp224r1
+secp224k1
+secp192r1
+secp192k1
+h^j@GPm|_}
+.2!Zd
+[^H_JI
+2cV]8
+LA\>Up
+H:XV`
+01DB42
+14DEF9DEA2F79CD65812631A5CF5D3ED
+8335DC163BB124B65129C96FDE933D8D723A70AADC873D6D54A7BB0D
+DPV2A
+=*\\E)
+:HAA6
+^1kW3
+vr8^T:l)U
+0123456789ABCDEF
+RIPEMD160
+SHA224
+SHA256
+SHA384
+SHA512
+pbeWithSHAAnd3-KeyTripleDES-CBC
+PBE with SHA1 and 3-Key 3DES
+pbeWithSHAAnd2-KeyTripleDES-CBC
+PBE with SHA1 and 2-Key 3DES
+hmacSHA1
+HMAC-SHA-1
+hmacSHA224
+HMAC-SHA-224
+hmacSHA256
+HMAC-SHA-256
+hmacSHA384
+HMAC-SHA-384
+hmacSHA512
+HMAC-SHA-512
+id-md5
+id-sha1
+SHA-1
+id-sha224
+SHA-224
+id-sha256
+SHA-256
+id-sha384
+SHA-384
+id-sha512
+SHA-512
+id-ripemd160
+RIPEMD-160
+desCBC
+des-ede3-cbc
+DES-EDE3-CBC
+brainpool256r1
+brainpool384r1
+brainpool512r1
+rsaEncryption
+id-ecPublicKey
+Generic EC key
+id-ecDH
+EC key for ECDH
+md5WithRSAEncryption
+RSA with MD5
+sha-1WithRSAEncryption
+RSA with SHA1
+sha224WithRSAEncryption
+RSA with SHA-224
+sha256WithRSAEncryption
+RSA with SHA-256
+sha384WithRSAEncryption
+RSA with SHA-384
+sha512WithRSAEncryption
+RSA with SHA-512
+ecdsa-with-SHA1
+ECDSA with SHA1
+ecdsa-with-SHA224
+ECDSA with SHA224
+ecdsa-with-SHA256
+ECDSA with SHA256
+ecdsa-with-SHA384
+ECDSA with SHA384
+ecdsa-with-SHA512
+ECDSA with SHA512
+RSASSA-PSS
+anyPolicy
+Any Policy
+id-kp-serverAuth
+TLS Web Server Authentication
+id-kp-clientAuth
+TLS Web Client Authentication
+id-kp-codeSigning
+Code Signing
+id-kp-emailProtection
+E-mail Protection
+id-kp-timeStamping
+Time Stamping
+id-kp-OCSPSigning
+OCSP Signing
+id-kp-wisun-fan-device
+Wi-SUN Alliance Field Area Network (FAN)
+id-ce-basicConstraints
+Basic Constraints
+id-ce-keyUsage
+Key Usage
+id-ce-extKeyUsage
+Extended Key Usage
+id-ce-subjectAltName
+Subject Alt Name
+id-netscape-certtype
+Netscape Certificate Type
+id-ce-certificatePolicies
+Certificate Policies
+id-at-commonName
+Common Name
+id-at-countryName
+Country
+id-at-locality
+Locality
+id-at-state
+State
+id-at-organizationName
+Organization
+id-at-organizationalUnitName
+Org Unit
+emailAddress
+E-mail address
+id-at-serialNumber
+Serial number
+serialNumber
+id-at-postalAddress
+Postal address
+postalAddress
+id-at-postalCode
+Postal code
+postalCode
+id-at-surName
+Surname
+id-at-givenName
+Given name
+id-at-initials
+Initials
+initials
+id-at-generationQualifier
+Generation qualifier
+generationQualifier
+id-at-title
+Title
+id-at-dnQualifier
+Distinguished Name qualifier
+dnQualifier
+id-at-pseudonym
+Pseudonym
+pseudonym
+id-domainComponent
+Domain component
+id-at-uniqueIdentifier
+Unique Identifier
+uniqueIdentifier
+Proc-Type: 4,ENCRYPTED
+DEK-Info: DES-EDE3-CBC,
+DEK-Info: DES-CBC,
+DEK-Info: AES-
+DEK-Info: AES-128-CBC,
+DEK-Info: AES-192-CBC,
+DEK-Info: AES-256-CBC,
+D7q/;M
+GregistHid
+unRegistHid
+sendHiDDescriptor
+sendHidEvent
+createAoaHidTouchDev
+createAoaHidConsumerDev
+aoa_consumer_dev
+aoa_touch_dev
+	@	B	C	D	E	
+	Q%?u
+	Q%?u
+	Q%?u
+	Q%?u
+	Q%?u
+dev is null
+0123456789abcdef
+0123456789ABCDEF
+(null)
+ NaN 
+ -Infinity 
+ Infinity 
+POSIX
+inity
+ASCII
+ASCII
+carplay_wifi
+%hD2g
+0123456789abcdefghigklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ
+ePDK.mod
+MELIS_MOD
+.text
+.rodata
+.data
+.shstrtab
+MAGIC
