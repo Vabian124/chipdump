@@ -25,6 +25,10 @@ edit files in the unpacked tree, rebuild the MinFS ROOTFS with `dump_tool`, and 
 back into the 16 MiB image (see `README.md` §5 and `../mods/optimized-ui/`). That is the
 only way to produce a flashable, modified image, and it is demonstrated to work.
 
+**Reassembly is verified.** Every code section here round-trips back to identical bytes —
+see `../reassembly/` (`VERIFICATION.txt`: 70/70 checks pass, covering image concat, ROOTFS
+splice, and all 68 ELF `.text` disassemble→reassemble round trips).
+
 ## Contents
 
 | Path | What it is |

@@ -1,0 +1,76 @@
+== L1: image = boot0 || gpt ==
+  [PASS] chipdump.bin == boot0.bin || gpt.bin
+== L2: ROOTFS splice round-trip ==
+  [PASS] ROOTFS splice @0x190000 reproduces image
+== L3: reassemble every RISC-V ELF .text ==
+  [PASS] reassemble desktop.mod
+  [PASS] reassemble init.axf
+  [PASS] reassemble auto.mod
+  [PASS] reassemble carlife.mod
+  [PASS] reassemble carplay.mod
+  [PASS] reassemble adec_aac.drv
+  [PASS] reassemble adec_alac.drv
+  [PASS] reassemble adec_amr.drv
+  [PASS] reassemble adec_ape.drv
+  [PASS] reassemble adec_atr.drv
+  [PASS] reassemble adec_cok.drv
+  [PASS] reassemble adec_com.plg
+  [PASS] reassemble adec_flc.drv
+  [PASS] reassemble adec_mp3.drv
+  [PASS] reassemble adec_ogg.drv
+  [PASS] reassemble adec_pcm.drv
+  [PASS] reassemble adec_spr.drv
+  [PASS] reassemble adec_wma.drv
+  [PASS] reassemble aenc_mp3.drv
+  [PASS] reassemble aenc_pcm.drv
+  [PASS] reassemble aenc.plg
+  [PASS] reassemble aply.plg
+  [PASS] reassemble ardr_hw.plg
+  [PASS] reassemble ardr_sw.plg
+  [PASS] reassemble arec.plg
+  [PASS] reassemble avs.drv
+  [PASS] reassemble ldec_itx.plg
+  [PASS] reassemble ldec_lrc.plg
+  [PASS] reassemble ldec_smi.plg
+  [PASS] reassemble ldec_srt.plg
+  [PASS] reassemble ldec_ssa.plg
+  [PASS] reassemble ldec_sub.plg
+  [PASS] reassemble ldec_txt.plg
+  [PASS] reassemble cedar.mod
+  [PASS] reassemble muxer.plg
+  [PASS] reassemble psr_audio.plg
+  [PASS] reassemble psr_video.plg
+  [PASS] reassemble psr_vrxxx.plg
+  [PASS] reassemble sply.plg
+  [PASS] reassemble vdec_com.plg
+  [PASS] reassemble vdecoder.drv
+  [PASS] reassemble vply.plg
+  [PASS] reassemble charset.mod
+  [PASS] reassemble display.mod
+  [PASS] reassemble eclink.mod
+  [PASS] reassemble ginkgo.mod
+  [PASS] reassemble miracast.mod
+  [PASS] reassemble mixture.mod
+  [PASS] reassemble motolink.mod
+  [PASS] reassemble oak.mod
+  [PASS] reassemble sensor_play.mod
+  [PASS] reassemble slib.mod
+  [PASS] reassemble update.mod
+  [PASS] reassemble vcoder.mod
+  [PASS] reassemble video_play.mod
+  [PASS] reassemble pdec_bmp.plg
+  [PASS] reassemble pdec_gif.plg
+  [PASS] reassemble pdec_jpeg_pro.plg
+  [PASS] reassemble pdec_jpg.plg
+  [PASS] reassemble pdec_png.plg
+  [PASS] reassemble pshow.plg
+  [PASS] reassemble psr_bmp.plg
+  [PASS] reassemble psr_gif.plg
+  [PASS] reassemble psr_jpeg_pro.plg
+  [PASS] reassemble psr_jpg.plg
+  [PASS] reassemble psr_png.plg
+  [PASS] reassemble willow.mod
+  [PASS] reassemble wireless.mod
+======================================
+RESULT: 70 passed, 0 failed
+ALL REASSEMBLY CHECKS PASS
