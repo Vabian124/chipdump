@@ -1,0 +1,145 @@
+jBkaa
+dTW\O
+iJj)a
+F2EBF
+Y	A7W!
+dFiea
+*#0!+#<1)#8A)#4Q)#<q'#8
+*#0a)#0
+f!f!h}6
+0bgff
+4\C#*
+4\C#.
+6\C#*
+@}7;	
+@}7;	'
+F}7cS
+	eyx#.
+@cVw;	G#
+7%GcCw
+p0i#0
+yqaE&
+p0\#8
+p0[#<
+pPZ#8
+p0W#4
+pPV#0
+ppU#4
+pPR#<
+@0'35
+@@M# 
+@@H1F
+b#0!c#<1a#<
+b#8Aa#4Qa#0aa#<q_#8
+W%@	g
+}W}Ec
+I#8!G#0AG
+_#<QE#4qE#<
+F#41G#8aE#0
+ABhcE
+E;TTA;
+bi!ao
+UE@c	
+ #8!!
+"bdEa
+jBkaa
+Y	A;	
+W	A;U
+'0%	'45	'8E	'<U	'0e
+	G}Uc
+ao 0g
+ @E#4
+!G}Uc
+W}7cj
+\t	G#
+\@"uc
+ N N N N NPF
+|*|]{}z
+xlwBv
+m$lnj
++'((%$"
+t!w"z
+xvu}r
+hffid
+VUU,T
+N0MSL~K
+I%IhH
+M{O8Q
+q}q}q}q}q}
+#r'd+p/
+}Bvnj
+ 	/	(<e
+-<w%-<
+L"'4M
+1ff91D
+3w	j4
+:XD9;-
+!%)/3;=
+#!AMR-WB
+[1;40;33m
+[DBG]
+%s%s%s: [%s:%04u]: %s%sadec_amr.drv [%s] ID[%s|%s]%s
+8482bfd
+75a87bf
+Wed, 27 Nov 2024 17:53:16 +0800
+SetAudioBsHeader
+[1;40;31m
+[ERR]
+%s%s%s: [%s:%04u]: %s%slong jmp exit.%s
+%s%s%s: [%s:%04u]: %s%sAudio bitstream format information ptr is invalid!%s
+%s%s%s: [%s:%04u]: %s%sdelete audio decoder finished%s
+%s%s%s: [%s:%04u]: %s%simpossible! adrv stop already begin! It's sync!%s
+%s%s%s: [%s:%04u]: %s%sfatal error! notify stop fail!%s
+WaitAbsDataInput
+FreeAbsBuffer
+MIoctrl
+adrv_audio_main_task
+%s%s%s: [%s:%04u]: %s%sdelete audio decode driver main task!%s
+%s%s%s: [%s:%04u]: %s%ssend DATA_END message.%s
+%s%s%s: [%s:%04u]: %s%sBe careful! why video_adrv receive ERR_AUDIO_DEC_ABSEND?%s
+%s%s%s: [%s:%04u]: %s%sadec thread exit.%s
+%s%s%s: [%s:%04u]: %s%sadrv underflow, send ADEC2ADRV_MSG_TYPE_DATA_END%s
+%s%s%s: [%s:%04u]: %s%ssend DATA_END message%s
+%s%s%s: [%s:%04u]: %s%sadrv quit: send pcm buf socket! bufaddr[%x],bufsize[%d],pcmlen[%d]%s
+%s%s%s: [%s:%04u]: %s%sadec thread exit%s
+%s%s%s: [%s:%04u]: %s%s[]adrv_status_lock create fail
+%s%s%s: [%s:%04u]: %s%s[err]adrv_status_lock has release
+Impl_AdrvStatus_NotifyNewStatus
+Impl_AdrvStatus_DetectStatusChange
+Impl_AdrvStatus_ProcessStatusChange
+AdrvStatus_Init
+%s%s%s: [%s:%04u]: %s%sinvalid parameter.%s
+%s%s%s: [%s:%04u]: %s%salloc bitstream buffer failure.%s
+AudioDEC_open
+%s%s%s: [%s:%04u]: %s%sastream_fifo_init() fail, fatal error!%s
+%s%s%s: [%s:%04u]: %s%sfatal error from audio decoder, underflow%s
+%s%s%s: [%s:%04u]: %s%svideo file : adrv return ERR_AUDIO_DEC_ABSEND%s
+%s%s%s: [%s:%04u]: %s%saudio file adrv: absend%s
+%s%s%s: [%s:%04u]: %s%s[2]adeclib donot set fseekflag to 1,[%d][%d]%s
+AC320_decInit
+AC320_decPro
+FSeek_AC320
+Amr Decoder
+(%s),line(%d) : init successs...
+(%s),line(%d) : exit successs...
+(%s),line(%d) : ===================================================================
+(%s),line(%d) : 3GPP AMR-WB Floating-point Speech Decoder, v6.0.0, Dec 14, 2004
+(%s),line(%d) : ===================================================================
+(%s),line(%d) :  TS 26.104                                                         
+(%s),line(%d) :  REL-5 V5.4.0 2004-03                                              
+(%s),line(%d) :  REL-6 V6.1.0 2004-03                                              
+(%s),line(%d) :  3GPP AMR Floating-point Speech Decoder                            
+#!AMR
+#!AMR-WB
+UUUUUU
+%s%s%s: [%s:%04u]: %s%sRequest memory(size:%x) for user failed!%s
+%s%s%s: [%s:%04u]: %s%sRequest memory(size:%x) by palloc for user failed!%s
+CEDAR_malloc
+CEDAR_phymalloc
+ePDK.mod
+MELIS_MOD
+.text
+.rodata
+.data
+.shstrtab
+MAGIC

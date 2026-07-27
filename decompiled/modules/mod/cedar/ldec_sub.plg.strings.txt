@@ -1,0 +1,42 @@
+ `Z35
+DL@\y
+Hx,L|e
+ `n#<
+jBkaa
+k"laa
+x@#,$
+subdec
+eLIBs_fllseek
+[1;40;31m
+[ERR]
+%s%s%s: [%s:%04u]: %s%sseek error! from %p.%s
+pthread_mutex_lock_cedar
+%s%s%s: [%s:%04u]: %s%spthread sempend fail[%x], again%s
+%s%s%s: [%s:%04u]: %s%sRequest memory(size:%x) for user failed!%s
+%s%s%s: [%s:%04u]: %s%sRequest memory(size:%x) by palloc for user failed!%s
+CEDAR_malloc
+CEDAR_phymalloc
+unknown
+size:
+scale:
+alpha:
+smooth:
+fadein/out:
+align:
+time offset:
+forced subs:
+palette:
+custom colors:
+tridx:
+colors:
+langidx:
+index:
+timestamp:
+filepos:
+ePDK.mod
+MELIS_MOD
+.text
+.rodata
+.data
+.shstrtab
+MAGIC

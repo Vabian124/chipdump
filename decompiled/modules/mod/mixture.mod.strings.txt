@@ -1,0 +1,198 @@
+co0`u
+F#0!G#<1E#8AE#4QE#0aE#<qC#8
+%}4cw
+jJkia
+`Vd5a
+p}UEa
+|J}Qa
+Eo @i
+ `l}Y
+iFj	a
+pBt!a
+A	#	Q	
+8#0!9#<17#4Q7#0a7#<
+8#8A7
+bl_en %d,bl2 %d,bright %d,contrast %d,sau %d,hue %d,vcom %d,avdd %d
+Config path is %s
+backLightDay
+BACKLIGHT
+backLightGain
+backLightMinValue
+bBackLightReverse
+bright
+bright %d
+contrast
+contrast %d
+saturation
+saturation %d
+hue %d
+vcomVoltage
+vcomVoltage %d
+avddVoltage
+avddVoltage %d
+backLightDay %d,backLightMinValue %d,backLightGain %d
+backLight %d
+backlight on
+Config path no find
+%s%s%s: [%s:%04u]: %s%sLoadDataFromFile %s%s
+%s%s%s: [%s:%04u]: %s%smalloc err
+b_carback %d
+b_disable_logo %d
+%s%s%s: [%s:%04u]: %s%slcd init finish%s
+e:\stalogoR.jpg
+e:\stalogo.jpg
+d:\res\stalogoR%d.bin
+d:\res\stalogo%d.bin
+d:\res\stologoR%d.bin
+d:\res\stologo%d.bin
+%s%s%s: [%s:%04u]: %s%snot support carback now%s
+%s%s%s: [%s:%04u]: %s%smalloc fail...
+%s%s%s: [%s:%04u]: %s%sget mp_display fail!%s
+D:\apps\Config.ini
+mcuSerialName
+SendStartMovieToMcu %s
+%s%s%s: [%s:%04u]: %s%sno this logo.%s
+start_play_movie
+stop_play_movie
+jpeg_hw_rotate
+LoadDataFromFile
+get_size_jpg
+show_jpg_logo
+show_bmp_logo
+show_picture
+stop_picture
+__jpg_animation
+__animation_task
+stop_animation
+display_switch_tv
+plogo_data_init
+Mod_Mixture_MOpen
+Mod_Mixture_MIoctrl
+d:\res\stalogoR%d.jpg
+d:\res\stologoR%d.jpg
+[1;40;31m
+[ERR]
+%s%s%s: [%s:%04u]: %s%sno this logo%s
+d:\res\stalogo%d.jpg
+d:\res\stologo%d.jpg
+%s%s%s: [%s:%04u]: %s%sget jpg size fail!, (%x, %x)%s
+init gpio fail,port %d,num %d
+/dev/g2d
+[1;40;33m
+[DBG]
+%s%s%s: [%s:%04u]: %s%sopen g2d dev %d%s
+%s%s%s: [%s:%04u]: %s%scan't open g2d dev%s
+boot_logo_en
+mixture_para
+startup_logo_en
+startup_logo_type
+startup_picture_type
+startup_logo_enlarge
+startup_ani_total_frame
+startup_ani_inter_time
+shutdown_logo_en
+shutdown_logo_type
+shutdown_picture_type
+shutdown_logo_enlarge
+shutdown_ani_total_frame
+shutdown_ani_inter_time
+E:\Config.ini
+bVideoOutput
+SETUP
+videoOutputFormat
+backDetectGpio
+VIDEO
+disableLogoGpio
+STARTUP
+%s%s%s: [%s:%04u]: %s%sget mp_display fail
+carback_en
+bl_delay_time
+rotate_angle
+disp_x
+disp_y
+disp_w
+disp_h
+E:\Save\boot.bin
+%s%s%s: [%s:%04u]: %s%srotate_angle %d,screen_angle %d,bl_delay_time %d,disp_area[%d,%d,%d,%d]%s
+%s%s%s: [%s:%04u]: %s%sbackgpio %d,disableLogoGpio %d%s
+startup_volume
+/dev/audio_play0
+%s%s%s: [%s:%04u]: %s%sstartup_volume = %d%s
+d:\res\index.bin
+%s%s%s: [%s:%04u]: %s%sopen file err
+%s%s%s: [%s:%04u]: %s%sfread fail...
+%s%s%s: [%s:%04u]: %s%smalloc logo bmp buffer failed!%s
+%s%s%s: [%s:%04u]: %s%smalloc tmp_buf buffer failed!%s
+%s%s%s: [%s:%04u]: %s%sParse BMP pic failed
+%s%s%s: [%s:%04u]: %s%smalloc logo jpeg buffer failed!%s
+d:\mod\vcoder.mod
+%s%s%s: [%s:%04u]: %s%sinstall vcoder failed...
+%s%s%s: [%s:%04u]: %s%sopen mod ailed!
+%s%s%s: [%s:%04u]: %s%sno picture
+%s%s%s: [%s:%04u]: %s%sget the jpg size fail!%s
+%s%s%s: [%s:%04u]: %s%sjpeg_info->yuv_buf malloc fail,size:%d
+%s%s%s: [%s:%04u]: %s%sangle %d,size->width %d,size->height %d,pic_width %d,pic_height %d%s
+%s%s%s: [%s:%04u]: %s%srequest logo_layer fail%s
+%s%s%s: [%s:%04u]: %s%sscn_w %d,scn_h %d,size->width %d,size->height %d%s
+d:\res\stamovieR.mp4
+d:\res\stomovieR.mp4
+d:\res\stamovie.mp4
+d:\res\stomovie.mp4
+%s%s%s: [%s:%04u]: %s%sstart_play_movie %s%s
+%s%s%s: [%s:%04u]: %s%smoive file not exist...
+%s%s%s: [%s:%04u]: %s%srobin_open fail...
+%s%s%s: [%s:%04u]: %s%srobin_request_vedio_layer fail...
+%s%s%s: [%s:%04u]: %s%sstop_play_movie
+open_ram_bmp
+%s%s%s: [%s:%04u]: %s%spalloc fail...%s
+%s%s%s: [%s:%04u]: %s%sAZ100_Uncompress fail...%s
+%s%s%s: [%s:%04u]: %s%sError! bitcount is %d, not 32.%s
+%s%s%s: [%s:%04u]: %s%sERR: open_bmp failed%s
+%s%s%s: [%s:%04u]: %s%sERR: wboot_malloc failed%s
+Parse_Pic_BMP_ByRam
+eLIBs_fseek
+eLIBs_fllseek
+%s%s%s: [%s:%04u]: %s%sseek error! from %p.%s
+robin_set_cmd_play_file
+robin_set_cmd_play_file
+%s%s%s: [%s:%04u]: %s%s%s filename is null%s
+%s%s%s: [%s:%04u]: %s%sEPDK_FALSE != robin_is_open()%s
+%s%s%s: [%s:%04u]: %s%s[>_<]LBC CLOSE!%s
+%s%s%s: [%s:%04u]: %s%s[>_<]LBC ON!mode:%d, lossy:%d, [%d,%d]%s
+%s%s%s: [%s:%04u]: %s%s[>_<]LBC OFF!%s
+%s%s%s: [%s:%04u]: %s%s[>_<]scaledown:%d%s
+cedar_get_lcd_size
+CB_UserDef_LBC
+CB_UserDef_Scaledown
+cedar_open
+get_feedback_msgQ
+disp_open
+%s%s%s: [%s:%04u]: %s%sError in opening display driver.%s
+d:\mod\cedar.mod
+%s%s%s: [%s:%04u]: %s%sError in loading cedar module!%s
+%s%s%s: [%s:%04u]: %s%sError in opening disp!%s
+%s%s%s: [%s:%04u]: %s%sError in getting cedar error channel.%s
+d:\mod\willow\willow.mod
+robin_request_video_layer
+%s%s%s: [%s:%04u]: %s%sError in applying for the video layer.%s
+%s%s%s: [%s:%04u]: %s%spipe = %d, prio = %d, w:%d, h:%d%s
+robin_set_zoom
+%s%s%s: [%s:%04u]: %s%srobin_set_src_wnd%s
+%s%s%s: [%s:%04u]: %s%sCEDAR_VID_WINDOW_USERDEF %d,%d,%d,%d%s
+cmdQ_create
+%s%s%s: [%s:%04u]: %s%sError in creating cmdQ!
+robin_cedar_mutex_create
+%s%s%s: [%s:%04u]: %s%sError in creating robin_cedar_mutex!
+robin_cmd_mutex_create
+%s%s%s: [%s:%04u]: %s%sError in creating robin_cmd_mutex!
+robin_feedbackQ_create
+%s%s%s: [%s:%04u]: %s%sError in creating robin_feedbackQ!
+robin_monitor_create
+%s%s%s: [%s:%04u]: %s%sError in creating "robin monitor" thread.%s
+ePDK.mod
+MELIS_MOD
+.text
+.rodata
+.data
+.shstrtab
+MAGIC

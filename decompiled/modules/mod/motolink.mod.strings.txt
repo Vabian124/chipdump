@@ -1,0 +1,31 @@
+pBt!a
+PACE_MInit
+lib_pace_hide
+lib_pace_init
+lib_pace_net_connect
+lib_pace_net_disconnect
+lib_pace_screen %d,%d
+lib_pace_show
+lib_pace_start
+lib_pace_stop
+lib_pace_video %d,%d
+============ data ============
+%02x 
+%04x	
+@@@@@@@@@@@@ start @@@@@@@@@@@@
+############# stop ############
+status_notify %d
+Error creating socket
+Error binding socket
+Error listening on socket
+change socket buffer failed!
+malloc size too big %d
+perror:%s
+carplay_wifi
+ePDK.mod
+MELIS_MOD
+.text
+.rodata
+.data
+.shstrtab
+MAGIC

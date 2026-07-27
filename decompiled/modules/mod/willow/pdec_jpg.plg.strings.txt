@@ -1,0 +1,23 @@
+@@Q)E
+Gck'	
+`	G}U
+h"dbi
+A{3we
+9	|# 
+;	 AR
+EK}\c
+2#0!3#<11*
+[1;40;31m
+[ERR]
+%s%s%s: [%s:%04u]: %s%sPDEC_JPEG_MClose : main tsk cannot be deleted!%s
+PDEC_JPEG_MClose
+f:\idec_tmp.buf
+VEngine
+VEngInt
+ePDK.mod
+MELIS_MOD
+.text
+.rodata
+.data
+.shstrtab
+MAGIC

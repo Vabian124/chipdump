@@ -1,0 +1,161 @@
+co 0{
+co pz
+co pw
+ PyAF
+ P<RG
+L#8!M#41M#0AM#<QK#8aK#4qK
+zB{ea
+p}}Yc
+`Fd%a
+0F}T"
+0.}T"
+yBz%a
+c}9AF#
+	%"e6
+lJmma
+\`(x&
+|cdX	
+@AGcs
+RFSFAT16
+current MainType:%s
+current subType:%s
+size:%d
+%s %s %d name:%s
+%s %s %d dl_filename:%s
+%s %s %d failed
+%s %s %d vf_filename:%s
+%s %s %d check_sum_firmware:0x%x
+%s %s %d Sunxi_Get_GptPart_info Fail!
+%s %s %d GptPart_entry.starting_lba:%d
+%s %s %d GptPart_entry.ending_lba:%d
+%s %s %d Already_UpdateItemSize:%d
+%s %s %d Current_UpdateItemSize:%d
+%s %s %d Already_UpdateSize:%d
+%s %s %d Burn_prog:%d
+%s %s %d %s %s check_sum_flash:0x%x, check_sum_firmware:0x%x
+%s %s %d %s %s update failed!
+%s %s %d
+%s %s %d Part Num Error
+%s %s %d Nothing Change,Not Need to Erase!
+GPT:%-12s %-12llx  %-12llx Need to Erase
+private
+emodules/mod_update/sunxi_update.c
+%s %s %d Not have private part!
+Hal_malloc Fail Size:%d
+%s %s %d private part data lost
+update module exit
+update module init
+begin to update, image file name is %s
+version
+update
+no version section,can update
+1234567890___VER
+Current_UpdateItemSize:%d
+sysconfig.fex [update] version:%s
+version.fex :%s
+force_update
+force_update,check_img:ok
+check_img:fail
+check_img:ok
+begin to update, image buffer %x,size %d
+F:\Update\LTTF133.img
+this command is not support
+update module mid is %x
+Sunxi_UpdateFirmwareItem
+Sunxi_Update_Boot0
+Sunxi_Update_Gpt
+Sunxi_Update_NormalPart
+Sunxi_Update_NullPart
+Sunxi_Update_Private
+%s %d esMEMS_Malloc Fail
+1234567890___MBR
+12345678
+%s %d Sunxi_Verify_Mbr Fail
+1234567890BNOR_0
+Flash Boot0 check_sum:0x%x!
+%s %d check_sum_file != check_sum_flash
+%s %d read image file boot0 part add_sum:0x%x
+%s %d read flash boot0 part add_sum:0x%x
+%s %d read image file gpt part add_sum:0x%x
+%s %d read flash gpt part add_sum:0x%x
+get clear firmware
+%s %d FW_Img_Open %s Fail
+%s %d update init failed %s Fail
+card_product_used
+card_product
+card_product_storage
+storage_type
+target
+%s BLOCK_DEVICE_CMD_ERASE_SECTOR Fail!
+/dev/spinor
+/dev/sdmmc2
+storage_type:%d not support!
+can not find device:%s
+device:%s BLOCK_DEVICE_CMD_GET_TOTAL_SIZE fail!
+Private
+GPT:%-12s %-12llx  %-12llx
+%s %d sunxi_flash_read Fail!
+%s %d the Local GPT table is bad
+1234567890DLINFO
+*************DOWNLOAD MAP DUMP************
+total download part %d
+downlaod map is bad
+download part[%d] name          :%s
+download part[%d] download file :%s
+download part[%d] verify file   :%s
+download part[%d] lenlo         :0x%x
+download part[%d] addrlo        :0x%x
+download part[%d] encrypt       :0x%x
+download part[%d] verify        :0x%x
+mbr->crc32:0x%x
+crc:0x%x
+%s %d the %d mbr table is bad
+the %d mbr table is ok
+*************MBR DUMP***************
+total mbr part %d
+part[%d] name      :%s
+part[%d] classname :%s
+part[%d] addrlo    :0x%x
+part[%d] lenlo     :0x%x
+part[%d] user_type :%d
+part[%d] keydata   :%d
+part[%d] ro        :%d
+sunxi_mbr_convert_to_gpt
+EFI PART*************GPT DUMP***************
+emodules/mod_update/sunxi_partition.c
+%s %d the GPT table is bad
+the GPT table is bad
+%s %d gpt_head->num_partition_entries:%d 
+GPT:%-12s: %-12llx  %-12llx
+%s %d gpt_head->signature:%x not eq GPT_HEADER_SIGNATURE!
+EFI PART
+softw411
+%s:not sunxi mbr, can't convert to GPT partition
+%s:sunxi mbr crc error, can't convert to GPT partition
+%s %s %d logic_offset:0x%x
+img is invalid
+IMAGEWTY
+[1;40;31m
+[ERR]
+%s%s%s: [%s:%04u]: %s%sImg_OpenItem%s
+malloc
+emodules/mod_update/image/image.c
+PXTOOLSB 
+%s%s%s: [%s:%04u]: %s%sImg_ReadItemData%s
+pos(%x) >= pItem->filelen(%x)
+pos >= pItem->filelen
+%s %s %d Length:%d
+Img_OpenItem
+Img_ReadItemData
+__Img_ReadItemData
+file size %d,free memory %d,flag %d
+memory not enough
+eLIBs_fseek
+%s%s%s: [%s:%04u]: %s%sseek error! from %p.%s
+ePDK.mod
+MELIS_MOD
+.text
+.rodata
+.data
+.shstrtab
+MAGIC

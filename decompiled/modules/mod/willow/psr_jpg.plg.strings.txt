@@ -1,0 +1,31 @@
+jBkaa
+lBmea
+zB{ea
+DH@#*$
+D-IH@D
+jBkaa
+9	|(h
+(h;	IA
+F\X8dc
+zB{ea
+*A#,$
+gA# d
+pBt!a
+f:\idec_tmp.buf
+pthread sempend fail[%d], again
+key_type
+video_encrypt
+key%d
+eLIBs_fseek
+eLIBs_fllseek
+[1;40;31m
+[ERR]
+%s%s%s: [%s:%04u]: %s%sseek error! from %p.%s
+allwinner_epk001
+ePDK.mod
+MELIS_MOD
+.text
+.rodata
+.data
+.shstrtab
+MAGIC

@@ -1,0 +1,109 @@
+@ c#<
+y}UEa
+pbd"y
+D4X8t
+l,l#$
+u<X#<
+dEao0
+3	9Am
+ P:#4
+ P"}T"
+  |}U
+tByaa
+ `>cC
+  6cC
+  ,cS
+pBt!a
+ph}T"
+dFiea
+[1;40;33m
+[DBG]
+%s%s%s: [%s:%04u]: %s%sDESKTOP_MOpen.%s
+card_product_used
+card_product
+d:\apps\init.axf
+d:\apps\init_sd_product.axf
+DESKTOP_MOpen
+ 0@P`p
+dsk_display_lcd_on
+dsk_display_lcd_off
+dsk_display_lcd_backlight_enable
+dsk_display_get_format
+save_backlight_to_mixture
+dsk_display_set_lcd_brightness
+update
+dsk_display_get_lcd_brightness
+dsk_display_set_lcd_bright
+[1;40;31m
+[ERR]
+%s%s%s: [%s:%04u]: %s%sError in opening display driver.%s
+%s%s%s: [%s:%04u]: %s%sOpen display driver failed, test program exits.%s
+%s%s%s: [%s:%04u]: %s%ssetting lcd_bright=%d%s
+e:\mixture.bin
+%s%s%s: [%s:%04u]: %s%sfh fail%s
+dsk_display_get_size
+dsk_display_set_backcolor
+dsk_display_get_backcolor
+dsk_display_set_format
+dsk_display_get_output_type
+dsk_display_on
+dsk_display_off
+d:\mod\update.mod
+%s%s%s: [%s:%04u]: %s%supdate mod install error 
+%s%s%s: [%s:%04u]: %s%sopen update mode error 
+mcu uart device %s
+send start update to mcu
+dsk_reg_init_para format
+dsk_reg_init_para ok
+dsk_volume_get
+dsk_volume_dec
+_set_volume
+_get_volume
+HP_DET
+audio_para
+%s%s%s: [%s:%04u]: %s%svolume================%d %s
+/dev/audio_play0
+%s%s%s: [%s:%04u]: %s%sopen dac device fail!%s
+%s%s%s: [%s:%04u]: %s%s2%s
+PA_SHDN
+%s%s%s: [%s:%04u]: %s%svolume: =%d%s
+%s%s%s: [%s:%04u]: %s%s@@@ para->channel = %d @@@%s
+%s%s%s: [%s:%04u]: %s%sdsk_volume_dec now val = %d%s
+%s%s%s: [%s:%04u]: %s%sxxxx volume = %d%s
+%s%s%s: [%s:%04u]: %s%sdsk_volume_gate_on = NULL%s
+msg_srv_init_input_panel
+msg_srv_init_tp_channel
+msg_srv_init_key_channel
+msg_srv_init_ksrv_channel
+tp_msg_cb
+key_msg_cb
+ksrv_msg_thread
+msg_srv_dispatch_message
+%s%s%s: [%s:%04u]: %s%s usrmsg = %d %s
+%s%s%s: [%s:%04u]: %s%s*************usrmsg = %d***************%s
+emitq2orange
+%s%s%s: [%s:%04u]: %s%s msg.id = %d is error %s
+LKeyBoardDev
+%s%s%s: [%s:%04u]: %s%sgrab logical keyboard failed%s
+%s%s%s: [%s:%04u]: %s%semit_ctr.h_keyGraber=0x%x%s
+%s%s%s: [%s:%04u]: %s%sget logical id failed%s
+%s%s%s: [%s:%04u]: %s%sLdevID=%d%s
+%s%s%s: [%s:%04u]: %s%slogical device ioctl failed%s
+appmsg2emitq
+%s%s%s: [%s:%04u]: %s%s ksrv_msg_thread create error %s
+LTSDev
+%s%s%s: [%s:%04u]: %s%sgrab logical touchpannel failed%s
+%s%s%s: [%s:%04u]: %s%s create sys_msg_queue error %s
+%s%s%s: [%s:%04u]: %s%s create p_array_sem error %s
+%s%s%s: [%s:%04u]: %s%s create p_hook_sem error %s
+%s%s%s: [%s:%04u]: %s%s create p_tvout_tp_hook_sem error %s
+%s%s%s: [%s:%04u]: %s%scannot identify message: %x%s
+%s%s%s: [%s:%04u]: %s%sinvalid argument for call back%s
+%s%s%s: [%s:%04u]: %s%sinvalid event count number%s
+ePDK.mod
+MELIS_MOD
+.text
+.rodata
+.data
+.shstrtab
+MAGIC

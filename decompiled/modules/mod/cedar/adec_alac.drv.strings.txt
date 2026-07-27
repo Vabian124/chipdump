@@ -1,0 +1,85 @@
+P@Y#0
+dXMPa
+E({<r
+I!G!N
+@0s#4
+w&gfh
+g@;Sg
+UDXc{
+-"W;	
+<;\,A
+<;U%A
+<;U%A
+<;\,A;
+<;U%A
+<;U%A
+W;U%A
+W;U%A
+W;U%A
+W;U%A
+'0%	'45	'8E	'<U	'0e
+gayq>
+&o0 ,o0
+o 0oo Pp%%
+ P]#4
+!G}Uc
+W}7cj
+\t	G#
+\@"uc
+[1;40;33m
+[DBG]
+%s%s%s: [%s:%04u]: %s%sadec_alac.drv [%s] ID[%s|%s]%s
+8482bfd
+75a87bf
+Wed, 27 Nov 2024 17:53:16 +0800
+SetAudioBsHeader
+[1;40;31m
+[ERR]
+%s%s%s: [%s:%04u]: %s%slong jmp exit.%s
+%s%s%s: [%s:%04u]: %s%sAudio bitstream format information ptr is invalid!%s
+%s%s%s: [%s:%04u]: %s%sdelete audio decoder finished%s
+%s%s%s: [%s:%04u]: %s%simpossible! adrv stop already begin! It's sync!%s
+%s%s%s: [%s:%04u]: %s%sfatal error! notify stop fail!%s
+WaitAbsDataInput
+FreeAbsBuffer
+MIoctrl
+adrv_audio_main_task
+%s%s%s: [%s:%04u]: %s%sdelete audio decode driver main task!%s
+%s%s%s: [%s:%04u]: %s%ssend DATA_END message.%s
+%s%s%s: [%s:%04u]: %s%sBe careful! why video_adrv receive ERR_AUDIO_DEC_ABSEND?%s
+%s%s%s: [%s:%04u]: %s%sadec thread exit.%s
+%s%s%s: [%s:%04u]: %s%sadrv underflow, send ADEC2ADRV_MSG_TYPE_DATA_END%s
+%s%s%s: [%s:%04u]: %s%ssend DATA_END message%s
+%s%s%s: [%s:%04u]: %s%sadrv quit: send pcm buf socket! bufaddr[%x],bufsize[%d],pcmlen[%d]%s
+%s%s%s: [%s:%04u]: %s%sadec thread exit%s
+%s%s%s: [%s:%04u]: %s%s[]adrv_status_lock create fail
+%s%s%s: [%s:%04u]: %s%s[err]adrv_status_lock has release
+Impl_AdrvStatus_NotifyNewStatus
+Impl_AdrvStatus_DetectStatusChange
+Impl_AdrvStatus_ProcessStatusChange
+AdrvStatus_Init
+%s%s%s: [%s:%04u]: %s%sinvalid parameter.%s
+%s%s%s: [%s:%04u]: %s%salloc bitstream buffer failure.%s
+AudioDEC_open
+%s%s%s: [%s:%04u]: %s%sastream_fifo_init() fail, fatal error!%s
+%s%s%s: [%s:%04u]: %s%sfatal error from audio decoder, underflow%s
+%s%s%s: [%s:%04u]: %s%svideo file : adrv return ERR_AUDIO_DEC_ABSEND%s
+%s%s%s: [%s:%04u]: %s%saudio file adrv: absend%s
+%s%s%s: [%s:%04u]: %s%s[2]adeclib donot set fseekflag to 1,[%d][%d]%s
+AC320_decInit
+AC320_decPro
+FSeek_AC320
+alac Decoder
+(%s),line(%d) : []init successs...
+(%s),line(%d) : exit successs...
+%s%s%s: [%s:%04u]: %s%sRequest memory(size:%x) for user failed!%s
+%s%s%s: [%s:%04u]: %s%sRequest memory(size:%x) by palloc for user failed!%s
+CEDAR_malloc
+CEDAR_phymalloc
+ePDK.mod
+MELIS_MOD
+.text
+.rodata
+.data
+.shstrtab
+MAGIC

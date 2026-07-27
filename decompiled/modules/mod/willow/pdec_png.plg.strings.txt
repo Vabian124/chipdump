@@ -1,0 +1,36 @@
+E!ao 
+ @[H@
+  6#,
+pBy!a
+LCTG<g
+F}UPC
+&\BXF
+L}]	J6
+<`(h	f
+}6x\c
+4T}W0l;
+tT}W0p;
+}WpD;
+}W0H;
+zAlDc
+invalid distance too  back
+invalid distance code
+invalid literal/length code
+incorrect header check
+unknown compression method
+invalid window size
+invalid block type
+invalid stored block lengths
+too many length or distance symbols
+invalid code lengths set
+invalid bit length repeat
+invalid literal/lengths set
+invalid distances set
+incorrect data check
+ePDK.mod
+MELIS_MOD
+.text
+.rodata
+.data
+.shstrtab
+MAGIC

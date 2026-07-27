@@ -1,0 +1,239 @@
+<eGON.BT0
+HHHHH
+44f17d7ce8-dirty
+}TBu3
+"i3y$
+<`(h	f
+5Gcrgs
+}GctgY
+=Gcug
+}Gcpg
+}X=C1
+}Gcug
+Y6#3oo
+Y;_/A;
+;	y@;
+chMY3	
+Yf#3hh
+D	J7)
+|MUqJ
+tNyQa
+\@	Gc
+kBl%a
+l@(@&
+l@(@&
+Bfl@P
+(((((
+AAAAAA
+BBBBBB
+0123456789abcdef
+Qkkbal
+wn>Jj
+sunxi_spi_cpu_readl
+sunxi_spi_cpu_writel
+opensbi to Linux (%x)...,dtb (%x)
+can't support bin type %d
+can't support chip type %d
+board init ok
+set arisc reset to assert state
+set arisc reset to de-assert state
+set pll start
+1008M
+periph0 has been enabled
+set pll end
+time used:%d
+boot image checksum error sum=%x src_sum=%x
+key press : %c
+inbuf:%x
+%02x 
+%s:%u: %s: Assertion `%s' failed.
+Error: Bad gzipped data
+Error: gunzip out of data in header
+1.2.3
+Error: inflateInit2() returned %d
+Error: inflate() returned %d
+invalid distance too far back
+invalid distance code
+invalid literal/length code
+incorrect header check
+unknown compression method
+invalid window size
+unknown header flags set
+header crc mismatch
+invalid block type
+invalid stored block lengths
+too many length or distance symbols
+invalid code lengths set
+invalid bit length repeat
+invalid literal/lengths set
+invalid distances set
+incorrect data check
+incorrect length check
+need dictionary
+stream end
+file error
+stream error
+data error
+insufficient memory
+buffer error
+incompatible version
+Error: LZ4_decompress_generic returned %d
+LZMA: Image address............... 0x%08lx
+LZMA: Properties address.......... 0x%08lx
+LZMA: Uncompressed size address... 0x%08lx
+LZMA: Compressed data address..... 0x%08lx
+LZMA: Destination address......... 0x%08lx
+LZMA: Uncompresed size............ 0x%08lx
+LZMA: Compresed size.............. 0x%08lx
+LZMA: Uncompressed ............... 0x%08lx
+Fail to load kernel head
+ANDROID!
+kernel_addr:%x
+kernel magic is error
+load boot_image fail
+rtc[%d] value = 0x%x
+eraly jump fel
+carshdump mode , jump fel
+spi request dma failed
+spi dma cfg error!
+set spi freq:%d
+%s()%d - cpu receive data time out!
+rx wait_dma_recv_over fail
+int stauts error
+SPI_ISR time_out 
+XCH Control Error!!
+SPI_MBC Error!
+%s()%d - cpu transfer data time out!
+dma 0x%lx int is used already, you have to free it first
+dma 0x%lx int is avaible already
+dma 0x%lx int is not used yet
+dma 0x%lx int is free, you do not need to free it again
+trefi:3.9ms
+trefi:1.95ms
+trefi:7.8ms
+ddr_efuse_type: 0x%x
+ZQ calibration error,check external 240 ohm resistor.
+[AUTO DEBUG] two rank and full DQ!
+[AUTO DEBUG] single rank and full DQ!
+[AUTO DEBUG] single rank and half DQ!
+[AUTO DEBUG] dual rank and half DQ!
+DX0 state:%d
+DX1 state:%d
+DRAM simple test FAIL.
+%x != %x at address %x
+DRAM simple test OK.
+[ERROR DEBUG] DRAM initial error : 0!
+[AUTO DEBUG] rank %d row = %d 
+[AUTO DEBUG] rank %d bank = %d 
+[AUTO DEBUG] rank %d page size = %d KB 
+rank1 config same as rank0
+rank1 config different from rank0
+[ERROR DEBUG] auto scan dram rank&width fail !
+[ERROR DEBUG] auto scan dram size fail !
+ZQ value = 0x%x
+harderr...
+get_pmu_exist() = %d
+V0.34
+DRAM BOOT DRIVE INFO: %s
+DRAM CLK = %d MHz
+DRAM Type = %d (2:DDR2,3:DDR3)
+DRAMC ZQ value: 0x%x
+DRAMC read ODT  off.
+DRAM ODT value: 0x%x.
+DRAM ODT off.
+DRAM initial error : 1 !
+DRAM SIZE =%d M
+Enable Auto SR
+dram_tpr4:0x%x
+PLL_DDR_CTRL_REG:0x%x
+DRAM_CLK_REG:0x%x
+[TIMING DEBUG] MR2= 0x%x
+burn finished,secure mode: %d
+read reg_val = 0x%x
+write reg_val = 0x%x
+SF: Timeout!
+4byte mode ok
+4byte mode error
+spi sample_mode:%x sample_delay:%x
+bootpara
+NORPARAM
+read id error, spinor id is: %02x %02x %02x
+spi set clk error
+spinor id is: %02x %02x %02x, read cmd: %02x
+SF: Macronix SR Quad bit not clear
+SF: Spansion CR Quad bit not clear
+SF: Need set QEB func for %02x flash
+spinor init fail
+the first data is error
+Succeed in reading toc file head.
+toc1 magic error
+The size of toc is %x.
+spinor read data error
+opensbi
+Entry_name        = %s
+u-boot
+u-boot-gz
+Error: gunzip returned %d
+u-boot-lz4
+Error: ulz4fn returned %d
+uboot run addr:%x 
+u-boot-lzma
+Error: lzmaBuffToBuffDecompress returned %d
+optee
+monitor
+dtb-lzma
+boot0 lzma dtb
+dtb-lz4
+dtb-gz
+melis
+melis-config
+image_base:%x
+melis-gz
+rtos-gz
+melis-lz4
+rtos-lz4
+melis-lzma
+rtos-lzma
+HELLO! BOOT0 is starting!
+BOOT0 commit : %s
+enable_jtag
+detected_f user input 2
+init dram fail
+dram size =%d
+detected_r user input 2
+detected user input d
+detected user input q
+Jump to second Boot.
+jump to rtos
+UvWTSf
+sz	m:
+FkodC r
+f(a@[
+^Q(QE
+vf6x4`
+M-/KD
+d%-hVmg
+G&IcvH
+7'FCST
+ikR%Y>
+j3@b0
+6&C_|?
+#.R!&*
+@5F$^
+PaOpl
+c`4''wjR
+v#.\%8g_
+Y>_d(
+'f*:\m^
+nm(Q+hf|W+
+s}K]3
+v +eX
+cT'<f
+'&48o
+Y1_=Hd
+*FAGbIE	$e
+N,	@m
+sKAv<
+%`^w*
+hZFS(
+r@wD4Ls L

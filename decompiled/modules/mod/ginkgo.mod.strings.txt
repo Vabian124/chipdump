@@ -1,0 +1,19 @@
+d:\mod\cedar\muxer.plg
+d:\mod\cedar\muxr_avi.plg
+d:\mod\cedar\muxr_mp4.plg
+d:\mod\cedar\aenc.plg
+d:\mod\cedar\ven_xvid.plg
+d:\mod\cedar\ven_mjpg.plg
+d:\mod\cedar\arec.plg
+d:\mod\cedar\vrec.plg
+[1;40;31m
+[ERR]
+%s%s%s: [%s:%04u]: %s%sRequest memory(size:%x) for user failed!%s
+CEDAR_malloc
+ePDK.mod
+MELIS_MOD
+.text
+.rodata
+.data
+.shstrtab
+MAGIC

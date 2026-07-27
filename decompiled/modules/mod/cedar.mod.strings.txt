@@ -1,0 +1,239 @@
+F#8!G#41G#0AG#<QE
+@0P#4
+``s}U
+yBz%a
+P`"}T"
+@PP#"
+}wU7;
+@ h#<
+@`b#8
+0P:#0
+0`y#8
+0@l#,
+0`R#0
+}7nat
+yp7xde
+ V}U)
+ @Y#8
+  4#0
+  9#.
+2#8A1#0!3#<11#4Q1#0a1#<q/#8
+*kc\@
+d}Y<e
+tEao`
+#*E	!
+#*E	!
+ PM#<
+kBl%a
+dLE<e
+dLE<e
+jFkIa
+)A<PZ
+'A#"$
+4d0L(h
+;	iA<x
+dA# d
+4d0L(h
+<M0U*
+@<h4d#$
+@<|(hX`0L(
+|4dcT
+gA#$d
+$T<|#$
+%"f|H4L;F
+pBt!a2
+%"f|H4L;F
+pBt!a2
+$t(pc
+4d(p&
+<t(pc
+%4p8h
+<x(h&
+<p(tcl
+DXDyU
+palette:
+PALETTE:
+timestamp:
+TIMESTSMP:
+English
+Chinese
+Korean
+Japanese
+Francais
+Hebrew
+Arabic
+Nederlands
+Romanian
+Bulgarian
+Unknown
+.FLAC
+.DIVX
+.RMVB
+.MPEG
+.AIFF
+.AIFC
+.MIDI
+.MPGA
+.M2TS
+.3GPP
+.3GP2
+.PMP2
+.WEBM
+.H264
+.H265
+.ERROR
+%s%s%s: [%s:%04u]: %s%scedar process clearffrr fail, send _CEDAR_CMD_STOP!%s
+[1;40;31m
+[ERR]
+%s%s%s: [%s:%04u]: %s%scedar process ff fail, send _CEDAR_CMD_STOP!%s
+%s%s%s: [%s:%04u]: %s%scedar process rr fail, send _CEDAR_CMD_STOP!%s
+%s%s%s: [%s:%04u]: %s%squick stop cedar process.%s
+%s%s%s: [%s:%04u]: %s%suninstall cedar plugin process.%s
+[1;40;33m
+[DBG]
+%s%s%s: [%s:%04u]: %s%sCedar:close all plug-in in cedar sub system!%s
+%s%s%s: [%s:%04u]: %s%sPost CEDAR_CMD_STOP command!%s
+/dev/audio_play1
+%s%s%s: [%s:%04u]: %s%s[]fopen file fail!
+%s%s%s: [%s:%04u]: %s%scedar.mod [%s] ID[%s|%s]%s
+8482bfd
+75a87bf
+Wed, 27 Nov 2024 17:53:16 +0800
+%s%s%s: [%s:%04u]: %s%sRequest memory for cedar module handle failed!%s
+%s%s%s: [%s:%04u]: %s%sopen cedar internal failed!%s
+MOpen
+MIoctrl
+CedarProcessFF
+CedarProcessRR
+CedarProcessClearFFRR
+jump_to_target
+cedar_maintsk
+ClosePlugIn_SeamlessMode
+FileStopProcess
+%s%s%s: [%s:%04u]: %s%sbefore UnistallPlugIn()%s
+%s%s%s: [%s:%04u]: %s%scedar process jumptotarget fail, send _CEDAR_CMD_STOP!%s
+%s%s%s: [%s:%04u]: %s%sfile stop process%s
+d:\mod\cedar\vply.plg
+%s%s%s: [%s:%04u]: %s%sSet video layer handle failed!%s
+%s%s%s: [%s:%04u]: %s%sPlay file: %s!
+XXX.H264
+XXX.H265
+d:\mod\cedar\avs.drv
+%s%s%s: [%s:%04u]: %s%sFile parser open media file failed!%s
+%s%s%s: [%s:%04u]: %s%sSet MediaTpe=0x%x.%s
+%s%s%s: [%s:%04u]: %s%stype[%d] w[%d] h[%d]
+%s%s%s: [%s:%04u]: %s%s[YG] this video type(%d) is not support!
+%s%s%s: [%s:%04u]: %s%slbc_mode[%d],lbc_lossy[%d],vdecode_scaledown[%d]
+%s%s%s: [%s:%04u]: %s%sCedar:playfile():psr:media open fail!%s
+%s%s%s: [%s:%04u]: %s%sCedar:open audio decoder fail!%s
+%s%s%s: [%s:%04u]: %s%sCedar:UPDATE drv audio decoder fail!%s
+%s%s%s: [%s:%04u]: %s%sCedar:install audio decoder fail!%s
+%s%s%s: [%s:%04u]: %s%sCedar:UPDATE drv audio decoder fail!, isVideo = %d.%s
+%s%s%s: [%s:%04u]: %s%sdisable avsync and audio%s
+%s%s%s: [%s:%04u]: %s%scedar adec open fail%s
+%s%s%s: [%s:%04u]: %s%sadec cmd start failure.%s
+%s%s%s: [%s:%04u]: %s%sCedar:playfile():open video decoder fail!%s
+%s%s%s: [%s:%04u]: %s%sCedar:UPDATE drv video decoder fail!%s
+d:\mod\cedar\vdec_com.plg
+%s%s%s: [%s:%04u]: %s%sCedar:install video decoder fail!%s
+%s%s%s: [%s:%04u]: %s%sCedar:open video decoder fail!%s
+%s%s%s: [%s:%04u]: %s%scedar:vdec_com open fail%s
+%s%s%s: [%s:%04u]: %s%sCedar:open lyric decoder fail!%s
+%s%s%s: [%s:%04u]: %s%sCedar: start vdec failure.%s
+d:\mod\cedar\ardr_sw.plg
+d:\mod\cedar\ardr_hw.plg
+d:\mod\cedar\aply.plg
+%s%s%s: [%s:%04u]: %s%sCedar:install aply fail!%s
+%s%s%s: [%s:%04u]: %s%sOpen audio playback failed!%s
+%s%s%s: [%s:%04u]: %s%serror to play media file %s.[%d]%s
+probe_file_type
+install_psr
+install_adec
+LaunchVply
+PlayMediFile
+%s%s%s: [%s:%04u]: %s%sfatal error, praw_adec_flag = NULL%s
+%s%s%s: [%s:%04u]: %s%sdon't support raw data mode of this type[%d], prepare to goto normal play mode%s
+d:\mod\cedar\adec_com.plg
+%s%s%s: [%s:%04u]: %s%saudio bitstream not support%s
+d:\mod\cedar\ldec_lrc.plg
+d:\mod\cedar\ldec_srt.plg
+d:\mod\cedar\ldec_ksc.plg
+d:\mod\cedar\ldec_smi.plg
+d:\mod\cedar\ldec_ssa.plg
+d:\mod\cedar\ldec_txt.plg
+d:\mod\cedar\ldec_sub.plg
+d:\mod\cedar\ldec_itx.plg
+d:\mod\cedar\psr_audio.plg
+%s%s%s: [%s:%04u]: %s%sload psr_video.plg!%s
+d:\mod\cedar\psr_video.plg
+d:\mod\cedar\psr_dev.plg
+%s%s%s: [%s:%04u]: %s%smedia file format is not support!%s
+%s%s%s: [%s:%04u]: %s%sinstall parser fail!%s
+%s%s%s: [%s:%04u]: %s%salloc probe buffer failure.%s
+%s%s%s: [%s:%04u]: %s%sopen file for probe failure.%s
+%s%s%s: [%s:%04u]: %s%sread file failure.%s
+video_permission
+audio_permission
+miscellaneous
+MPEG_AAC_LC
+LPCM_V
+LPCM_A
+ADPCM
+WMA_STANDARD
+MJPEG
+MPEG1_ES
+MPEG2_ES
+DIVX3
+DIVX4
+DIVX5
+SORENSSON_H263
+RMVB8
+RMVB9
+DIVX2
+DIVX1
+matroskad:\mod\cedar\vdecoder.drv
+@name
+eLIBs_fseek
+eLIBs_fllseek
+%s%s%s: [%s:%04u]: %s%sseek error! from %p.%s
+key%d
+video_encrypt
+%s%s%s: [%s:%04u]: %s%s[CEDAR_fopen]it is not Encrypt video file!
+%s%s%s: [%s:%04u]: %s%s[CEDAR_fopen]it is Encrypt video file!
+%s%s%s: [%s:%04u]: %s%s[YG] g_cedar_encrytp_mod:%d
+CEDAR_fs_set_encrytp_mod
+CEDAR_fopen
+%s%s%s: [%s:%04u]: %s%sRequest memory(size:%x) for user failed!%s
+%s%s%s: [%s:%04u]: %s%sRequest memory(size:%x) by palloc for user failed!%s
+CEDAR_malloc
+CEDAR_phymalloc
+pthread_mutex_lock_cedar
+%s%s%s: [%s:%04u]: %s%spthread sempend fail[%x], again%s
+%s%s%s: [%s:%04u]: %s%sfatal error, lock req and release not match!%s
+%s%s%s: [%s:%04u]: %s%snest_lock.c: Cedar_Lock() _EntranceCnt overflow %s
+%s%s%s: [%s:%04u]: %s%sCedar_Lock() _EntranceCnt overflow %s
+%s%s%s: [%s:%04u]: %s%smalloc fail%s
+%s%s%s: [%s:%04u]: %s%sCedar_LOCK.c: Cedar_Unlock() _EntranceCnt underflow %s
+Cedar_NestUnlock
+Cedar_NestLock
+Cedar_NestLockAccept
+Cedar_NestLockInit
+allwinner_epk001
+lRIFFAVI RIFFAVIXRIFFAVI
+ON2 ON2fRIFFAMV 
+/sami
+/head
+title
+/title
+samiparam
+/samiparam
+style
+/style
+/body
+allwinner_epk001ePDK.mod
+MELIS_MOD
+.text
+.rodata
+.data
+.shstrtab
+MAGIC

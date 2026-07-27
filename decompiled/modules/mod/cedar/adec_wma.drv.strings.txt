@@ -1,0 +1,279 @@
+P@<#<
+P`;#0
+P 6#8
+P@5#8
+P`4#<
+0@hcD
+&E+#*
+FA;Cm
+a4C	GcE
+}b$Ia
+7!<@c
+G"d;S
+'uG$F;
+7GK#4
+7G/#8
+'E*	Gc
+kBl%a
+4f))a
+pQqSu
+LlLc@l
+  ,#0
+d,c|f
+'D*# 
+`Bi#.
+0@cn&
+BH\l@
+aE8@ce
+7AX\4
+pQd<X
+DTP3f
+tb$!a
+pAYTD
+t"$Ea
+9q\AJ
+pa)#,4
+@q^Su
+:";ia
+@a|Su
+BfSu%
+kBl%a
+Byaao
+lBmea
+<Qyq"
+0`I#6
+Pqv#0
+lBmea
+GfAc]
+jBkaa
+pBt!a
+jBk"$aa
+"cQ 	
+TcR 	
+P@,d;
+P@,d;
+m.$1a
+@"e"x
+cDm'c
+~&~Fsc
+&sF~c
+Yi@:F
+<IYq"
+4b)ea
+tfi#(
+*8I"hcU
+D	&;F
+@	C;Gg
+5q8A"
+c\>	;
+5q4A"
+kBl%a
+_g@#"
+&@JK7
+kBl%a
+lBmea
+GXX#*
+$A;II
+&D!XL
+2S#.d"
+G$"TX
+0/}T&
+#0!92
+8#8A7*
+8#<17#4Q7#0a7#<q5#8
+ Z}Uc
+4@	GcC
+WG@#$
+2}G#.
+4@	GcN
+"4@	G
+pp?#"
+4@	Gc]
+bG)'# 
+jBkaa
+p axX
+0Di#&4	
+F#$9-
+lBmea
+lBmea
+<v9q"
+lBmea
+lBmea
+rG1Fc`
+A	'#$
+;WGA:
+)	<#&
+;	+A;
+W}GcA
+0pb#,
+E2;Vv@
+"!ecD
+'0%	'45	'8E	'<U	'0e
+`b4aa
+`b4aa
+`b4aa
+""$%ao
+VGAc\
+7G+Sw
+.#0!/#8
+.#<1-#8A-#4Q-#0a-#<q+#0
+('<!''81''4A''0Q''<a%:
+e]gcRP
++cXP=
+I}3!;e
+xo 0wo 
+o0@ o0
+to 0u%%
+ P]#4
+ao pg
+!G}Uc
+W}7cj
+\t	G#
+\@"uc
+!N/&"
+&HQo'
+!?,ZR
+y]2]^
+4 vY5
+8;jT9
+g?\5S@o
+,H'U8I
+[K\PsL
+<A@L\A:
+BM76Bp
+*EC3HEj
+FPFeamF
+:RI#$nI
+M]2&M
+HNN8bN
+T|Njh
+Oe*2OP
+LP/%fP:
+#JQTQcQGw|Q{
+DRTs]R
+)V(dAV6
+~CYamZY
+'Z5~>Z
+(=p_G=*
+=<N	>
+->U0B>
++>;p6>>
+Tq>?W
+ >:#*>V
+V>"l`>
+>aTj>
+8Nk$e
+(FKx#
+Xrg" 
+?KLDl
+ !"#$%&'()*+,-0123456789:;<@ABCDEFGHIJKPQRSTUVWXYZ`abcdefghipqrstuvwx
+   ! 0 
+ ;	BB<
+ ;	BB<
+>=	BB<
+WM/WMADRCPeakReference
+WM/WMADRCPeakTarget
+WM/WMADRCAverageReference
+WM/WMADRCAverageTarget
+Fold%To%Channels%
+=v<y5
+!)@:F,@zj/@\G1@|
+:@:F<@Z
+=@zj?@L~@@\GA@l
+@ %z8
+[1;40;33m
+[DBG]
+%s%s%s: [%s:%04u]: %s%sadec_wma.drv [%s] ID[%s|%s]%s
+8482bfd
+75a87bf
+Wed, 27 Nov 2024 17:53:16 +0800
+SetAudioBsHeader
+[1;40;31m
+[ERR]
+%s%s%s: [%s:%04u]: %s%slong jmp exit.%s
+%s%s%s: [%s:%04u]: %s%sAudio bitstream format information ptr is invalid!%s
+%s%s%s: [%s:%04u]: %s%sdelete audio decoder finished%s
+%s%s%s: [%s:%04u]: %s%simpossible! adrv stop already begin! It's sync!%s
+%s%s%s: [%s:%04u]: %s%sfatal error! notify stop fail!%s
+WaitAbsDataInput
+FreeAbsBuffer
+MIoctrl
+adrv_audio_main_task
+%s%s%s: [%s:%04u]: %s%sdelete audio decode driver main task!%s
+%s%s%s: [%s:%04u]: %s%ssend DATA_END message.%s
+%s%s%s: [%s:%04u]: %s%sBe careful! why video_adrv receive ERR_AUDIO_DEC_ABSEND?%s
+%s%s%s: [%s:%04u]: %s%sadec thread exit.%s
+%s%s%s: [%s:%04u]: %s%sadrv underflow, send ADEC2ADRV_MSG_TYPE_DATA_END%s
+%s%s%s: [%s:%04u]: %s%ssend DATA_END message%s
+%s%s%s: [%s:%04u]: %s%sadrv quit: send pcm buf socket! bufaddr[%x],bufsize[%d],pcmlen[%d]%s
+%s%s%s: [%s:%04u]: %s%sadec thread exit%s
+%s%s%s: [%s:%04u]: %s%s[]adrv_status_lock create fail
+%s%s%s: [%s:%04u]: %s%s[err]adrv_status_lock has release
+Impl_AdrvStatus_NotifyNewStatus
+Impl_AdrvStatus_DetectStatusChange
+Impl_AdrvStatus_ProcessStatusChange
+AdrvStatus_Init
+%s%s%s: [%s:%04u]: %s%sinvalid parameter.%s
+%s%s%s: [%s:%04u]: %s%salloc bitstream buffer failure.%s
+AudioDEC_open
+%s%s%s: [%s:%04u]: %s%sastream_fifo_init() fail, fatal error!%s
+%s%s%s: [%s:%04u]: %s%sfatal error from audio decoder, underflow%s
+%s%s%s: [%s:%04u]: %s%svideo file : adrv return ERR_AUDIO_DEC_ABSEND%s
+%s%s%s: [%s:%04u]: %s%saudio file adrv: absend%s
+%s%s%s: [%s:%04u]: %s%s[2]adeclib donot set fseekflag to 1,[%d][%d]%s
+AC320_decInit
+AC320_decPro
+FSeek_AC320
+wma Decoder
+(%s),line(%d) : init successs...
+(%s),line(%d) : exit successs...
+(%s),line(%d) : gqy========passthrough out
+!	@ffffff
+?H	a-
+?H	a-
+C333?
+>fff?
+@?ff&?
+** Internal Error: sizeof(tWMAFileHdrStateInternal) = %d.
+edid_checksum failed!
+/sys/class/hdmi/hdmi/attr/edid
+fread error
+edid_check_header0 failed 
+edid_check_version failed
+check_edid_block0 failed
+Extension_block exist.
+non data_block
+get_4K_mode failed
+get_stereo_mode failed
+get_cec_phy_addr failed
+info_cmd[%d] is not supported
+by_tag error!
+check audio code error!
+Not a CEA extension block
+Normal pcm
+Dolby-core 5.1 channel
+Dolby truehd 7.1 channel
+Dts-core 5.1 channel
+Dts-hdma master 7.1 channel
+WmaPro
+%s%s%s: [%s:%04u]: %s%sRequest memory(size:%x) for user failed!%s
+%s%s%s: [%s:%04u]: %s%sRequest memory(size:%x) by palloc for user failed!%s
+CEDAR_malloc
+CEDAR_phymalloc
+?v<y5
+ri7f>
+>UUUUU
+PCUUUUUU
+UUUUU
+NEJ(~
+33333
+LUUUUU
+?IUUUUU
+IUUUUU
+ePDK.mod
+MELIS_MOD
+.text
+.rodata
+.data
+.shstrtab
+MAGIC

@@ -1,0 +1,732 @@
+iFj	a
+e}o `s
+}o @f
+eJo `YA
+Lo  U
+Mo `TA
+ `OH@
+dEao0
+ `5!E
+  ,#,
+pBt!a
+tByaa
+'A# +
+jBkaa
+zEao `	tP"
+,#0!-#8A+#4Q+#0a+
+v $3F
+dbi"z
+ao p+
+ao  8
+ao  8
+ao `"
+ao @"
+ao @4
+ao  4
+ao `V
+ao `h
+ao `h
+ao P=
+ao P=
+ao 0&
+ao P@
+ao PM
+ao PM
+ao 0M
+ao  ;
+ao 0K
+ao 0a
+ao 0q
+ao0`Y
+	)[#0
+ @"|l
+B#0!C
+D#8!E#41E#0AE#<QC*
+D#8!E#41E#0AE#<QC*
+D#8!E#41E#0AE#<QC*
+F#8!G#41G#0AG#<QE*
+F#8!E.
+F#41E#<
+o `W!
+ao  6
+Go  I
+p"dbi
+6#0!7#<15#0a5#<
+6#8A5#4Q5#<q3#8
+jBkaa
+CARLIFE_MInit
+carLifeActiveUuidFailed
+carLifeBtAutoPairRequest invoked
+MD Bluetooth mac address: %s
+vehicle bluetooth name
+carLifeBtHfpRequest invoked, command: %d
+carLifeBtMdBtOobInfo invoked, status: %s
+carLifeBtResult status %d,addr %s
+carLifeCarDataSubscribe invoked
+carLifeCarDataSubscribeStart invoked
+carLifeCarDataSubscribeStop invoked
+carLifeCarLifeDataSubscribeDone invoked
+moduleID: %d, flag: %d
+carLifeCertificateCheckFailed invoked
+carLifeConnected
+carLifeConnectionAuthenFailed invoked
+carLifeCruiseFollowModuleStatus invoked
+carLifeDisConnected
+carLifeGoToDeskTop invoked
+carLifeMediaAACData invoked
+carLifeMediaInit invoked ch %d,fs %d
+carLifeMediaPause invoked
+carLifeMediaResume invoked
+carLifeMediaSeek invoked
+carLifeMediaStop invoked
+carLifeMicRecordPrepareStart invoked
+carLifeMicRecordRecogEnd invoked
+carLifeMicRecordRecogStart invoked
+carLifeMicRecordWakeupStart invoked
+carLifeMusicModuleStatus invoked
+carLifeNaviModuleStatus invoked
+carLifeNaviTtsInit invoked ch %d,fs %d
+carLifeNaviTtsStop invoked
+carLifePhoneModuleStatus invoked
+carLifeScreenOff invoked
+carLifeScreenOn invoked
+carLifeTelStateChangeIdle invoked
+carLifeTelStateChangeInCalling invoked
+carLifeTelStateChangeIncoming invoked
+carLifeTelStateChangeOutGoing invoked
+carLifeVrInit invoked ch %d,fs %d
+carLifeVrModuleStatus moduleID %d,statusID %d
+carLifeVrStop invoked
+carlifeEncodeInitDone %d,%d,%d
+carlifeMdInfo invoked
+m_bFirstPlay
+FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+init_carlife_sdk width %d,height %d,navi type %d
+uuid_str %s
+bluetooth %s
+melis
+ltt-pp
+ltt-xh
+1.0.0.3
+riscv
+myDevice
+myDisplay
+myFingerprint
+myHardware
+myHost
+myCid
+myProduct
+mySerial
+carapp
+myIncremental
+myToken
+I_FRAME_INTERVAL
+BIKE_NAVI
+BLUETOOTH_INTERNAL_UI
+BLUETOOTH_AUTO_PAIR
+AUDIO_SAMPLE_RATE
+VEHICLE_TYPE
+NAVI_TYPE
+lib_carlife_audio_state %d
+lib_carlife_bt_connect
+lib_carlife_bt_disconnect
+carLifeSdk_sendBtHfpIndication %d,name %s,number %s
+bluetoothID is %s
+lib_carlife_disconnect
+lib_carlife_hide
+lib_carlife_init
+lib_carlife_net_connect
+lib_carlife_net_disconnect
+lib_carlife_night_mode %d
+lib_carlife_reconnect
+lib_carlife_right_hand_drive %d
+lib_carlife_screen %d,%d
+lib_carlife_set_auto_play %d
+lib_carlife_show
+lib_carlife_start
+lib_carlife_stop
+libcarlife
+carlife Thread Start Run %x
+connecting to ip %s
+D:\apps\CarLife\license.txt
+carlife Thread Exit
+lib_carlife_video %d,%d
+,JCT,SAPA 
+,JCT,SAPA 
+,JCT,SAPA 
+,JCT,SAPA 
+,JCT,SAPA,
+,JCT,SAPA 
+,JCT,SAPA 
+,JCT,SAPA 
+,JCT,SAPA 
+,JCT,SAPA 
+carlife_input
+audio_input_thread start run id=%d
+carlife_output
+audio_output_thread start run id=%d
+audio_output_thread exit
+h264_init width %d,height %d
+h264_uninit
+pcm_init ch %d,rate %d
+bt send len %d:
+%02X 
+status_notify %d
+voice_record_start already
+voice_record_start
+voice_record_stop
+SIOCGIFADDR
+%d.%d.%d.%d
+SIOCGIFGATEWAY
+malloc size too big %d
+string length over %d,%s
+bt rec len %d:
+proc_bt_data len %d,type %x
+recv_msg_wireless_info_request
+recv_msg_wireless_md_status
+recv_msg_wireless_hu_status %d
+recv_msg_wireless_response_ip
+recv_msg_wireless_response_ip %s
+recv_msg_wireless_targetinfo_request
+send_msg_wireless_targetinfo_response %s
+/dev/spinor2
+fd is null----
+flash id=0x%x
+uuid len %d:
+%02x 
+ConnectionEstablishHandler_carlifeInitalize, version: %s.
+%s%s_%s_%s_%s_%s
+ConnectionEstablishHandler_connectionSetupWithIP, %s:
+cmdReceiveThreadHandler failed: %d
+cmdReceiveThreadHandler success
+videoReceiveThreadHandler failed: %d
+videoReceiveThreadHandler success
+mediaReceiveThreadHandler failed: %d
+mediaReceiveThreadHandler success
+ttsReceiveThreadHandler failed: %d
+ttsReceiveThreadHandler success
+vrReceiveThreadHandler failed: %d
+vrReceiveThreadHandler success
+BaiduCarLife_
+carLifeSdk_carlifeInitalize
+carLifeSdk_cmdBTStartIdentifyReq, address is NULL
+carLifeSdk_connectionSetupWithIP, %s:
+carLifeSdk_disconnect, current status:%d
+carLifeSdk_init.
+Authorization failed. Access denied. so disconnect.
+Authorization Success.
+command channel receive thread exit!
+disconnected after 5s
+handleAuthResult invked, result->authenResult = %d
+handleAuthResult failed!
+activeResult: %d
+activeResult faild.
+handleCmdModuleStatus invked, statusList is NULL
+handleCmdModuleStatus invked
+handleFeatureRequest invked.
+handleFeatureRequest featureConfig.key=%s, featureConfig.value=%d
+handleHeartBeatReceive heartPhoneTime : %ld
+handleMdAuthenResponse invked
+CARLIFE
+%s%s%s%s%s
+md5Str=%s
+encryr=%s
+handleMdInfo invoked, os: %s
+1.0.0.5
+%s_%s
+_huInfo->os=%s
+_huInfo->board=%s
+_huInfo->bootloader=%s
+_huInfo->brand=%s
+_huInfo->cpu_abi=%s
+_huInfo->cpu_abi2=%s
+_huInfo->device=%s
+_huInfo->display=%s
+_huInfo->fingerprint=%s
+_huInfo->hardware=%s
+_huInfo->host=%s
+_huInfo->cid=%s
+_huInfo->manufacturer=%s
+_huInfo->model=%s
+_huInfo->product=%s
+_huInfo->serial=%s
+_huInfo->codename=%s
+_huInfo->incremental=%s
+_huInfo->release=%s
+_huInfo->sdk=%s
+_huInfo->sdk_int=%d
+_huInfo->btaddress=%s
+_huInfo->year=%s
+2024-08-26-14-35-00
+%s;%s
+ check authResponse after 30s.
+sampleRate:%d
+match.matchStatus = %d,
+_statisticsInfo->cuid=%s
+_statisticsInfo->versionName=%s
+_statisticsInfo->versionCode=%d
+_statisticsInfo->channel=%s
+handleProtocolVersionMatch failed!
+20029999
+receiveFrames >= MAX_DEBUG_FRAME_NUM
+handleVideoEncoderInitDone invked: width: %d, height: %d, framerate: %d
+secret_key
+media channel receive thread exit!
+onConnectionEstablished invked.
+bdbu3eq0laj0dq2fiur294qtqehtiuy7
+timerThread, mCurTime: %ld
+within 6 seconds, phone not send heart beat
+tts channel receive thread exit!
+ don't receive AuthResult msg, so disconnected.
+start sned vehicle active info data
+video channel receive thread exit!
+vr channel receive thread exit!
+carlife_sdk
+[%s] [%s] [%lu]
+[esKRNL_TimeGet: %d]
+UNKNOWN
+DETAIL
+VERBOSE
+DEBUG
+ERROR
+cmd channel socket close successfully!
+cmd channel socket close failed!
+video channel socket close successfully!
+video channel socket close failed!
+media channel socket close successfully!
+media channel socket close failed!
+tts channel socket close successfully!
+tts channel socket close failed!
+vr channel socket close successfully!
+vr channel socket close failed!
+touch channel socket close successfully!
+touch channel socket close failed!
+cmd channel socket create successfully!
+ConnectionSetup, connMage: %p, cmdSocket: %p, socket: %p, m_sock:%d
+cmd channel socket create failed!
+video channel socket create successfully!
+video channel socket create failed!
+media channel socket create successfully!
+media channel socket create failed!
+tts channel socket create successfully!
+tts channel socket create failed!
+vr channel socket create successfully!
+vr channel socket create failed!
+touch channel socket create successfully!
+touch channel socket create failed!
+->media analysis received package data
+Unpack music_init failed.
+media analyzedHead.packageDataSize:%d
+media analyzedHead.packageDataTimeStamp: %d
+MSG_MEDIA_INIT
+MSG_MEDIA_STOP
+MSG_MEDIA_PAUSE
+MSG_MEDIA_RESUME_PLAY
+MSG_MEDIA_SEEK_TO
+MSG_MEDIA_DATA
+MSG_MEDIA_DATA_ENCODER
+->media realloc the buffer
+->media Failed to realloc memory!
+->media package data is received
+->media package data receive failed !
+media package head is failed!.
+media package head is received.
+->navi analysis received package data
+->navi analyzedHead.packageDataSize:%d
+->navi analyzedHead.packageDataTimeStamp: %d
+->navi tts realloc the buffer
+->navi tts Failed to realloc memory!
+->navi tts package data is received
+->navi tts package data receive failed !
+navi tts package head is failed!.
+navi tts package head is received.
+sendCtrlTouchAction pack CarlifeTouchAction failed.
+sendCtrlTouchAction pack CarlifeTouchAction packageLen=%ld.
+ConnectManager_writeCtrlData: send package head.
+ConnectManager_writeCtrlData: send package data.
+sendCtrlTouchCarHardKeyCode pack keyCode failed.
+sendCtrlTouchCarHardKeyCode pack keyCode packageLen=%ld.
+cmdBTHfpResponse pack bthfp_response failed.
+[SEND MSG] MSG_CMD_BT_HFP_RESPONSE.
+cmdBTHfpStatusResponse pack bthfp_status_response failed.
+[SEND MSG] MSG_CMD_BT_HFP_STATUS_RESPONSE.
+CarlifeBTStartIdentifyReq pack authenResult failed.
+[SEND MSG] MSG_CMD_BT_START_IDENTIFY_REQ. address: %s
+cmdBtHfpIndication pack bthfp_indication failed.
+[SEND MSG] MSG_CMD_BT_HFP_INDICATION.
+cmdCarDataSubscribeDone pack CarlifeVehicleInfoList failed.
+[SEND MSG] MSG_CMD_CAR_DATA_SUBSCRIBE_DONE.
+cmdCarLifeDataSubscribe pack CarlifeSubscribeMobileCarLifeInfoList failed.
+[SEND MSG] MSG_CMD_CARLIFE_DATA_SUBSCRIBE.
+[SEND MSG] MSG_CMD_CARLIFE_DATA_SUBSCRIBE_START.
+cmdFeatureConfigResponse pack featureList failed.
+[SEND MSG] MSG_CMD_HU_FEATURE_CONFIG_RESPONSE.
+pack carlife_vehicle_active_info failed.
+[SEND MSG] MSG_CMD_HU_ACTIVE_INFO.uuid: %s, channel: %s, onlyCheckUuid: %d
+randomvalue=%s
+cmdHuAuthenRequest pack authenRequest failed.
+[SEND MSG] MSG_CMD_HU_AUTHEN_REQUEST.
+cmdHuAuthenResult pack authenResult failed.
+[SEND MSG] MSG_CMD_HU_AUTHEN_RESULT,authenResult=%d
+[SEND MSG] MSG_CMD_MIC_RECORD_PREPARE_DONE.
+cmdStatisticInfo pack statisticsInfo failed.
+[SEND MSG] MSG_CMD_STATISTIC_INFO.
+analysis received package data.
+Unpack protocol_version_match_status failed.
+[RECV MSG] MSG_CMD_PROTOCOL_VERSION_MATCH_STATUS, 						match: %d
+Unpack carlife_device_info failed.
+[RECV MSG] MSG_CMD_MD_INFO
+Unpack authen_response failed.
+[RECV MSG] MSG_CMD_MD_AUTHEN_RESPONSE, encryptValue=%s
+Unpack authen_result failed.
+[RECV MSG] MSG_CMD_MD_AUTHEN_RESULT, 						authenResult=%d
+Unpack video_encoder_info failed.
+[RECV MSG] MSG_CMD_VIDEO_ENCODER_INIT_DONE, 						width=%d, height=%d, frameRate=%d
+Unpack module status list failed.
+[RECV MSG] MSG_CMD_MODULE_STATUS
+Unpack media_info failed.
+[RECV MSG] MSG_CMD_MEDIA_INFO
+Unpack media_progress_bar failed.
+[RECV MSG] MSG_CMD_MEDIA_PROGRESS_BAR
+Unpack vehicle_info failed.
+[RECV MSG] MSG_CMD_CAR_DATA_SUBSCRIBE_START, moduleID=%d, flag=%d
+[RECV MSG] MSG_CMD_CAR_DATA_SUBSCRIBE_STOP, moduleID=%d, flag=%d
+[RECV MSG] MSG_CMD_CARLIFE_DATA_SUBSCRIBE_DONE
+Unpack navi_next_turn_info failed.
+[RECV MSG] MSG_CMD_NAVI_NEXT_TURN_INFO
+Unpack resultInd failed.
+[RECV MSG] MSG_CMD_BT_IDENTIFY_RESULT_IND, ind=%d
+Unpack CarlifeBTPairInfo failed.
+[RECV MSG] MSG_CMD_START_BT_AUTOPAIR_REQUEST
+Unpack pairInfo failed.
+[RECV MSG] MSG_CMD_MD_BT_PAIR_INFO
+Unpack bthfp_request failed.
+[RECV MSG] MSG_CMD_BT_HFP_REQUEST
+Unpack bthfp_status_request failed.
+[RECV MSG] MSG_CMD_BT_HFP_STATUS_REQUEST
+[RECV MSG] MSG_CMD_MD_ACTIVE_DONE
+Unpack vehicle_active_done failed.
+package type: MSG_CMD_PROTOCOL_VERSION_MATCH_STATUS.
+package type: MSG_CMD_MD_INFO.
+package type: MSG_CMD_VIDEO_ENCODER_INIT_DONE.
+package type: MSG_CMD_VIDEO_ENCODER_FRAME_RATE_CHANGE_DONE.
+package type: MSG_CMD_TELE_STATE_CHANGE_INCOMING.
+[RECV MSG] MSG_CMD_TELE_STATE_CHANGE_INCOMING
+package type: MSG_CMD_TELE_STATE_CHANGE_OUTGOING.
+[RECV MSG] MSG_CMD_TELE_STATE_CHANGE_OUTGOING
+package type: MSG_CMD_TELE_STATE_CHANGE_IDLE.
+[RECV MSG] MSG_CMD_TELE_STATE_CHANGE_IDLE
+package type: MSG_CMD_TELE_STATE_CHANGE_INCALLING.
+[RECV MSG] MSG_CMD_TELE_STATE_CHANGE_INCALLING
+package type: MSG_CMD_SCREEN_ON.
+[RECV MSG] MSG_CMD_SCREEN_ON
+package type: MSG_CMD_SCREEN_OFF.
+[RECV MSG] MSG_CMD_SCREEN_OFF
+package type: MSG_CMD_SCREEN_USERPRESENT.
+package type: MSG_CMD_FOREGROUND.
+package type: MSG_CMD_BACKGROUND.
+package type: MSG_CMD_GO_TO_DESKTOP.
+[RECV MSG] MSG_CMD_GO_TO_DESKTOP
+package type: MSG_CMD_MIC_RECORD_WAKEUP_START.
+[RECV MSG] MSG_CMD_MIC_RECORD_WAKEUP_START
+package type: MSG_CMD_MIC_RECORD_PREPARE_START.
+[RECV MSG] MSG_CMD_MIC_RECORD_PREPARE_START
+package type: MSG_CMD_MIC_RECORD_END.
+[RECV MSG] MSG_CMD_MIC_RECORD_END
+package type: MSG_CMD_MIC_RECORD_RECOG_START.
+[RECV MSG] MSG_CMD_MIC_RECORD_RECOG_START
+package type: MSG_CMD_MODULE_STATUS.
+package type: MSG_CMD_STATISTIC_INFO.
+package type: MSG_CMD_NAVI_NEXT_TURN_INFO.
+package type: MSG_CMD_CAR_DATA_SUBSCRIBE.
+[RECV MSG] MSG_CMD_CAR_DATA_SUBSCRIBE
+package type: MSG_CMD_CAR_DATA_SUBSCRIBE_START.
+package type: MSG_CMD_CAR_DATA_SUBSCRIBE_STOP.
+package type: MSG_CMD_MEDIA_INFO
+package type: MSG_CMD_MEDIA_PROGRESS_BAR.
+package type: MSG_CMD_CONNECT_EXCEPTION.
+package type: MSG_CMD_REQUEST_GO_TO_FOREGROUND.
+package type: MSG_CMD_UI_ACTION_SOUND.
+package type: MSG_CMD_BT_HFP_REQUEST.
+package type: MSG_CMD_CARLIFE_DATA_SUBSCRIBE_DONE.
+package type: MSG_CMD_NAVI_ASSITANTGUIDE_INFO.
+package type: MSG_CMD_MD_AUTHEN_RESPONSE.
+package type: MSG_CMD_MD_AUTHEN_RESULT.
+package type: MSG_CMD_GO_TO_FOREGROUND_RESPONSE.
+package type: MSG_CMD_BT_IDENTIFY_RESULT_IND.
+package type: MSG_CMD_START_BT_AUTOPAIR_REQUEST.
+package type: MSG_CMD_MD_BT_PAIR_INFO.
+package type: MSG_CMD_BT_HFP_STATUS_REQUEST.
+package type: MSG_CMD_MD_FEATURE_CONFIG_REQUEST.
+[RECV MSG] MSG_CMD_MD_FEATURE_CONFIG_REQUEST
+package type: MSG_CMD_MD_ACTIVE_DONE.
+package type: MSG_CMD_VIDEO_ENCODER_JPEG_ACK.
+package type: MSG_CMD_MD_EXIT.
+package type: MSG_VIDEO_DATA.
+package type: MSG_VIDEO_HEARTBEAT.
+package type: MSG_MEDIA_INIT.
+package type: MSG_MEDIA_STOP.
+package type: MSG_MEDIA_PAUSE.
+package type: MSG_MEDIA_RESUME_PLAY.
+package type: MSG_MEDIA_SEEK_TO.
+package type: MSG_MEDIA_DATA.
+package type: MSG_MEDIA_DATA_ENCODER.
+package type: MSG_NAV_TTS_INIT.
+package type: MSG_NAV_TTS_END.
+package type: MSG_NAV_TTS_DATA.
+package type: MSG_VR_INIT.
+package type: MSG_VR_STOP.
+package type: MSG_VR_DATA.
+package type: MSG_TOUCH_UI_ACTION_SOUND.
+package type: unrecognized: 
+->cmd package data is received: 
+->cmd package data receive failed!
+cmd package head is failed!.
+cmd package head is received.
+btPairInfo pack authenResult failed.
+[SEND MSG] MSG_CMD_HU_BT_PAIR_INFO. btPairInfo.status: %d
+sendCmdHUInfro pack device_info failed.
+sendCmdHUInfro pack device_info packageLen=%ld.
+[SEND MSG] MSG_CMD_HU_INFO.
+TranRecvPackageProcess_sendCmdHUProtoclVersion.
+sendCmdHUProtoclVersion pack huProtocolVersion failed.
+sendCmdHUProtoclVersion pack huProtocolVersion packageLen=%ld.
+ConnectManager_writeCmdData: send package head.
+ConnectManager_writeCmdData: send package data.
+[SEND MSG] MSG_CMD_HU_PROTOCOL_VERSION: major=%d, minor=%d
+pack carlife_vehicle_certificate failed.
+[SEND MSG] MSG_CMD_HU_CERTIFICATE.
+sendCmdVideoEncoderInit pack initParam failed.
+[SEND MSG] MSG_CMD_VIDEO_ENCODER_INIT, width=%d, height=%d, framerate=%d
+[SEND MSG] MSG_CMD_VIDEO_ENCODER_PAUSE.
+[SEND MSG] MSG_CMD_VIDEO_ENCODER_START.
+MSG_VIDEO_DATA, RECEIVE MD sendEmptyPacketForeground.
+->video analysis received package data
+->video analyzedHead.packageDataSize:%d
+->video analyzedHead.packageDataTimeStamp: %d
+MSG_VIDEO_DATA
+MSG_VIDEO_HEARTBEAT
+->video realloc the buffer
+->video Failed to realloc memory!
+->video package data is received
+->video package data receive failed !
+video package head is failed!.
+video package head is received.
+->vr tts analyzedHead.packageDataSize:%d
+->vr tts analyzedHead.packageDataTimeStamp: %d
+->vr tts realloc the buffer
+->vr tts Failed to realloc memory!
+->vr tts package data is received
+->vr tts package data receive failed !
+vr tts package head is failed!.
+vr tts package head is received.
+/home/wching/Documents/LiTianTai-F133AW-3026/melis-4.x-release-1.4-export/source/livedesk/beetles/C_Source/protobuf/CarlifeAuthenRequest.pb-c.c
+assert %s:%d
+CarlifeAuthenRequest
+randomValue
+/home/wching/Documents/LiTianTai-F133AW-3026/melis-4.x-release-1.4-export/source/livedesk/beetles/C_Source/protobuf/CarlifeAuthenResponse.pb-c.c
+CarlifeAuthenResponse
+encryptValue
+/home/wching/Documents/LiTianTai-F133AW-3026/melis-4.x-release-1.4-export/source/livedesk/beetles/C_Source/protobuf/CarlifeAuthenResult.pb-c.c
+CarlifeAuthenResult
+authenResult
+/home/wching/Documents/LiTianTai-F133AW-3026/melis-4.x-release-1.4-export/source/livedesk/beetles/C_Source/protobuf/CarlifeBTHfpIndicationProto.pb-c.c
+CarlifeBTHfpIndication
+state
+phoneNum
+phoneName
+address
+/home/wching/Documents/LiTianTai-F133AW-3026/melis-4.x-release-1.4-export/source/livedesk/beetles/C_Source/protobuf/CarlifeBTHfpRequestProto.pb-c.c
+CarlifeBTHfpRequest
+command
+dtmfCode
+/home/wching/Documents/LiTianTai-F133AW-3026/melis-4.x-release-1.4-export/source/livedesk/beetles/C_Source/protobuf/CarlifeBTHfpResponseProto.pb-c.c
+CarlifeBTHfpResponse
+status
+/home/wching/Documents/LiTianTai-F133AW-3026/melis-4.x-release-1.4-export/source/livedesk/beetles/C_Source/protobuf/CarlifeBTHfpStatusRequestProto.pb-c.c
+CarlifeBTHfpStatusRequest
+/home/wching/Documents/LiTianTai-F133AW-3026/melis-4.x-release-1.4-export/source/livedesk/beetles/C_Source/protobuf/CarlifeBTHfpStatusResponseProto.pb-c.c
+CarlifeBTHfpStatusResponse
+/home/wching/Documents/LiTianTai-F133AW-3026/melis-4.x-release-1.4-export/source/livedesk/beetles/C_Source/protobuf/CarlifeBTIdentifyResultIndProto.pb-c.c
+CarlifeBTIdentifyResultInd
+/home/wching/Documents/LiTianTai-F133AW-3026/melis-4.x-release-1.4-export/source/livedesk/beetles/C_Source/protobuf/CarlifeBTPairInfoProto.pb-c.c
+CarlifeBTPairInfo
+passKey
+randomizer
+/home/wching/Documents/LiTianTai-F133AW-3026/melis-4.x-release-1.4-export/source/livedesk/beetles/C_Source/protobuf/CarlifeBTStartIdentifyReqProto.pb-c.c
+CarlifeBTStartIdentifyReq
+CarlifeBTStartPairReq
+ostype
+/home/wching/Documents/LiTianTai-F133AW-3026/melis-4.x-release-1.4-export/source/livedesk/beetles/C_Source/protobuf/CarlifeCarHardKeyCode.pb-c.c
+CarlifeCarHardKeyCode
+keycode
+/home/wching/Documents/LiTianTai-F133AW-3026/melis-4.x-release-1.4-export/source/livedesk/beetles/C_Source/protobuf/CarlifeDeviceInfoProto.pb-c.c
+CarlifeDeviceInfo
+board
+bootloader
+brand
+cpu_abi
+cpu_abi2
+device
+display
+fingerprint
+hardware
+manufacturer
+model
+product
+serial
+codename
+incremental
+release
+sdk_int
+token
+btaddress
+carlifeversion
+carlifeType
+CarlifeFeatureConfig
+value
+/home/wching/Documents/LiTianTai-F133AW-3026/melis-4.x-release-1.4-export/source/livedesk/beetles/C_Source/protobuf/CarlifeFeatureConfigList.pb-c.c
+CarlifeFeatureConfigList
+featureConfig
+huBtAudioSupport
+huBtName
+huBtMAC
+/home/wching/Documents/LiTianTai-F133AW-3026/melis-4.x-release-1.4-export/source/livedesk/beetles/C_Source/protobuf/CarlifeMediaInfoProto.pb-c.c
+CarlifeMediaInfo
+source
+artist
+album
+albumArt
+duration
+playlistNum
+songId
+/home/wching/Documents/LiTianTai-F133AW-3026/melis-4.x-release-1.4-export/source/livedesk/beetles/C_Source/protobuf/CarlifeMediaProgressBarProto.pb-c.c
+CarlifeMediaProgressBar
+progressBar
+CarlifeModuleStatus
+moduleID
+statusID
+/home/wching/Documents/LiTianTai-F133AW-3026/melis-4.x-release-1.4-export/source/livedesk/beetles/C_Source/protobuf/CarlifeModuleStatusList.pb-c.c
+CarlifeModuleStatusList
+moduleStatus
+/home/wching/Documents/LiTianTai-F133AW-3026/melis-4.x-release-1.4-export/source/livedesk/beetles/C_Source/protobuf/CarlifeMusicInit.pb-c.c
+CarlifeMusicInit
+sampleRate
+channelConfig
+sampleFormat
+/home/wching/Documents/LiTianTai-F133AW-3026/melis-4.x-release-1.4-export/source/livedesk/beetles/C_Source/protobuf/CarlifeNaviNextTurnInfoProto.pb-c.c
+CarlifeNaviNextTurnInfo
+action
+nextTurn
+roadName
+totalDistance
+remainDistance
+turnIconData
+/home/wching/Documents/LiTianTai-F133AW-3026/melis-4.x-release-1.4-export/source/livedesk/beetles/C_Source/protobuf/CarlifeProtocolVersion.pb-c.c
+CarlifeProtocolVersion
+majorVersion
+minorVersion
+/home/wching/Documents/LiTianTai-F133AW-3026/melis-4.x-release-1.4-export/source/livedesk/beetles/C_Source/protobuf/CarlifeProtocolVersionMatchStatus.pb-c.c
+CarlifeProtocolVersionMatchStatus
+matchStatus
+carlifeProtocolVersion
+/home/wching/Documents/LiTianTai-F133AW-3026/melis-4.x-release-1.4-export/source/livedesk/beetles/C_Source/protobuf/CarlifeStatisticsInfo.pb-c.c
+CarlifeStatisticsInfo
+versionName
+versionCode
+channel
+connectCount
+connectSuccessCount
+connectTime
+crashLog
+CarlifeSubscribeMobileCarLifeInfo
+supportFlag
+frequency
+/home/wching/Documents/LiTianTai-F133AW-3026/melis-4.x-release-1.4-export/source/livedesk/beetles/C_Source/protobuf/CarlifeSubscribeMobileCarLifeInfoList.pb-c.c
+CarlifeSubscribeMobileCarLifeInfoList
+subscribemobileCarLifeInfo
+/home/wching/Documents/LiTianTai-F133AW-3026/melis-4.x-release-1.4-export/source/livedesk/beetles/C_Source/protobuf/CarlifeTTSInitProto.pb-c.c
+CarlifeTTSInit
+/home/wching/Documents/LiTianTai-F133AW-3026/melis-4.x-release-1.4-export/source/livedesk/beetles/C_Source/protobuf/CarlifeTouchAction.pb-c.c
+CarlifeTouchAction
+pointerx
+pointery
+/home/wching/Documents/LiTianTai-F133AW-3026/melis-4.x-release-1.4-export/source/livedesk/beetles/C_Source/protobuf/CarlifeVehicleActiveDoneProto.pb-c.c
+CarlifeVehicleActiveDone
+activeResult
+vehicle_id
+/home/wching/Documents/LiTianTai-F133AW-3026/melis-4.x-release-1.4-export/source/livedesk/beetles/C_Source/protobuf/CarlifeVehicleActiveInfoProto.pb-c.c
+CarlifeVehicleActiveInfo
+only_check_uuid
+/home/wching/Documents/LiTianTai-F133AW-3026/melis-4.x-release-1.4-export/source/livedesk/beetles/C_Source/protobuf/CarlifeVehicleCertificateProto.pb-c.c
+CarlifeVehicleCertificate
+certificate
+/home/wching/Documents/LiTianTai-F133AW-3026/melis-4.x-release-1.4-export/source/livedesk/beetles/C_Source/protobuf/CarlifeVehicleInfoListProto.pb-c.c
+CarlifeVehicleInfoList
+vehicleInfo
+/home/wching/Documents/LiTianTai-F133AW-3026/melis-4.x-release-1.4-export/source/livedesk/beetles/C_Source/protobuf/CarlifeVehicleInfoProto.pb-c.c
+CarlifeVehicleInfo
+/home/wching/Documents/LiTianTai-F133AW-3026/melis-4.x-release-1.4-export/source/livedesk/beetles/C_Source/protobuf/CarlifeVideoEncoderInfo.pb-c.c
+CarlifeVideoEncoderInfo
+width
+height
+frameRate
+127.0.0.1
+ConnectManager,connMage: %p, cmdSocket: %p,socket: %p,  m_sock:%d
+ConnectManager_readCmdData, cmdSocket is null
+ConnectManager_readCmdData, cmdSocket.recv is failed
+ConnectManager_readMediaData, mediaSocket is null
+ConnectManager_readMediaData, mediaSocket.recv is failed
+ConnectManager_readTTSData, ttsSocket is null
+ConnectManager_readTTSData, ttsSocket.recv is failed
+ConnectManager_readVRData, vrSocket is null
+ConnectManager_readVRData, vrSocket.recv is failed
+ConnectManager_readVideoData, videoSocket is null
+ConnectManager_readVideoData, videoSocket.recv is failed.
+ConnectManager_writeCmdData, cmdSocket is null
+ConnectManager,connMage: %p, cmdSocket: %p,socket: %p,  m_sock:%d
+ConnectManager_writeCmdData, len=%d
+ConnectManager_writeCmdData, cmdSocket.send is failed.
+ConnectManager_writeCtrlData, ctrlSocket is null
+ConnectManager_writeCtrlData, ctrlSocket.send is failed
+ConnectManager_writeVRData, vrSocket is null
+ConnectManager_writeVRData, vrSocket.send is failed
+ConnectManager_writeVideoData, cmdSocket is null
+ConnectManager_writeVideoData, videoSocket.send is failed
+SocketConnector closeToServer.
+Failed to closeToServer.
+Success to closeToServer.
+Success to socket close.
+Failed to socket close.
+SocketConnector connectToServer.
+Failed to connectToServer.
+Success to connectToServer.
+Success to socket create.
+Success to socket connect.m_sock:%d
+Failed to socket connect.
+Failed to socket create.
+SocketConnector create_SocketConnector, end
+socket is invalid
+connect. m_sock=%d, status=%d 
+socket_recv
+socket_recv, self != NULL
+socket_recv, self->m_sock >= 0
+self: %p, len: %zu
+socket_send
+/home/wching/Documents/LiTianTai-F133AW-3026/melis-4.x-release-1.4-export/source/livedesk/beetles/C_Source/utility/SocketV4.c
+socket_send, self != NULL
+socket_send, buf != NULL
+socket_send, self->m_sock >= 0
+self: %p, buf: %p, len: %zu
+self->m_sock: %d
+/home/wching/Documents/LiTianTai-F133AW-3026/melis-4.x-release-1.4-export/source/livedesk/beetles/C_Source/protobuf-c/protobuf-c.c
+1234567890
+21560002
+carplay_wifi
+ePDK.mod
+MELIS_MOD
+.text
+.rodata
+.data
+.shstrtab
+MAGIC
