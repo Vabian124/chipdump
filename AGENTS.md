@@ -50,6 +50,20 @@ DT="$HOME/.local/melis-tools/bin/dump_tool"
 
 ### How to validate changes (no test suite)
 
-- Verify image sizes are `16777216` bytes and SHA256 against `CHECKSUMS.txt`.
-- Round-trip check: `extract` a packed image and confirm edited files (e.g. `res/stamovie.mp4`)
-  come back byte-identical.
+- Run the cross-platform proof: `python3 scripts/verify_roundtrip.py`. One script, no separate
+  Linux/Windows variants — it auto-detects a `dump_tool` (native binary on Linux/WSL/macOS/Windows,
+  or the vendored `dump_tool.exe` via Wine on Linux) and checks image checksums, the splice
+  reproduction of `chipdump.modified.bin`, and a full edit -> pack -> splice -> extract round trip.
+  Force a specific backend with `--dump-tool <path>`. Exit code 0 == all checks passed.
+- Manual equivalents: verify image sizes are `16777216` bytes and SHA256 against `CHECKSUMS.txt`;
+  `extract` a packed image and confirm edited files (e.g. `res/stamovie.mp4`) come back byte-identical.
+
+### Windows-binary proof under Wine (optional, Linux VM)
+
+The vendored `dump_tool.exe` runs under Wine on this Linux VM and produces **byte-identical** MinFS
+output to the native Linux `dump_tool`. Wine is **not** part of the standard dev loop (the update
+script only installs the native Linux tool). To reproduce the Windows-binary proof: install
+`wine64` (`sudo apt-get install -y --no-install-recommends wine64`), then
+`python3 scripts/verify_roundtrip.py --dump-tool melis-tools/melis-tools-windows-x86_64/bin/dump_tool.exe`.
+Invoke Wine via its real loader path (e.g. `/usr/lib/wine/wine64`), not a bare `wine` symlink — a
+symlink breaks Wine's loader discovery (`could not exec the wine loader`).
