@@ -29,6 +29,7 @@ only way to produce a flashable, modified image, and it is demonstrated to work.
 
 | Path | What it is |
 |------|-----------|
+| `PLATFORM.md` | Target SoC/board reference (F133-B, DDR2, Wi-Fi/BT), cross-checked vs the dump |
 | `INVENTORY.md` | Every file in `bootA` + all `.mod`/`.exe` with size, type, sha256 |
 | `binwalk_chipdump.txt` | `binwalk` signature scan of the full 16 MiB image |
 | `kernel/epos.img.info.md` | Kernel header/marker analysis (OpenSBI, CHKv1.0) |
